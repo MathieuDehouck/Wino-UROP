@@ -16,3 +16,4 @@ Première séance :
 
 Jeudi 12/12:
 Deuxième séance :
+- Apprentissage de git
