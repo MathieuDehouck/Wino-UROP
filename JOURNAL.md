@@ -13,3 +13,6 @@ Première séance :
 - Récupération des données Winogrande de Sakaguchi et al. (https://winogrande.allenai.org);
 - Mise en place d'un Git;
 - Premier script de mesure de statistiques.
+
+Jeudi 12/12:
+Deuxième séance :
