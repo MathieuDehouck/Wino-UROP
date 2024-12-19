@@ -1,5 +1,5 @@
 faire une fonction qui cherche le nombre de mots en communs entre deux phrases
 
-fonction qui compte le nombre de doublons
+
 
 faire un dataframe qui donne les phrases en fonction des paires (special/alternate) impliquées
