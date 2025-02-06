@@ -1,0 +1,8653 @@
+Source,Target,Weight
+empty,bowl,13
+bowl,empty,13
+empty,pan,13
+pan,empty,13
+full,bowl,13
+bowl,full,13
+full,pan,13
+pan,full,13
+old,carpet,12
+carpet,old,12
+old,hardwood,12
+hardwood,old,12
+trendy,carpet,12
+carpet,trendy,12
+trendy,hardwood,12
+hardwood,trendy,12
+stable,metal,11
+metal,stable,11
+stable,wood,11
+wood,stable,11
+unstable,metal,11
+metal,unstable,11
+unstable,wood,11
+wood,unstable,11
+empty,bag,10
+bag,empty,10
+empty,bowl,10
+bowl,empty,10
+full,bag,10
+bag,full,10
+full,bowl,10
+bowl,full,10
+empty,bowl,7
+bowl,empty,7
+empty,cup,7
+cup,empty,7
+full,bowl,7
+bowl,full,7
+full,cup,7
+cup,full,7
+empty,bottle,6
+bottle,empty,6
+empty,cup,6
+cup,empty,6
+full,bottle,6
+bottle,full,6
+full,cup,6
+cup,full,6
+large,plant,5
+plant,large,5
+large,pot,5
+pot,large,5
+small,plant,5
+plant,small,5
+small,pot,5
+pot,small,5
+big,car,5
+car,big,5
+big,garage,5
+garage,big,5
+small,car,5
+car,small,5
+small,garage,5
+garage,small,5
+large,bed,5
+bed,large,5
+large,room,5
+room,large,5
+small,bed,5
+bed,small,5
+small,room,5
+room,small,5
+long,speech,4
+speech,long,4
+long,time,4
+time,long,4
+short,speech,4
+speech,short,4
+short,time,4
+time,short,4
+empty,bottle,4
+bottle,empty,4
+empty,glass,4
+glass,empty,4
+full,bottle,4
+bottle,full,4
+full,glass,4
+glass,full,4
+large,closets,4
+closets,large,4
+large,clothes,4
+clothes,large,4
+small,closets,4
+closets,small,4
+small,clothes,4
+clothes,small,4
+cold,tea,4
+tea,cold,4
+cold,water,4
+water,cold,4
+hot,tea,4
+tea,hot,4
+hot,water,4
+water,hot,4
+empty,bottle,4
+bottle,empty,4
+empty,pan,4
+pan,empty,4
+full,bottle,4
+bottle,full,4
+full,pan,4
+pan,full,4
+old,carpet,4
+carpet,old,4
+old,concrete,4
+concrete,old,4
+trendy,carpet,4
+carpet,trendy,4
+trendy,concrete,4
+concrete,trendy,4
+hated,Elena,3
+Elena,hated,3
+hated,Megan,3
+Megan,hated,3
+loved,Elena,3
+Elena,loved,3
+loved,Megan,3
+Megan,loved,3
+less,cake,3
+cake,less,3
+less,pie,3
+pie,less,3
+more,cake,3
+cake,more,3
+more,pie,3
+pie,more,3
+narrow,backpack,3
+backpack,narrow,3
+narrow,book,3
+book,narrow,3
+wide,backpack,3
+backpack,wide,3
+wide,book,3
+book,wide,3
+empty,bag,3
+bag,empty,3
+empty,pot,3
+pot,empty,3
+full,bag,3
+bag,full,3
+full,pot,3
+pot,full,3
+empty,cup,3
+cup,empty,3
+empty,pan,3
+pan,empty,3
+full,cup,3
+cup,full,3
+full,pan,3
+pan,full,3
+old,carpet,3
+carpet,old,3
+old,wood,3
+wood,old,3
+trendy,carpet,3
+carpet,trendy,3
+trendy,wood,3
+wood,trendy,3
+big,tree,3
+tree,big,3
+big,yard,3
+yard,big,3
+small,tree,3
+tree,small,3
+small,yard,3
+yard,small,3
+big,glove,3
+glove,big,3
+big,hand,3
+hand,big,3
+small,glove,3
+glove,small,3
+small,hand,3
+hand,small,3
+less,Emily,3
+Emily,less,3
+less,Felicia,3
+Felicia,less,3
+more,Emily,3
+Emily,more,3
+more,Felicia,3
+Felicia,more,3
+because,Angela,3
+Angela,because,3
+because,Betty,3
+Betty,because,3
+but,Angela,3
+Angela,but,3
+but,Betty,3
+Betty,but,3
+less,Jason,3
+Jason,less,3
+less,William,3
+William,less,3
+more,Jason,3
+Jason,more,3
+more,William,3
+William,more,3
+although,Rebecca,3
+Rebecca,although,3
+although,Sarah,3
+Sarah,although,3
+because,Rebecca,3
+Rebecca,because,3
+because,Sarah,3
+Sarah,because,3
+empty,bowl,3
+bowl,empty,3
+empty,container,3
+container,empty,3
+full,bowl,3
+bowl,full,3
+full,container,3
+container,full,3
+less,bathroom,3
+bathroom,less,3
+less,bedroom,3
+bedroom,less,3
+more,bathroom,3
+bathroom,more,3
+more,bedroom,3
+bedroom,more,3
+clear,glass,3
+glass,clear,3
+clear,plastic,3
+plastic,clear,3
+obscure,glass,3
+glass,obscure,3
+obscure,plastic,3
+plastic,obscure,3
+big,case,3
+case,big,3
+big,guitar,3
+guitar,big,3
+small,case,3
+case,small,3
+small,guitar,3
+guitar,small,3
+big,bottle,3
+bottle,big,3
+big,cup,3
+cup,big,3
+small,bottle,3
+bottle,small,3
+small,cup,3
+cup,small,3
+because,Mary,3
+Mary,because,3
+because,Rebecca,3
+Rebecca,because,3
+but,Mary,3
+Mary,but,3
+but,Rebecca,3
+Rebecca,but,3
+empty,box,3
+box,empty,3
+empty,pan,3
+pan,empty,3
+full,box,3
+box,full,3
+full,pan,3
+pan,full,3
+less,Katrina,3
+Katrina,less,3
+less,Samantha,3
+Samantha,less,3
+more,Katrina,3
+Katrina,more,3
+more,Samantha,3
+Samantha,more,3
+old,chair,3
+chair,old,3
+old,yoga ball,3
+yoga ball,old,3
+trendy,chair,3
+chair,trendy,3
+trendy,yoga ball,3
+yoga ball,trendy,3
+less,Jessica,3
+Jessica,less,3
+less,Tanya,3
+Tanya,less,3
+more,Jessica,3
+Jessica,more,3
+more,Tanya,3
+Tanya,more,3
+less,Betty,3
+Betty,less,3
+less,Rebecca,3
+Rebecca,less,3
+more,Betty,3
+Betty,more,3
+more,Rebecca,3
+Rebecca,more,3
+shorter,fence,3
+fence,shorter,3
+shorter,tree,3
+tree,shorter,3
+taller,fence,3
+fence,taller,3
+taller,tree,3
+tree,taller,3
+less,cat,3
+cat,less,3
+less,dog,3
+dog,less,3
+more,cat,3
+cat,more,3
+more,dog,3
+dog,more,3
+heavy,bag,3
+bag,heavy,3
+heavy,box,3
+box,heavy,3
+light,bag,3
+bag,light,3
+light,box,3
+box,light,3
+better,diner,3
+diner,better,3
+better,restaurant,3
+restaurant,better,3
+worse,diner,3
+diner,worse,3
+worse,restaurant,3
+restaurant,worse,3
+less,Elena,2
+Elena,less,2
+less,Megan,2
+Megan,less,2
+more,Elena,2
+Elena,more,2
+more,Megan,2
+Megan,more,2
+always,Megan,2
+Megan,always,2
+always,Patricia,2
+Patricia,always,2
+never,Megan,2
+Megan,never,2
+never,Patricia,2
+Patricia,never,2
+large,folder,2
+folder,large,2
+large,portfolio,2
+portfolio,large,2
+small,folder,2
+folder,small,2
+small,portfolio,2
+portfolio,small,2
+strong,tree,2
+tree,strong,2
+strong,wind,2
+wind,strong,2
+weak,tree,2
+tree,weak,2
+weak,wind,2
+wind,weak,2
+faster,plane,2
+plane,faster,2
+faster,train,2
+train,faster,2
+slower,plane,2
+plane,slower,2
+slower,train,2
+train,slower,2
+less,bed,2
+bed,less,2
+less,sofa,2
+sofa,less,2
+more,bed,2
+bed,more,2
+more,sofa,2
+sofa,more,2
+boring,knives,2
+knives,boring,2
+boring,torches,2
+torches,boring,2
+dramatic,knives,2
+knives,dramatic,2
+dramatic,torches,2
+torches,dramatic,2
+large,beef,2
+beef,large,2
+large,freezer,2
+freezer,large,2
+small,beef,2
+beef,small,2
+small,freezer,2
+freezer,small,2
+less,Emily,2
+Emily,less,2
+less,Jennifer,2
+Jennifer,less,2
+more,Emily,2
+Emily,more,2
+more,Jennifer,2
+Jennifer,more,2
+less,Brian,2
+Brian,less,2
+less,Michael,2
+Michael,less,2
+more,Brian,2
+Brian,more,2
+more,Michael,2
+Michael,more,2
+did not have,Brian,2
+Brian,did not have,2
+did not have,Matthew,2
+Matthew,did not have,2
+had,Brian,2
+Brian,had,2
+had,Matthew,2
+Matthew,had,2
+always,Jessica,2
+Jessica,always,2
+always,Rebecca,2
+Rebecca,always,2
+never,Jessica,2
+Jessica,never,2
+never,Rebecca,2
+Rebecca,never,2
+hated,Kayla,2
+Kayla,hated,2
+hated,Maria,2
+Maria,hated,2
+loved,Kayla,2
+Kayla,loved,2
+loved,Maria,2
+Maria,loved,2
+hated,Laura,2
+Laura,hated,2
+hated,Megan,2
+Megan,hated,2
+loved,Laura,2
+Laura,loved,2
+loved,Megan,2
+Megan,loved,2
+empty,container,2
+container,empty,2
+empty,tank,2
+tank,empty,2
+full,container,2
+container,full,2
+full,tank,2
+tank,full,2
+difficult,job,2
+job,difficult,2
+difficult,work,2
+work,difficult,2
+easy,job,2
+job,easy,2
+easy,work,2
+work,easy,2
+long,book,2
+book,long,2
+long,break,2
+break,long,2
+short,book,2
+book,short,2
+short,break,2
+break,short,2
+big,bark,2
+bark,big,2
+big,powder,2
+powder,big,2
+chunky,bark,2
+bark,chunky,2
+chunky,powder,2
+powder,chunky,2
+fine,bark,2
+bark,fine,2
+fine,powder,2
+powder,fine,2
+grainy,bark,2
+bark,grainy,2
+grainy,powder,2
+powder,grainy,2
+hates,Jason,2
+Jason,hates,2
+hates,Jeffrey,2
+Jeffrey,hates,2
+loves,Jason,2
+Jason,loves,2
+loves,Jeffrey,2
+Jeffrey,loves,2
+empty,bottle,2
+bottle,empty,2
+empty,flask,2
+flask,empty,2
+full,bottle,2
+bottle,full,2
+full,flask,2
+flask,full,2
+less,Mary,2
+Mary,less,2
+less,Rebecca,2
+Rebecca,less,2
+more,Mary,2
+Mary,more,2
+more,Rebecca,2
+Rebecca,more,2
+better,potatoes,2
+potatoes,better,2
+better,tomatoes,2
+tomatoes,better,2
+worse,potatoes,2
+potatoes,worse,2
+worse,tomatoes,2
+tomatoes,worse,2
+faster,bus,2
+bus,faster,2
+faster,plane,2
+plane,faster,2
+slower,bus,2
+bus,slower,2
+slower,plane,2
+plane,slower,2
+less,books,2
+books,less,2
+less,movies,2
+movies,less,2
+more,books,2
+books,more,2
+more,movies,2
+movies,more,2
+although,Christopher,2
+Christopher,although,2
+although,Michael,2
+Michael,although,2
+because,Christopher,2
+Christopher,because,2
+because,Michael,2
+Michael,because,2
+less,Christopher,2
+Christopher,less,2
+less,Jeffrey,2
+Jeffrey,less,2
+more,Christopher,2
+Christopher,more,2
+more,Jeffrey,2
+Jeffrey,more,2
+risky,bonds,2
+bonds,risky,2
+risky,stocks,2
+stocks,risky,2
+safe,bonds,2
+bonds,safe,2
+safe,stocks,2
+stocks,safe,2
+high,bridge,2
+bridge,high,2
+high,road,2
+road,high,2
+low,bridge,2
+bridge,low,2
+low,road,2
+road,low,2
+older,Jennifer,2
+Jennifer,older,2
+older,Sarah,2
+Sarah,older,2
+younger,Jennifer,2
+Jennifer,younger,2
+younger,Sarah,2
+Sarah,younger,2
+big,curtain,2
+curtain,big,2
+big,window,2
+window,big,2
+small,curtain,2
+curtain,small,2
+small,window,2
+window,small,2
+less,Angela,2
+Angela,less,2
+less,Maria,2
+Maria,less,2
+more,Angela,2
+Angela,more,2
+more,Maria,2
+Maria,more,2
+better,Kenneth,2
+Kenneth,better,2
+better,Lawrence,2
+Lawrence,better,2
+worse,Kenneth,2
+Kenneth,worse,2
+worse,Lawrence,2
+Lawrence,worse,2
+hates,Emily,2
+Emily,hates,2
+hates,Mary,2
+Mary,hates,2
+loves,Emily,2
+Emily,loves,2
+loves,Mary,2
+Mary,loves,2
+because,Benjamin,2
+Benjamin,because,2
+because,Hunter,2
+Hunter,because,2
+but,Benjamin,2
+Benjamin,but,2
+but,Hunter,2
+Hunter,but,2
+boring,book,2
+book,boring,2
+boring,magazine,2
+magazine,boring,2
+interesting,book,2
+book,interesting,2
+interesting,magazine,2
+magazine,interesting,2
+old,ball,2
+ball,old,2
+old,chair,2
+chair,old,2
+trendy,ball,2
+ball,trendy,2
+trendy,chair,2
+chair,trendy,2
+close,church,2
+church,close,2
+close,school,2
+school,close,2
+far,church,2
+church,far,2
+far,school,2
+school,far,2
+easier,flute,2
+flute,easier,2
+easier,violin,2
+violin,easier,2
+harder,flute,2
+flute,harder,2
+harder,violin,2
+violin,harder,2
+modern,linoleum,2
+linoleum,modern,2
+modern,tile,2
+tile,modern,2
+old,linoleum,2
+linoleum,old,2
+old,tile,2
+tile,old,2
+faster,email,2
+email,faster,2
+faster,letter,2
+letter,faster,2
+slower,email,2
+email,slower,2
+slower,letter,2
+letter,slower,2
+did not have,Natalie,2
+Natalie,did not have,2
+did not have,Rachel,2
+Rachel,did not have,2
+had,Natalie,2
+Natalie,had,2
+had,Rachel,2
+Rachel,had,2
+always,Megan,2
+Megan,always,2
+always,Sarah,2
+Sarah,always,2
+never,Megan,2
+Megan,never,2
+never,Sarah,2
+Sarah,never,2
+boring,concert,2
+concert,boring,2
+boring,movie,2
+movie,boring,2
+exciting,concert,2
+concert,exciting,2
+exciting,movie,2
+movie,exciting,2
+empty,box,2
+box,empty,2
+empty,jar,2
+jar,empty,2
+full,box,2
+box,full,2
+full,jar,2
+jar,full,2
+less,Kayla,2
+Kayla,less,2
+less,Rachel,2
+Rachel,less,2
+more,Kayla,2
+Kayla,more,2
+more,Rachel,2
+Rachel,more,2
+light,blanket,2
+blanket,light,2
+light,jacket,2
+jacket,light,2
+thick,blanket,2
+blanket,thick,2
+thick,jacket,2
+jacket,thick,2
+dry,Christine,2
+Christine,dry,2
+dry,Monica,2
+Monica,dry,2
+oily,Christine,2
+Christine,oily,2
+oily,Monica,2
+Monica,oily,2
+less,Craig,2
+Craig,less,2
+less,Nick,2
+Nick,less,2
+more,Craig,2
+Craig,more,2
+more,Nick,2
+Nick,more,2
+strong,light,2
+light,strong,2
+strong,wind,2
+wind,strong,2
+weak,light,2
+light,weak,2
+weak,wind,2
+wind,weak,2
+always,Adam,2
+Adam,always,2
+always,Michael,2
+Michael,always,2
+never,Adam,2
+Adam,never,2
+never,Michael,2
+Michael,never,2
+better,Cynthia,2
+Cynthia,better,2
+better,Laura,2
+Laura,better,2
+worse,Cynthia,2
+Cynthia,worse,2
+worse,Laura,2
+Laura,worse,2
+good,Logan,2
+Logan,good,2
+good,Matthew,2
+Matthew,good,2
+poor,Logan,2
+Logan,poor,2
+poor,Matthew,2
+Matthew,poor,2
+less,Felicia,2
+Felicia,less,2
+less,Tanya,2
+Tanya,less,2
+more,Felicia,2
+Felicia,more,2
+more,Tanya,2
+Tanya,more,2
+always,Joseph,2
+Joseph,always,2
+always,Robert,2
+Robert,always,2
+never,Joseph,2
+Joseph,never,2
+never,Robert,2
+Robert,never,2
+always,Lindsey,2
+Lindsey,always,2
+always,Maria,2
+Maria,always,2
+never,Lindsey,2
+Lindsey,never,2
+never,Maria,2
+Maria,never,2
+less,Joel,2
+Joel,less,2
+less,Ryan,2
+Ryan,less,2
+more,Joel,2
+Joel,more,2
+more,Ryan,2
+Ryan,more,2
+short,fence,2
+fence,short,2
+short,table,2
+table,short,2
+tall,fence,2
+fence,tall,2
+tall,table,2
+table,tall,2
+careful,Jessica,2
+Jessica,careful,2
+careful,Mary,2
+Mary,careful,2
+careless,Jessica,2
+Jessica,careless,2
+careless,Mary,2
+Mary,careless,2
+strong,grip,2
+grip,strong,2
+strong,shot,2
+shot,strong,2
+weak,grip,2
+grip,weak,2
+weak,shot,2
+shot,weak,2
+cold,summer,2
+summer,cold,2
+cold,winter,2
+winter,cold,2
+hot,summer,2
+summer,hot,2
+hot,winter,2
+winter,hot,2
+better,Kayla,2
+Kayla,better,2
+better,Victoria,2
+Victoria,better,2
+worse,Kayla,2
+Kayla,worse,2
+worse,Victoria,2
+Victoria,worse,2
+bad,Patricia,2
+Patricia,bad,2
+bad,Rachel,2
+Rachel,bad,2
+good,Patricia,2
+Patricia,good,2
+good,Rachel,2
+Rachel,good,2
+difficult,time,2
+time,difficult,2
+difficult,topic,2
+topic,difficult,2
+short,time,2
+time,short,2
+short,topic,2
+topic,short,2
+early,cab,2
+cab,early,2
+early,train,2
+train,early,2
+late,cab,2
+cab,late,2
+late,train,2
+train,late,2
+large,bag,2
+bag,large,2
+large,ball,2
+ball,large,2
+small,bag,2
+bag,small,2
+small,ball,2
+ball,small,2
+never,Emily,2
+Emily,never,2
+never,Felicia,2
+Felicia,never,2
+often,Emily,2
+Emily,often,2
+often,Felicia,2
+Felicia,often,2
+less,Ian,2
+Ian,less,2
+less,Kyle,2
+Kyle,less,2
+more,Ian,2
+Ian,more,2
+more,Kyle,2
+Kyle,more,2
+earlier,diner,2
+diner,earlier,2
+earlier,restaurant,2
+restaurant,earlier,2
+later,diner,2
+diner,later,2
+later,restaurant,2
+restaurant,later,2
+less,Betty,2
+Betty,less,2
+less,Felicia,2
+Felicia,less,2
+more,Betty,2
+Betty,more,2
+more,Felicia,2
+Felicia,more,2
+less,Betty,2
+Betty,less,2
+less,Jessica,2
+Jessica,less,2
+more,Betty,2
+Betty,more,2
+more,Jessica,2
+Jessica,more,2
+large,bottle,2
+bottle,large,2
+large,cup,2
+cup,large,2
+small,bottle,2
+bottle,small,2
+small,cup,2
+cup,small,2
+hated,Joel,2
+Joel,hated,2
+hated,Matthew,2
+Matthew,hated,2
+loved,Joel,2
+Joel,loved,2
+loved,Matthew,2
+Matthew,loved,2
+although,Derrick,2
+Derrick,although,2
+although,Leslie,2
+Leslie,although,2
+because,Derrick,2
+Derrick,because,2
+because,Leslie,2
+Leslie,because,2
+faster,bus,2
+bus,faster,2
+faster,car,2
+car,faster,2
+slower,bus,2
+bus,slower,2
+slower,car,2
+car,slower,2
+better,Laura,2
+Laura,better,2
+better,Lindsey,2
+Lindsey,better,2
+worse,Laura,2
+Laura,worse,2
+worse,Lindsey,2
+Lindsey,worse,2
+longer,Jeffrey,2
+Jeffrey,longer,2
+longer,Leslie,2
+Leslie,longer,2
+shorter,Jeffrey,2
+Jeffrey,shorter,2
+shorter,Leslie,2
+Leslie,shorter,2
+because,Kevin,2
+Kevin,because,2
+because,Ryan,2
+Ryan,because,2
+even though,Kevin,2
+Kevin,even though,2
+even though,Ryan,2
+Ryan,even though,2
+free of,bank,2
+bank,free of,2
+free of,brokerage,2
+brokerage,free of,2
+mired in,bank,2
+bank,mired in,2
+mired in,brokerage,2
+brokerage,mired in,2
+easier,heels,2
+heels,easier,2
+easier,sneakers,2
+sneakers,easier,2
+harder,heels,2
+heels,harder,2
+harder,sneakers,2
+sneakers,harder,2
+large,body,2
+body,large,2
+large,casket,2
+casket,large,2
+small,body,2
+body,small,2
+small,casket,2
+casket,small,2
+faster,calculator,2
+calculator,faster,2
+faster,computer,2
+computer,faster,2
+slower,calculator,2
+calculator,slower,2
+slower,computer,2
+computer,slower,2
+always,Kenneth,2
+Kenneth,always,2
+always,Kyle,2
+Kyle,always,2
+never,Kenneth,2
+Kenneth,never,2
+never,Kyle,2
+Kyle,never,2
+thick,hair,2
+hair,thick,2
+thick,ribbon,2
+ribbon,thick,2
+thin,hair,2
+hair,thin,2
+thin,ribbon,2
+ribbon,thin,2
+newer,car,2
+car,newer,2
+newer,truck,2
+truck,newer,2
+older,car,2
+car,older,2
+older,truck,2
+truck,older,2
+big,bed,2
+bed,big,2
+big,room,2
+room,big,2
+small,bed,2
+bed,small,2
+small,room,2
+room,small,2
+clean,car,2
+car,clean,2
+clean,towel,2
+towel,clean,2
+dirty,car,2
+car,dirty,2
+dirty,towel,2
+towel,dirty,2
+better,Jessica,2
+Jessica,better,2
+better,Tanya,2
+Tanya,better,2
+poorer,Jessica,2
+Jessica,poorer,2
+poorer,Tanya,2
+Tanya,poorer,2
+long,list,2
+list,long,2
+long,sheet,2
+sheet,long,2
+short,list,2
+list,short,2
+short,sheet,2
+sheet,short,2
+big,finger,2
+finger,big,2
+big,ring,2
+ring,big,2
+small,finger,2
+finger,small,2
+small,ring,2
+ring,small,2
+less,Amy,2
+Amy,less,2
+less,Felicia,2
+Felicia,less,2
+more,Amy,2
+Amy,more,2
+more,Felicia,2
+Felicia,more,2
+easier,pen,2
+pen,easier,2
+easier,pencil,2
+pencil,easier,2
+harder,pen,2
+pen,harder,2
+harder,pencil,2
+pencil,harder,2
+better,Christopher,2
+Christopher,better,2
+better,Donald,2
+Donald,better,2
+worse,Christopher,2
+Christopher,worse,2
+worse,Donald,2
+Donald,worse,2
+less,Emily,2
+Emily,less,2
+less,Natalie,2
+Natalie,less,2
+more,Emily,2
+Emily,more,2
+more,Natalie,2
+Natalie,more,2
+a hard,Katrina,2
+Katrina,a hard,2
+a hard,Sarah,2
+Sarah,a hard,2
+an easy,Katrina,2
+Katrina,an easy,2
+an easy,Sarah,2
+Sarah,an easy,2
+less,arms,2
+arms,less,2
+less,legs,2
+legs,less,2
+more,arms,2
+arms,more,2
+more,legs,2
+legs,more,2
+less,Lindsey,2
+Lindsey,less,2
+less,Mary,2
+Mary,less,2
+more,Lindsey,2
+Lindsey,more,2
+more,Mary,2
+Mary,more,2
+heavy,flag,2
+flag,heavy,2
+heavy,wind,2
+wind,heavy,2
+light,flag,2
+flag,light,2
+light,wind,2
+wind,light,2
+did not have,Jennifer,2
+Jennifer,did not have,2
+did not have,Natalie,2
+Natalie,did not have,2
+had,Jennifer,2
+Jennifer,had,2
+had,Natalie,2
+Natalie,had,2
+big,car,2
+car,big,2
+big,garage,2
+garage,big,2
+full,car,2
+car,full,2
+full,garage,2
+garage,full,2
+always,Hunter,2
+Hunter,always,2
+always,Joseph,2
+Joseph,always,2
+never,Hunter,2
+Hunter,never,2
+never,Joseph,2
+Joseph,never,2
+less,car,2
+car,less,2
+less,plane,2
+plane,less,2
+more,car,2
+car,more,2
+more,plane,2
+plane,more,2
+high,cash,2
+cash,high,2
+high,price,2
+price,high,2
+low,cash,2
+cash,low,2
+low,price,2
+price,low,2
+bitter,coffee,2
+coffee,bitter,2
+bitter,tea,2
+tea,bitter,2
+sweet,coffee,2
+coffee,sweet,2
+sweet,tea,2
+tea,sweet,2
+asked for,Jeffrey,2
+Jeffrey,asked for,2
+asked for,Kevin,2
+Kevin,asked for,2
+offered,Jeffrey,2
+Jeffrey,offered,2
+offered,Kevin,2
+Kevin,offered,2
+big,cake,2
+cake,big,2
+big,plate,2
+plate,big,2
+small,cake,2
+cake,small,2
+small,plate,2
+plate,small,2
+strong,club,2
+club,strong,2
+strong,wall,2
+wall,strong,2
+weak,club,2
+club,weak,2
+weak,wall,2
+wall,weak,2
+large,envelope,2
+envelope,large,2
+large,letter,2
+letter,large,2
+small,envelope,2
+envelope,small,2
+small,letter,2
+letter,small,2
+faster,computer,2
+computer,faster,2
+faster,paper,2
+paper,faster,2
+slower,computer,2
+computer,slower,2
+slower,paper,2
+paper,slower,2
+the,computer,2
+computer,the,2
+the,paper,2
+paper,the,2
+harder,bed,2
+bed,harder,2
+harder,couch,2
+couch,harder,2
+softer,bed,2
+bed,softer,2
+softer,couch,2
+couch,softer,2
+less,golf ball,2
+golf ball,less,2
+less,tennis ball,2
+tennis ball,less,2
+more,golf ball,2
+golf ball,more,2
+more,tennis ball,2
+tennis ball,more,2
+cheap,bike,2
+bike,cheap,2
+cheap,car,2
+car,cheap,2
+expensive,bike,2
+bike,expensive,2
+expensive,car,2
+car,expensive,2
+less,Emily,2
+Emily,less,2
+less,Patricia,2
+Patricia,less,2
+more,Emily,2
+Emily,more,2
+more,Patricia,2
+Patricia,more,2
+poorer,Donald,2
+Donald,poorer,2
+poorer,Justin,2
+Justin,poorer,2
+richer,Donald,2
+Donald,richer,2
+richer,Justin,2
+Justin,richer,2
+long,book,2
+book,long,2
+long,magazine,2
+magazine,long,2
+short,book,2
+book,short,2
+short,magazine,2
+magazine,short,2
+big,game,2
+game,big,2
+big,table,2
+table,big,2
+small,game,2
+game,small,2
+small,table,2
+table,small,2
+although,Elena,2
+Elena,although,2
+although,Natalie,2
+Natalie,although,2
+because,Elena,2
+Elena,because,2
+because,Natalie,2
+Natalie,because,2
+large,backpack,2
+backpack,large,2
+large,book,2
+book,large,2
+small,backpack,2
+backpack,small,2
+small,book,2
+book,small,2
+always,Lawrence,2
+Lawrence,always,2
+always,Nelson,2
+Nelson,always,2
+never,Lawrence,2
+Lawrence,never,2
+never,Nelson,2
+Nelson,never,2
+hot,honey,2
+honey,hot,2
+hot,jar,2
+jar,hot,2
+small,honey,2
+honey,small,2
+small,jar,2
+jar,small,2
+bigger,aquarium,2
+aquarium,bigger,2
+bigger,tank,2
+tank,bigger,2
+smaller,aquarium,2
+aquarium,smaller,2
+smaller,tank,2
+tank,smaller,2
+although,Patricia,2
+Patricia,although,2
+although,Samantha,2
+Samantha,although,2
+because,Patricia,2
+Patricia,because,2
+because,Samantha,2
+Samantha,because,2
+less,Brett,2
+Brett,less,2
+less,Ian,2
+Ian,less,2
+more,Brett,2
+Brett,more,2
+more,Ian,2
+Ian,more,2
+less,Carrie,2
+Carrie,less,2
+less,Rebecca,2
+Rebecca,less,2
+more,Carrie,2
+Carrie,more,2
+more,Rebecca,2
+Rebecca,more,2
+hated,Erin,2
+Erin,hated,2
+hated,Jennifer,2
+Jennifer,hated,2
+loved,Erin,2
+Erin,loved,2
+loved,Jennifer,2
+Jennifer,loved,2
+easier,job,2
+job,easier,2
+easier,school,2
+school,easier,2
+harder,job,2
+job,harder,2
+harder,school,2
+school,harder,2
+large,car,2
+car,large,2
+large,garage,2
+garage,large,2
+small,car,2
+car,small,2
+small,garage,2
+garage,small,2
+large,list,2
+list,large,2
+large,purse,2
+purse,large,2
+small,list,2
+list,small,2
+small,purse,2
+purse,small,2
+big,couch,2
+couch,big,2
+big,living room,2
+living room,big,2
+small,couch,2
+couch,small,2
+small,living room,2
+living room,small,2
+did not have,Leslie,2
+Leslie,did not have,2
+did not have,Randy,2
+Randy,did not have,2
+had,Leslie,2
+Leslie,had,2
+had,Randy,2
+Randy,had,2
+less,Mary,2
+Mary,less,2
+less,Megan,2
+Megan,less,2
+more,Mary,2
+Mary,more,2
+more,Megan,2
+Megan,more,2
+hated,Leslie,2
+Leslie,hated,2
+hated,Matthew,2
+Matthew,hated,2
+loved,Leslie,2
+Leslie,loved,2
+loved,Matthew,2
+Matthew,loved,2
+narrow,backpack,2
+backpack,narrow,2
+narrow,mat,2
+mat,narrow,2
+wide,backpack,2
+backpack,wide,2
+wide,mat,2
+mat,wide,2
+less,Jessica,2
+Jessica,less,2
+less,Katrina,2
+Katrina,less,2
+more,Jessica,2
+Jessica,more,2
+more,Katrina,2
+Katrina,more,2
+student,Rachel,2
+Rachel,student,2
+student,Samantha,2
+Samantha,student,2
+teacher,Rachel,2
+Rachel,teacher,2
+teacher,Samantha,2
+Samantha,teacher,2
+embarrassed,Christine,2
+Christine,embarrassed,2
+embarrassed,Jessica,2
+Jessica,embarrassed,2
+supportive,Christine,2
+Christine,supportive,2
+supportive,Jessica,2
+Jessica,supportive,2
+cramped,box,2
+box,cramped,2
+cramped,cage,2
+cage,cramped,2
+spacious,box,2
+box,spacious,2
+spacious,cage,2
+cage,spacious,2
+colorful,carnations,2
+carnations,colorful,2
+colorful,roses,2
+roses,colorful,2
+dull,carnations,2
+carnations,dull,2
+dull,roses,2
+roses,dull,2
+large,flowers,2
+flowers,large,2
+large,pots,2
+pots,large,2
+small,flowers,2
+flowers,small,2
+small,pots,2
+pots,small,2
+long,script,2
+script,long,2
+long,time,2
+time,long,2
+short,script,2
+script,short,2
+short,time,2
+time,short,2
+ideal,garden,2
+garden,ideal,2
+ideal,greenhouse,2
+greenhouse,ideal,2
+poor,garden,2
+garden,poor,2
+poor,greenhouse,2
+greenhouse,poor,2
+empty,bowl,2
+bowl,empty,2
+empty,mouth,2
+mouth,empty,2
+full,bowl,2
+bowl,full,2
+full,mouth,2
+mouth,full,2
+because,Lawrence,2
+Lawrence,because,2
+because,Steven,2
+Steven,because,2
+but,Lawrence,2
+Lawrence,but,2
+but,Steven,2
+Steven,but,2
+close to,garage,2
+garage,close to,2
+close to,house,2
+house,close to,2
+far from,garage,2
+garage,far from,2
+far from,house,2
+house,far from,2
+less,Maria,2
+Maria,less,2
+less,Patricia,2
+Patricia,less,2
+more,Maria,2
+Maria,more,2
+more,Patricia,2
+Patricia,more,2
+because,Natalie,2
+Natalie,because,2
+because,Victoria,2
+Victoria,because,2
+but,Natalie,2
+Natalie,but,2
+but,Victoria,2
+Victoria,but,2
+less,Betty,2
+Betty,less,2
+less,Sarah,2
+Sarah,less,2
+more,Betty,2
+Betty,more,2
+more,Sarah,2
+Sarah,more,2
+faster,Elena,2
+Elena,faster,2
+faster,Monica,2
+Monica,faster,2
+slower,Elena,2
+Elena,slower,2
+slower,Monica,2
+Monica,slower,2
+less,Angela,2
+Angela,less,2
+less,Katrina,2
+Katrina,less,2
+more,Angela,2
+Angela,more,2
+more,Katrina,2
+Katrina,more,2
+far,bike,2
+bike,far,2
+far,job,2
+job,far,2
+old,bike,2
+bike,old,2
+old,job,2
+job,old,2
+less,book,2
+book,less,2
+less,magazine,2
+magazine,less,2
+more,book,2
+book,more,2
+more,magazine,2
+magazine,more,2
+less,Betty,2
+Betty,less,2
+less,Mary,2
+Mary,less,2
+more,Betty,2
+Betty,more,2
+more,Mary,2
+Mary,more,2
+large,paper,2
+paper,large,2
+large,plan,2
+plan,large,2
+small,paper,2
+paper,small,2
+small,plan,2
+plan,small,2
+abundant,garden,2
+garden,abundant,2
+abundant,pot,2
+pot,abundant,2
+lacking,garden,2
+garden,lacking,2
+lacking,pot,2
+pot,lacking,2
+forgotten,Amy,2
+Amy,forgotten,2
+forgotten,Christine,2
+Christine,forgotten,2
+remembered,Amy,2
+Amy,remembered,2
+remembered,Christine,2
+Christine,remembered,2
+narrow,door,2
+door,narrow,2
+narrow,table,2
+table,narrow,2
+wide,door,2
+door,wide,2
+wide,table,2
+table,wide,2
+hated,Adam,2
+Adam,hated,2
+hated,Craig,2
+Craig,hated,2
+loved,Adam,2
+Adam,loved,2
+loved,Craig,2
+Craig,loved,2
+always,Laura,2
+Laura,always,2
+always,Sarah,2
+Sarah,always,2
+never,Laura,2
+Laura,never,2
+never,Sarah,2
+Sarah,never,2
+clean,floor,2
+floor,clean,2
+clean,mop,2
+mop,clean,2
+dirty,floor,2
+floor,dirty,2
+dirty,mop,2
+mop,dirty,2
+empty,bag,2
+bag,empty,2
+empty,refrigerator,2
+refrigerator,empty,2
+full,bag,2
+bag,full,2
+full,refrigerator,2
+refrigerator,full,2
+less,Cynthia,2
+Cynthia,less,2
+less,Elena,2
+Elena,less,2
+more,Cynthia,2
+Cynthia,more,2
+more,Elena,2
+Elena,more,2
+strong,rain,2
+rain,strong,2
+strong,wind,2
+wind,strong,2
+weak,rain,2
+rain,weak,2
+weak,wind,2
+wind,weak,2
+new,oxford shirt,2
+oxford shirt,new,2
+new,tuxedo shirt,2
+tuxedo shirt,new,2
+old,oxford shirt,2
+oxford shirt,old,2
+old,tuxedo shirt,2
+tuxedo shirt,old,2
+new,SUV,2
+SUV,new,2
+new,sedan,2
+sedan,new,2
+old,SUV,2
+SUV,old,2
+old,sedan,2
+sedan,old,2
+less,arm,2
+arm,less,2
+less,leg,2
+leg,less,2
+more,arm,2
+arm,more,2
+more,leg,2
+leg,more,2
+less,Jessica,2
+Jessica,less,2
+less,Mary,2
+Mary,less,2
+more,Jessica,2
+Jessica,more,2
+more,Mary,2
+Mary,more,2
+less,dresses,2
+dresses,less,2
+less,pants,2
+pants,less,2
+more,dresses,2
+dresses,more,2
+more,pants,2
+pants,more,2
+large,envelope,2
+envelope,large,2
+large,money,2
+money,large,2
+small,envelope,2
+envelope,small,2
+small,money,2
+money,small,2
+did not like,Lawrence,2
+Lawrence,did not like,2
+did not like,Neil,2
+Neil,did not like,2
+liked,Lawrence,2
+Lawrence,liked,2
+liked,Neil,2
+Neil,liked,2
+less,chair,2
+chair,less,2
+less,sofa,2
+sofa,less,2
+more,chair,2
+chair,more,2
+more,sofa,2
+sofa,more,2
+empty,bottle,2
+bottle,empty,2
+empty,bowl,2
+bowl,empty,2
+full,bottle,2
+bottle,full,2
+full,bowl,2
+bowl,full,2
+less,Erin,2
+Erin,less,2
+less,Kayla,2
+Kayla,less,2
+more,Erin,2
+Erin,more,2
+more,Kayla,2
+Kayla,more,2
+casual,party,2
+party,casual,2
+casual,wedding,2
+wedding,casual,2
+formal,party,2
+party,formal,2
+formal,wedding,2
+wedding,formal,2
+high,flame,2
+flame,high,2
+high,pan,2
+pan,high,2
+low,flame,2
+flame,low,2
+low,pan,2
+pan,low,2
+better,Benjamin,2
+Benjamin,better,2
+better,Jason,2
+Jason,better,2
+worse,Benjamin,2
+Benjamin,worse,2
+worse,Jason,2
+Jason,worse,2
+although,Monica,2
+Monica,although,2
+although,Rebecca,2
+Rebecca,although,2
+because,Monica,2
+Monica,because,2
+because,Rebecca,2
+Rebecca,because,2
+bad,Natalie,2
+Natalie,bad,2
+bad,Patricia,2
+Patricia,bad,2
+good,Natalie,2
+Natalie,good,2
+good,Patricia,2
+Patricia,good,2
+student,Christine,2
+Christine,student,2
+student,Rebecca,2
+Rebecca,student,2
+teacher,Christine,2
+Christine,teacher,2
+teacher,Rebecca,2
+Rebecca,teacher,2
+fast,Michael,2
+Michael,fast,2
+fast,Randy,2
+Randy,fast,2
+slow,Michael,2
+Michael,slow,2
+slow,Randy,2
+Randy,slow,2
+although,Kenneth,2
+Kenneth,although,2
+although,Nelson,2
+Nelson,although,2
+because,Kenneth,2
+Kenneth,because,2
+because,Nelson,2
+Nelson,because,2
+big,bag,2
+bag,big,2
+big,ball,2
+ball,big,2
+small,bag,2
+bag,small,2
+small,ball,2
+ball,small,2
+less,Cynthia,2
+Cynthia,less,2
+less,Jennifer,2
+Jennifer,less,2
+more,Cynthia,2
+Cynthia,more,2
+more,Jennifer,2
+Jennifer,more,2
+less,Jessica,2
+Jessica,less,2
+less,Megan,2
+Megan,less,2
+more,Jessica,2
+Jessica,more,2
+more,Megan,2
+Megan,more,2
+less,apples,2
+apples,less,2
+less,bananas,2
+bananas,less,2
+more,apples,2
+apples,more,2
+more,bananas,2
+bananas,more,2
+although,Amy,2
+Amy,although,2
+although,Cynthia,2
+Cynthia,although,2
+because,Amy,2
+Amy,because,2
+because,Cynthia,2
+Cynthia,because,2
+never,Craig,2
+Craig,never,2
+never,Michael,2
+Michael,never,2
+often,Craig,2
+Craig,often,2
+often,Michael,2
+Michael,often,2
+empty,bag,2
+bag,empty,2
+empty,pan,2
+pan,empty,2
+full,bag,2
+bag,full,2
+full,pan,2
+pan,full,2
+lazy,Nelson,2
+Nelson,lazy,2
+lazy,Nick,2
+Nick,lazy,2
+studious,Nelson,2
+Nelson,studious,2
+studious,Nick,2
+Nick,studious,2
+always,Lawrence,2
+Lawrence,always,2
+always,Robert,2
+Robert,always,2
+never,Lawrence,2
+Lawrence,never,2
+never,Robert,2
+Robert,never,2
+hated,Katrina,2
+Katrina,hated,2
+hated,Victoria,2
+Victoria,hated,2
+loved,Katrina,2
+Katrina,loved,2
+loved,Victoria,2
+Victoria,loved,2
+bigger,cup,2
+cup,bigger,2
+bigger,jar,2
+jar,bigger,2
+smaller,cup,2
+cup,smaller,2
+smaller,jar,2
+jar,smaller,2
+empty,bowl,2
+bowl,empty,2
+empty,pot,2
+pot,empty,2
+full,bowl,2
+bowl,full,2
+full,pot,2
+pot,full,2
+because,Joseph,2
+Joseph,because,2
+because,Nick,2
+Nick,because,2
+but,Joseph,2
+Joseph,but,2
+but,Nick,2
+Nick,but,2
+empty,bag,2
+bag,empty,2
+empty,hole,2
+hole,empty,2
+full,bag,2
+bag,full,2
+full,hole,2
+hole,full,2
+less,Betty,2
+Betty,less,2
+less,Megan,2
+Megan,less,2
+more,Betty,2
+Betty,more,2
+more,Megan,2
+Megan,more,2
+hated,Brett,2
+Brett,hated,2
+hated,Robert,2
+Robert,hated,2
+loved,Brett,2
+Brett,loved,2
+loved,Robert,2
+Robert,loved,2
+less,Christine,2
+Christine,less,2
+less,Katrina,2
+Katrina,less,2
+more,Christine,2
+Christine,more,2
+more,Katrina,2
+Katrina,more,2
+narrow,car,2
+car,narrow,2
+narrow,garage,2
+garage,narrow,2
+wide,car,2
+car,wide,2
+wide,garage,2
+garage,wide,2
+better,Angela,2
+Angela,better,2
+better,Christine,2
+Christine,better,2
+worse,Angela,2
+Angela,worse,2
+worse,Christine,2
+Christine,worse,2
+always,Kayla,2
+Kayla,always,2
+always,Rachel,2
+Rachel,always,2
+never,Kayla,2
+Kayla,never,2
+never,Rachel,2
+Rachel,never,2
+hated,Dennis,2
+Dennis,hated,2
+hated,Leslie,2
+Leslie,hated,2
+loved,Dennis,2
+Dennis,loved,2
+loved,Leslie,2
+Leslie,loved,2
+less,Eric,2
+Eric,less,2
+less,Nelson,2
+Nelson,less,2
+more,Eric,2
+Eric,more,2
+more,Nelson,2
+Nelson,more,2
+less,Jennifer,2
+Jennifer,less,2
+less,Jessica,2
+Jessica,less,2
+more,Jennifer,2
+Jennifer,more,2
+more,Jessica,2
+Jessica,more,2
+higher,bonds,2
+bonds,higher,2
+higher,stocks,2
+stocks,higher,2
+lower,bonds,2
+bonds,lower,2
+lower,stocks,2
+stocks,lower,2
+less,Erin,2
+Erin,less,2
+less,Samantha,2
+Samantha,less,2
+more,Erin,2
+Erin,more,2
+more,Samantha,2
+Samantha,more,2
+less,Christine,2
+Christine,less,2
+less,Victoria,2
+Victoria,less,2
+more,Christine,2
+Christine,more,2
+more,Victoria,2
+Victoria,more,2
+hated,Kenneth,2
+Kenneth,hated,2
+hated,Michael,2
+Michael,hated,2
+loved,Kenneth,2
+Kenneth,loved,2
+loved,Michael,2
+Michael,loved,2
+a novice,Jeffrey,2
+Jeffrey,a novice,2
+a novice,Leslie,2
+Leslie,a novice,2
+an expert,Jeffrey,2
+Jeffrey,an expert,2
+an expert,Leslie,2
+Leslie,an expert,2
+faster,coach,2
+coach,faster,2
+faster,taxi,2
+taxi,faster,2
+slower,coach,2
+coach,slower,2
+slower,taxi,2
+taxi,slower,2
+bigger,auditorium,1
+auditorium,bigger,1
+bigger,hall,1
+hall,bigger,1
+smaller,auditorium,1
+auditorium,smaller,1
+smaller,hall,1
+hall,smaller,1
+higher,Aaron,1
+Aaron,higher,1
+higher,Donald,1
+Donald,higher,1
+lower,Aaron,1
+Aaron,lower,1
+lower,Donald,1
+Donald,lower,1
+fresh,blueberries,1
+blueberries,fresh,1
+fresh,strawberries,1
+strawberries,fresh,1
+outdated,blueberries,1
+blueberries,outdated,1
+outdated,strawberries,1
+strawberries,outdated,1
+green,plane,1
+plane,green,1
+green,train,1
+train,green,1
+inefficient,plane,1
+plane,inefficient,1
+inefficient,train,1
+train,inefficient,1
+hard,Joel,1
+Joel,hard,1
+hard,Nelson,1
+Nelson,hard,1
+soft,Joel,1
+Joel,soft,1
+soft,Nelson,1
+Nelson,soft,1
+colorful,hats,1
+hats,colorful,1
+colorful,needles,1
+needles,colorful,1
+metal,hats,1
+hats,metal,1
+metal,needles,1
+needles,metal,1
+too far,smartphone,1
+smartphone,too far,1
+too far,wallet,1
+wallet,too far,1
+within reach,smartphone,1
+smartphone,within reach,1
+within reach,wallet,1
+wallet,within reach,1
+and,photographs,1
+photographs,and,1
+and,runway,1
+runway,and,1
+but,photographs,1
+photographs,but,1
+but,runway,1
+runway,but,1
+not,photographs,1
+photographs,not,1
+not,runway,1
+runway,not,1
+stronger,Logan,1
+Logan,stronger,1
+stronger,Michael,1
+Michael,stronger,1
+weaker,Logan,1
+Logan,weaker,1
+weaker,Michael,1
+Michael,weaker,1
+hated,Jennifer,1
+Jennifer,hated,1
+hated,Monica,1
+Monica,hated,1
+loved,Jennifer,1
+Jennifer,loved,1
+loved,Monica,1
+Monica,loved,1
+fun,bike,1
+bike,fun,1
+fun,skateboard,1
+skateboard,fun,1
+overwhelming,bike,1
+bike,overwhelming,1
+overwhelming,skateboard,1
+skateboard,overwhelming,1
+asked,Justin,1
+Justin,asked,1
+asked,Kenneth,1
+Kenneth,asked,1
+get,Justin,1
+Justin,get,1
+get,Kenneth,1
+Kenneth,get,1
+give,Justin,1
+Justin,give,1
+give,Kenneth,1
+Kenneth,give,1
+offered,Justin,1
+Justin,offered,1
+offered,Kenneth,1
+Kenneth,offered,1
+although,Rebecca,1
+Rebecca,although,1
+although,Samantha,1
+Samantha,although,1
+because,Rebecca,1
+Rebecca,because,1
+because,Samantha,1
+Samantha,because,1
+major,house,1
+house,major,1
+major,shed,1
+shed,major,1
+minor,house,1
+house,minor,1
+minor,shed,1
+shed,minor,1
+cracked,Coat,1
+Coat,cracked,1
+cracked,Glove,1
+Glove,cracked,1
+supple,Coat,1
+Coat,supple,1
+supple,Glove,1
+Glove,supple,1
+strong,braids,1
+braids,strong,1
+strong,scissors,1
+scissors,strong,1
+weak,braids,1
+braids,weak,1
+weak,scissors,1
+scissors,weak,1
+heard,Jennifer,1
+Jennifer,heard,1
+heard,Victoria,1
+Victoria,heard,1
+made,Jennifer,1
+Jennifer,made,1
+made,Victoria,1
+Victoria,made,1
+because,Jeffrey,1
+Jeffrey,because,1
+because,Kenneth,1
+Kenneth,because,1
+but,Jeffrey,1
+Jeffrey,but,1
+but,Kenneth,1
+Kenneth,but,1
+mild,hand,1
+hand,mild,1
+mild,leg,1
+leg,mild,1
+severe,hand,1
+hand,severe,1
+severe,leg,1
+leg,severe,1
+strong,skills,1
+skills,strong,1
+strong,tests,1
+tests,strong,1
+weak,skills,1
+skills,weak,1
+weak,tests,1
+tests,weak,1
+loose,scarf,1
+scarf,loose,1
+loose,sweater,1
+sweater,loose,1
+tight,scarf,1
+scarf,tight,1
+tight,sweater,1
+sweater,tight,1
+criminal,Maria,1
+Maria,criminal,1
+criminal,Tanya,1
+Tanya,criminal,1
+lawyer,Maria,1
+Maria,lawyer,1
+lawyer,Tanya,1
+Tanya,lawyer,1
+flawless,Betty,1
+Betty,flawless,1
+flawless,Patricia,1
+Patricia,flawless,1
+raggedy,Betty,1
+Betty,raggedy,1
+raggedy,Patricia,1
+Patricia,raggedy,1
+useful,buttons,1
+buttons,useful,1
+useful,zippers,1
+zippers,useful,1
+useless,buttons,1
+buttons,useless,1
+useless,zippers,1
+zippers,useless,1
+cold,summer,1
+summer,cold,1
+cold,winter,1
+winter,cold,1
+hate,summer,1
+summer,hate,1
+hate,winter,1
+winter,hate,1
+hot,summer,1
+summer,hot,1
+hot,winter,1
+winter,hot,1
+prefer,summer,1
+summer,prefer,1
+prefer,winter,1
+winter,prefer,1
+cheaper,beef,1
+beef,cheaper,1
+cheaper,pork,1
+pork,cheaper,1
+more expensive,beef,1
+beef,more expensive,1
+more expensive,pork,1
+pork,more expensive,1
+Bacause,Christine,1
+Christine,Bacause,1
+Bacause,Rachel,1
+Rachel,Bacause,1
+Because,Christine,1
+Christine,Because,1
+Because,Rachel,1
+Rachel,Because,1
+conversation,Christine,1
+Christine,conversation,1
+conversation,Rachel,1
+Rachel,conversation,1
+extrovert,Christine,1
+Christine,extrovert,1
+extrovert,Rachel,1
+Rachel,extrovert,1
+introver,Christine,1
+Christine,introver,1
+introver,Rachel,1
+Rachel,introver,1
+silence,Christine,1
+Christine,silence,1
+silence,Rachel,1
+Rachel,silence,1
+because,Craig,1
+Craig,because,1
+because,Dennis,1
+Dennis,because,1
+but said he,Craig,1
+Craig,but said he,1
+but said he,Dennis,1
+Dennis,but said he,1
+too,Craig,1
+Craig,too,1
+too,Dennis,1
+Dennis,too,1
+very,Craig,1
+Craig,very,1
+very,Dennis,1
+Dennis,very,1
+dreamer,Aaron,1
+Aaron,dreamer,1
+dreamer,Adam,1
+Adam,dreamer,1
+realist,Aaron,1
+Aaron,realist,1
+realist,Adam,1
+Adam,realist,1
+clean,Jennifer,1
+Jennifer,clean,1
+clean,Monica,1
+Monica,clean,1
+dirty,Jennifer,1
+Jennifer,dirty,1
+dirty,Monica,1
+Monica,dirty,1
+had no idea,Ian,1
+Ian,had no idea,1
+had no idea,Justin,1
+Justin,had no idea,1
+knew,Ian,1
+Ian,knew,1
+knew,Justin,1
+Justin,knew,1
+frizzy,Angela,1
+Angela,frizzy,1
+frizzy,Laura,1
+Laura,frizzy,1
+shiny,Angela,1
+Angela,shiny,1
+shiny,Laura,1
+Laura,shiny,1
+had grips,dryer,1
+dryer,had grips,1
+had grips,washer,1
+washer,had grips,1
+was slippery,dryer,1
+dryer,was slippery,1
+was slippery,washer,1
+washer,was slippery,1
+buying,Katrina,1
+Katrina,buying,1
+buying,Lindsey,1
+Lindsey,buying,1
+selling her,Katrina,1
+Katrina,selling her,1
+selling her,Lindsey,1
+Lindsey,selling her,1
+a lot of,Justin,1
+Justin,a lot of,1
+a lot of,Nelson,1
+Nelson,a lot of,1
+no,Justin,1
+Justin,no,1
+no,Nelson,1
+Nelson,no,1
+prone,attic,1
+attic,prone,1
+prone,basement,1
+basement,prone,1
+resistant,attic,1
+attic,resistant,1
+resistant,basement,1
+basement,resistant,1
+a,Aaron,1
+Aaron,a,1
+a,Craig,1
+Craig,a,1
+frequently,Aaron,1
+Aaron,frequently,1
+frequently,Craig,1
+Craig,frequently,1
+never,Aaron,1
+Aaron,never,1
+never,Craig,1
+Craig,never,1
+the,Aaron,1
+Aaron,the,1
+the,Craig,1
+Craig,the,1
+opposite,Amy,1
+Amy,opposite,1
+opposite,Christine,1
+Christine,opposite,1
+pinnacle,Amy,1
+Amy,pinnacle,1
+pinnacle,Christine,1
+Christine,pinnacle,1
+sick,Derrick,1
+Derrick,sick,1
+sick,Nelson,1
+Nelson,sick,1
+worried,Derrick,1
+Derrick,worried,1
+worried,Nelson,1
+Nelson,worried,1
+irrelevant,documents,1
+documents,irrelevant,1
+irrelevant,photographs,1
+photographs,irrelevant,1
+relevant,documents,1
+documents,relevant,1
+relevant,photographs,1
+photographs,relevant,1
+a newer,Jason,1
+Jason,a newer,1
+a newer,Kenneth,1
+Kenneth,a newer,1
+an older,Jason,1
+Jason,an older,1
+an older,Kenneth,1
+Kenneth,an older,1
+poorer,Erin,1
+Erin,poorer,1
+poorer,Katrina,1
+Katrina,poorer,1
+richer,Erin,1
+Erin,richer,1
+richer,Katrina,1
+Katrina,richer,1
+distrusted,fitness tracker,1
+fitness tracker,distrusted,1
+distrusted,journal,1
+journal,distrusted,1
+liked,fitness tracker,1
+fitness tracker,liked,1
+liked,journal,1
+journal,liked,1
+although,Justin,1
+Justin,although,1
+although,Lawrence,1
+Lawrence,although,1
+because,Justin,1
+Justin,because,1
+because,Lawrence,1
+Lawrence,because,1
+creating a big scene,Leslie,1
+Leslie,creating a big scene,1
+creating a big scene,Logan,1
+Logan,creating a big scene,1
+keeping to himself,Leslie,1
+Leslie,keeping to himself,1
+keeping to himself,Logan,1
+Logan,keeping to himself,1
+know how,Felicia,1
+Felicia,know how,1
+know how,Sarah,1
+Sarah,know how,1
+want them,Felicia,1
+Felicia,want them,1
+want them,Sarah,1
+Sarah,want them,1
+large,apricots,1
+apricots,large,1
+large,bottles,1
+bottles,large,1
+small,apricots,1
+apricots,small,1
+small,bottles,1
+bottles,small,1
+reliant on,Jason,1
+Jason,reliant on,1
+reliant on,Randy,1
+Randy,reliant on,1
+used in,Jason,1
+Jason,used in,1
+used in,Randy,1
+Randy,used in,1
+hide,Betty,1
+Betty,hide,1
+hide,Carrie,1
+Carrie,hide,1
+understand,Betty,1
+Betty,understand,1
+understand,Carrie,1
+Carrie,understand,1
+any,Erin,1
+Erin,any,1
+any,Rebecca,1
+Rebecca,any,1
+constantly,Erin,1
+Erin,constantly,1
+constantly,Rebecca,1
+Rebecca,constantly,1
+never,Erin,1
+Erin,never,1
+never,Rebecca,1
+Rebecca,never,1
+the,Erin,1
+Erin,the,1
+the,Rebecca,1
+Rebecca,the,1
+easier,coding,1
+coding,easier,1
+easier,cooking,1
+cooking,easier,1
+harder,coding,1
+coding,harder,1
+harder,cooking,1
+cooking,harder,1
+healthy,Elena,1
+Elena,healthy,1
+healthy,Jennifer,1
+Jennifer,healthy,1
+ill,Elena,1
+Elena,ill,1
+ill,Jennifer,1
+Jennifer,ill,1
+accurate,bow,1
+bow,accurate,1
+accurate,rifle,1
+rifle,accurate,1
+inaccurate,bow,1
+bow,inaccurate,1
+inaccurate,rifle,1
+rifle,inaccurate,1
+ablebodied,Emily,1
+Emily,ablebodied,1
+ablebodied,Kayla,1
+Kayla,ablebodied,1
+disabled,Emily,1
+Emily,disabled,1
+disabled,Kayla,1
+Kayla,disabled,1
+intense,dialect,1
+dialect,intense,1
+intense,language,1
+language,intense,1
+simple,dialect,1
+dialect,simple,1
+simple,language,1
+language,simple,1
+Less,house,1
+house,Less,1
+Less,porch,1
+porch,Less,1
+More,house,1
+house,More,1
+More,porch,1
+porch,More,1
+effortless,pool,1
+pool,effortless,1
+effortless,wall,1
+wall,effortless,1
+strenuous,pool,1
+pool,strenuous,1
+strenuous,wall,1
+wall,strenuous,1
+negative,Craig,1
+Craig,negative,1
+negative,Joseph,1
+Joseph,negative,1
+positive,Craig,1
+Craig,positive,1
+positive,Joseph,1
+Joseph,positive,1
+electric,Dennis,1
+Dennis,electric,1
+electric,Matthew,1
+Matthew,electric,1
+gas,Dennis,1
+Dennis,gas,1
+gas,Matthew,1
+Matthew,gas,1
+frequently,Betty,1
+Betty,frequently,1
+frequently,Kayla,1
+Kayla,frequently,1
+infrequently,Betty,1
+Betty,infrequently,1
+infrequently,Kayla,1
+Kayla,infrequently,1
+didnt get,Patricia,1
+Patricia,didnt get,1
+didnt get,Victoria,1
+Victoria,didnt get,1
+didnt listen,Patricia,1
+Patricia,didnt listen,1
+didnt listen,Victoria,1
+Victoria,didnt listen,1
+got,Patricia,1
+Patricia,got,1
+got,Victoria,1
+Victoria,got,1
+misspoke,Patricia,1
+Patricia,misspoke,1
+misspoke,Victoria,1
+Victoria,misspoke,1
+deadly,disease,1
+disease,deadly,1
+deadly,disorder,1
+disorder,deadly,1
+survivable,disease,1
+disease,survivable,1
+survivable,disorder,1
+disorder,survivable,1
+decreasing,bandages,1
+bandages,decreasing,1
+decreasing,syringes,1
+syringes,decreasing,1
+increasing,bandages,1
+bandages,increasing,1
+increasing,syringes,1
+syringes,increasing,1
+giving up,storm,1
+storm,giving up,1
+giving up,sun,1
+sun,giving up,1
+taking over,storm,1
+storm,taking over,1
+taking over,sun,1
+sun,taking over,1
+fewer,bags,1
+bags,fewer,1
+fewer,balls,1
+balls,fewer,1
+more,bags,1
+bags,more,1
+more,balls,1
+balls,more,1
+strong,Justin,1
+Justin,strong,1
+strong,Kevin,1
+Kevin,strong,1
+weak,Justin,1
+Justin,weak,1
+weak,Kevin,1
+Kevin,weak,1
+appropriate,jeans,1
+jeans,appropriate,1
+appropriate,skirts,1
+skirts,appropriate,1
+unsuitable,jeans,1
+jeans,unsuitable,1
+unsuitable,skirts,1
+skirts,unsuitable,1
+tiring,races,1
+races,tiring,1
+tiring,skills,1
+skills,tiring,1
+useful,races,1
+races,useful,1
+useful,skills,1
+skills,useful,1
+always,Christopher,1
+Christopher,always,1
+always,Samuel,1
+Samuel,always,1
+any chores,Christopher,1
+Christopher,any chores,1
+any chores,Samuel,1
+Samuel,any chores,1
+never,Christopher,1
+Christopher,never,1
+never,Samuel,1
+Samuel,never,1
+them before,Christopher,1
+Christopher,them before,1
+them before,Samuel,1
+Samuel,them before,1
+appropriate,high heels,1
+high heels,appropriate,1
+appropriate,tennis shoes,1
+tennis shoes,appropriate,1
+inappropriate,high heels,1
+high heels,inappropriate,1
+inappropriate,tennis shoes,1
+tennis shoes,inappropriate,1
+Amy,cheap,1
+cheap,Amy,1
+Amy,expensive,1
+expensive,Amy,1
+Bob,cheap,1
+cheap,Bob,1
+Bob,expensive,1
+expensive,Bob,1
+lobster,cheap,1
+cheap,lobster,1
+lobster,expensive,1
+expensive,lobster,1
+taco,cheap,1
+cheap,taco,1
+taco,expensive,1
+expensive,taco,1
+delayed,court,1
+court,delayed,1
+delayed,trial,1
+trial,delayed,1
+evacuated,court,1
+court,evacuated,1
+evacuated,trial,1
+trial,evacuated,1
+devoid,parachute,1
+parachute,devoid,1
+devoid,plane,1
+plane,devoid,1
+full,parachute,1
+parachute,full,1
+full,plane,1
+plane,full,1
+demanding,birthday party,1
+birthday party,demanding,1
+demanding,wedding,1
+wedding,demanding,1
+laidback,birthday party,1
+birthday party,laidback,1
+laidback,wedding,1
+wedding,laidback,1
+few,Aaron,1
+Aaron,few,1
+few,Ian,1
+Ian,few,1
+lot of,Aaron,1
+Aaron,lot of,1
+lot of,Ian,1
+Ian,lot of,1
+only,Aaron,1
+Aaron,only,1
+only,Ian,1
+Ian,only,1
+Red,Kayla,1
+Kayla,Red,1
+Red,Monica,1
+Monica,Red,1
+Silver,Kayla,1
+Kayla,Silver,1
+Silver,Monica,1
+Monica,Silver,1
+closer to,bed,1
+bed,closer to,1
+closer to,couch,1
+couch,closer to,1
+further from,bed,1
+bed,further from,1
+further from,couch,1
+couch,further from,1
+although,ground,1
+ground,although,1
+although,pots,1
+pots,although,1
+because,ground,1
+ground,because,1
+because,pots,1
+pots,because,1
+from,Dennis,1
+Dennis,from,1
+from,Neil,1
+Neil,from,1
+have,Dennis,1
+Dennis,have,1
+have,Neil,1
+Neil,have,1
+in,Dennis,1
+Dennis,in,1
+in,Neil,1
+Neil,in,1
+comforting,blunt,1
+blunt,comforting,1
+comforting,tactful,1
+tactful,comforting,1
+hurtful,blunt,1
+blunt,hurtful,1
+hurtful,tactful,1
+tactful,hurtful,1
+always knew,Christopher,1
+Christopher,always knew,1
+always knew,Jason,1
+Jason,always knew,1
+didnt know,Christopher,1
+Christopher,didnt know,1
+didnt know,Jason,1
+Jason,didnt know,1
+because wanted to offer,Lindsey,1
+Lindsey,because wanted to offer,1
+because wanted to offer,Monica,1
+Monica,because wanted to offer,1
+but didnt want any,Lindsey,1
+Lindsey,but didnt want any,1
+but didnt want any,Monica,1
+Monica,but didnt want any,1
+buckwheat,buckwheat,1
+buckwheat,buckwheat,1
+buckwheat,wheat,1
+wheat,buckwheat,1
+delicious,buckwheat,1
+buckwheat,delicious,1
+delicious,wheat,1
+wheat,delicious,1
+disgusting,buckwheat,1
+buckwheat,disgusting,1
+disgusting,wheat,1
+wheat,disgusting,1
+hate,buckwheat,1
+buckwheat,hate,1
+hate,wheat,1
+wheat,hate,1
+love,buckwheat,1
+buckwheat,love,1
+love,wheat,1
+wheat,love,1
+wheat,buckwheat,1
+buckwheat,wheat,1
+wheat,wheat,1
+wheat,wheat,1
+healthy,Maria,1
+Maria,healthy,1
+healthy,Sarah,1
+Sarah,healthy,1
+sick,Maria,1
+Maria,sick,1
+sick,Sarah,1
+Sarah,sick,1
+chosen,Cynthia,1
+Cynthia,chosen,1
+chosen,Erin,1
+Erin,chosen,1
+dumped,Cynthia,1
+Cynthia,dumped,1
+dumped,Erin,1
+Erin,dumped,1
+no,Elena,1
+Elena,no,1
+no,Victoria,1
+Victoria,no,1
+several,Elena,1
+Elena,several,1
+several,Victoria,1
+Victoria,several,1
+less,college,1
+college,less,1
+less,university,1
+university,less,1
+more,college,1
+college,more,1
+more,university,1
+university,more,1
+accurate,scale,1
+scale,accurate,1
+accurate,tape,1
+tape,accurate,1
+imprecise,scale,1
+scale,imprecise,1
+imprecise,tape,1
+tape,imprecise,1
+does not want,Kyle,1
+Kyle,does not want,1
+does not want,Neil,1
+Neil,does not want,1
+wants,Kyle,1
+Kyle,wants,1
+wants,Neil,1
+Neil,wants,1
+appropriate,chap stick,1
+chap stick,appropriate,1
+appropriate,lipstick,1
+lipstick,appropriate,1
+dehydrating,chap stick,1
+chap stick,dehydrating,1
+dehydrating,lipstick,1
+lipstick,dehydrating,1
+gamer,Eric,1
+Eric,gamer,1
+gamer,Jason,1
+Jason,gamer,1
+nongamer,Eric,1
+Eric,nongamer,1
+nongamer,Jason,1
+Jason,nongamer,1
+gave,Angela,1
+Angela,gave,1
+gave,Victoria,1
+Victoria,gave,1
+give,Angela,1
+Angela,give,1
+give,Victoria,1
+Victoria,give,1
+listened to,Angela,1
+Angela,listened to,1
+listened to,Victoria,1
+Victoria,listened to,1
+less,Craig,1
+Craig,less,1
+less,Leslie,1
+Leslie,less,1
+more,Craig,1
+Craig,more,1
+more,Leslie,1
+Leslie,more,1
+calm,adderall,1
+adderall,calm,1
+calm,tea,1
+tea,calm,1
+restless,adderall,1
+adderall,restless,1
+restless,tea,1
+tea,restless,1
+narrow,entry,1
+entry,narrow,1
+narrow,tub,1
+tub,narrow,1
+wide,entry,1
+entry,wide,1
+wide,tub,1
+tub,wide,1
+guitar pick,Ian,1
+Ian,guitar pick,1
+guitar pick,Robert,1
+Robert,guitar pick,1
+paint brush,Ian,1
+Ian,paint brush,1
+paint brush,Robert,1
+Robert,paint brush,1
+new,camp shirt,1
+camp shirt,new,1
+new,sports shirt,1
+sports shirt,new,1
+old,camp shirt,1
+camp shirt,old,1
+old,sports shirt,1
+sports shirt,old,1
+hated,Adam,1
+Adam,hated,1
+hated,Joel,1
+Joel,hated,1
+loved,Adam,1
+Adam,loved,1
+loved,Joel,1
+Joel,loved,1
+disrespectful,Jennifer,1
+Jennifer,disrespectful,1
+disrespectful,Lindsey,1
+Lindsey,disrespectful,1
+respectful,Jennifer,1
+Jennifer,respectful,1
+respectful,Lindsey,1
+Lindsey,respectful,1
+apathetic,Kayla,1
+Kayla,apathetic,1
+apathetic,Lindsey,1
+Lindsey,apathetic,1
+enthusiastic,Kayla,1
+Kayla,enthusiastic,1
+enthusiastic,Lindsey,1
+Lindsey,enthusiastic,1
+didnt know,Eric,1
+Eric,didnt know,1
+didnt know,Joseph,1
+Joseph,didnt know,1
+knew,Eric,1
+Eric,knew,1
+knew,Joseph,1
+Joseph,knew,1
+many,Mary,1
+Mary,many,1
+many,Victoria,1
+Victoria,many,1
+no,Mary,1
+Mary,no,1
+no,Victoria,1
+Victoria,no,1
+is,Michael,1
+Michael,is,1
+is,Nick,1
+Nick,is,1
+isnt,Michael,1
+Michael,isnt,1
+isnt,Nick,1
+Nick,isnt,1
+not,Michael,1
+Michael,not,1
+not,Nick,1
+Nick,not,1
+avoided,Adam,1
+Adam,avoided,1
+avoided,Randy,1
+Randy,avoided,1
+pet,Adam,1
+Adam,pet,1
+pet,Randy,1
+Randy,pet,1
+because hated,Matthew,1
+Matthew,because hated,1
+because hated,Robert,1
+Robert,because hated,1
+since loved,Matthew,1
+Matthew,since loved,1
+since loved,Robert,1
+Robert,since loved,1
+in braids,Lindsey,1
+Lindsey,in braids,1
+in braids,Rebecca,1
+Rebecca,in braids,1
+natural,Lindsey,1
+Lindsey,natural,1
+natural,Rebecca,1
+Rebecca,natural,1
+nurse,Kayla,1
+Kayla,nurse,1
+nurse,Laura,1
+Laura,nurse,1
+patient,Kayla,1
+Kayla,patient,1
+patient,Laura,1
+Laura,patient,1
+dress pants,Leslie,1
+Leslie,dress pants,1
+dress pants,Robert,1
+Robert,dress pants,1
+ripped jeans,Leslie,1
+Leslie,ripped jeans,1
+ripped jeans,Robert,1
+Robert,ripped jeans,1
+did not love,Craig,1
+Craig,did not love,1
+did not love,Michael,1
+Michael,did not love,1
+loved,Craig,1
+Craig,loved,1
+loved,Michael,1
+Michael,loved,1
+less,measuring tape,1
+measuring tape,less,1
+less,ruler,1
+ruler,less,1
+more,measuring tape,1
+measuring tape,more,1
+more,ruler,1
+ruler,more,1
+a newbie,Angela,1
+Angela,a newbie,1
+a newbie,Erin,1
+Erin,a newbie,1
+an expert,Angela,1
+Angela,an expert,1
+an expert,Erin,1
+Erin,an expert,1
+dark,dye,1
+dye,dark,1
+dark,hair,1
+hair,dark,1
+weak,dye,1
+dye,weak,1
+weak,hair,1
+hair,weak,1
+strong,windows,1
+windows,strong,1
+strong,winds,1
+winds,strong,1
+weak,windows,1
+windows,weak,1
+weak,winds,1
+winds,weak,1
+cute,Betty,1
+Betty,cute,1
+cute,Katrina,1
+Katrina,cute,1
+slimy,Betty,1
+Betty,slimy,1
+slimy,Katrina,1
+Katrina,slimy,1
+Corporation,Nelson,1
+Nelson,Corporation,1
+Corporation,Randy,1
+Randy,Corporation,1
+just,Nelson,1
+Nelson,just,1
+just,Randy,1
+Randy,just,1
+monk in a monastery,Nelson,1
+Nelson,monk in a monastery,1
+monk in a monastery,Randy,1
+Randy,monk in a monastery,1
+the CEO of,Nelson,1
+Nelson,the CEO of,1
+the CEO of,Randy,1
+Randy,the CEO of,1
+from,Eric,1
+Eric,from,1
+from,William,1
+William,from,1
+offer,Eric,1
+Eric,offer,1
+offer,William,1
+William,offer,1
+receive,Eric,1
+Eric,receive,1
+receive,William,1
+William,receive,1
+to,Eric,1
+Eric,to,1
+to,William,1
+William,to,1
+had much experience,Elena,1
+Elena,had much experience,1
+had much experience,Natalie,1
+Natalie,had much experience,1
+wasnt very experienced,Elena,1
+Elena,wasnt very experienced,1
+wasnt very experienced,Natalie,1
+Natalie,wasnt very experienced,1
+a melt down,Craig,1
+Craig,a melt down,1
+a melt down,Justin,1
+Justin,a melt down,1
+no issues,Craig,1
+Craig,no issues,1
+no issues,Justin,1
+Justin,no issues,1
+didnt finish,Jessica,1
+Jessica,didnt finish,1
+didnt finish,Tanya,1
+Tanya,didnt finish,1
+teacher,Jessica,1
+Jessica,teacher,1
+teacher,Tanya,1
+Tanya,teacher,1
+was a,Jessica,1
+Jessica,was a,1
+was a,Tanya,1
+Tanya,was a,1
+boring,aquarium,1
+aquarium,boring,1
+boring,history museum,1
+history museum,boring,1
+cooler,aquarium,1
+aquarium,cooler,1
+cooler,history museum,1
+history museum,cooler,1
+more likely,Aaron,1
+Aaron,more likely,1
+more likely,Craig,1
+Craig,more likely,1
+unlikely,Aaron,1
+Aaron,unlikely,1
+unlikely,Craig,1
+Craig,unlikely,1
+didnt need,Christopher,1
+Christopher,didnt need,1
+didnt need,Donald,1
+Donald,didnt need,1
+needed,Christopher,1
+Christopher,needed,1
+needed,Donald,1
+Donald,needed,1
+clown,Nick,1
+Nick,clown,1
+clown,Robert,1
+Robert,clown,1
+pant,Nick,1
+Nick,pant,1
+pant,Robert,1
+Robert,pant,1
+cheap,Eric,1
+Eric,cheap,1
+cheap,Matthew,1
+Matthew,cheap,1
+expensive,Eric,1
+Eric,expensive,1
+expensive,Matthew,1
+Matthew,expensive,1
+bad,beaches,1
+beaches,bad,1
+bad,mountains,1
+mountains,bad,1
+wonderful,beaches,1
+beaches,wonderful,1
+wonderful,mountains,1
+mountains,wonderful,1
+again,Jessica,1
+Jessica,again,1
+again,Kayla,1
+Kayla,again,1
+instead,Jessica,1
+Jessica,instead,1
+instead,Kayla,1
+Kayla,instead,1
+should,Jessica,1
+Jessica,should,1
+should,Kayla,1
+Kayla,should,1
+would,Jessica,1
+Jessica,would,1
+would,Kayla,1
+Kayla,would,1
+interviewee,Emily,1
+Emily,interviewee,1
+interviewee,Jennifer,1
+Jennifer,interviewee,1
+interviewer,Emily,1
+Emily,interviewer,1
+interviewer,Jennifer,1
+Jennifer,interviewer,1
+closer to,Jessica,1
+Jessica,closer to,1
+closer to,Rachel,1
+Rachel,closer to,1
+farther from,Jessica,1
+Jessica,farther from,1
+farther from,Rachel,1
+Rachel,farther from,1
+got through,Neil,1
+Neil,got through,1
+got through,Nick,1
+Nick,got through,1
+performed,Neil,1
+Neil,performed,1
+performed,Nick,1
+Nick,performed,1
+because cares,Brian,1
+Brian,because cares,1
+because cares,Jeffrey,1
+Jeffrey,because cares,1
+but doesnt care,Brian,1
+Brian,but doesnt care,1
+but doesnt care,Jeffrey,1
+Jeffrey,but doesnt care,1
+getting,Brian,1
+Brian,getting,1
+getting,Jeffrey,1
+Jeffrey,getting,1
+giving,Brian,1
+Brian,giving,1
+giving,Jeffrey,1
+Jeffrey,giving,1
+inconsiderate,Aaron,1
+Aaron,inconsiderate,1
+inconsiderate,Michael,1
+Michael,inconsiderate,1
+irritated,Aaron,1
+Aaron,irritated,1
+irritated,Michael,1
+Michael,irritated,1
+available,candy,1
+candy,available,1
+available,store,1
+store,available,1
+unavailable,candy,1
+candy,unavailable,1
+unavailable,store,1
+store,unavailable,1
+ancient,chest,1
+chest,ancient,1
+ancient,dresser,1
+dresser,ancient,1
+new,chest,1
+chest,new,1
+new,dresser,1
+dresser,new,1
+dehydrated,Angela,1
+Angela,dehydrated,1
+dehydrated,Betty,1
+Betty,dehydrated,1
+hydrated,Angela,1
+Angela,hydrated,1
+hydrated,Betty,1
+Betty,hydrated,1
+buyer,Elena,1
+Elena,buyer,1
+buyer,Patricia,1
+Patricia,buyer,1
+seller,Elena,1
+Elena,seller,1
+seller,Patricia,1
+Patricia,seller,1
+increasing,car,1
+car,increasing,1
+increasing,truck,1
+truck,increasing,1
+weakening,car,1
+car,weakening,1
+weakening,truck,1
+truck,weakening,1
+heavier,jeans,1
+jeans,heavier,1
+heavier,leggings,1
+leggings,heavier,1
+lighter,jeans,1
+jeans,lighter,1
+lighter,leggings,1
+leggings,lighter,1
+hated,Maria,1
+Maria,hated,1
+hated,Sarah,1
+Sarah,hated,1
+liked,Maria,1
+Maria,liked,1
+liked,Sarah,1
+Sarah,liked,1
+artificial,Christopher,1
+Christopher,artificial,1
+artificial,Neil,1
+Neil,artificial,1
+natural,Christopher,1
+Christopher,natural,1
+natural,Neil,1
+Neil,natural,1
+charge off,Erin,1
+Erin,charge off,1
+charge off,Rebecca,1
+Rebecca,charge off,1
+decided,Erin,1
+Erin,decided,1
+decided,Rebecca,1
+Rebecca,decided,1
+offered,Erin,1
+Erin,offered,1
+offered,Rebecca,1
+Rebecca,offered,1
+pay whatever,Erin,1
+Erin,pay whatever,1
+pay whatever,Rebecca,1
+Rebecca,pay whatever,1
+experience,Neil,1
+Neil,experience,1
+experience,Nick,1
+Nick,experience,1
+from,Neil,1
+Neil,from,1
+from,Nick,1
+Nick,from,1
+share,Neil,1
+Neil,share,1
+share,Nick,1
+Nick,share,1
+with,Neil,1
+Neil,with,1
+with,Nick,1
+Nick,with,1
+aligned,park,1
+park,aligned,1
+aligned,zoo,1
+zoo,aligned,1
+contrary,park,1
+park,contrary,1
+contrary,zoo,1
+zoo,contrary,1
+did not have,Aaron,1
+Aaron,did not have,1
+did not have,Craig,1
+Craig,did not have,1
+had,Aaron,1
+Aaron,had,1
+had,Craig,1
+Craig,had,1
+frequently,Angela,1
+Angela,frequently,1
+frequently,Laura,1
+Laura,frequently,1
+never,Angela,1
+Angela,never,1
+never,Laura,1
+Laura,never,1
+big,cups,1
+cups,big,1
+big,flowers,1
+flowers,big,1
+small,cups,1
+cups,small,1
+small,flowers,1
+flowers,small,1
+lost,Jason,1
+Jason,lost,1
+lost,Steven,1
+Steven,lost,1
+won,Jason,1
+Jason,won,1
+won,Steven,1
+Steven,won,1
+boys,Erin,1
+Erin,boys,1
+boys,Jennifer,1
+Jennifer,boys,1
+dolls,Erin,1
+Erin,dolls,1
+dolls,Jennifer,1
+Jennifer,dolls,1
+his,back,1
+back,his,1
+his,shirt,1
+shirt,his,1
+narrow,back,1
+back,narrow,1
+narrow,shirt,1
+shirt,narrow,1
+the,back,1
+back,the,1
+the,shirt,1
+shirt,the,1
+wide,back,1
+back,wide,1
+wide,shirt,1
+shirt,wide,1
+readily available,blue,1
+blue,readily available,1
+readily available,red,1
+red,readily available,1
+used up,blue,1
+blue,used up,1
+used up,red,1
+red,used up,1
+more healthy,celery,1
+celery,more healthy,1
+more healthy,lettuce,1
+lettuce,more healthy,1
+unhealthy,celery,1
+celery,unhealthy,1
+unhealthy,lettuce,1
+lettuce,unhealthy,1
+been too rude,Michael,1
+Michael,been too rude,1
+been too rude,Ryan,1
+Ryan,been too rude,1
+tired of them,Michael,1
+Michael,tired of them,1
+tired of them,Ryan,1
+Ryan,tired of them,1
+lost,Derrick,1
+Derrick,lost,1
+lost,Jeffrey,1
+Jeffrey,lost,1
+won,Derrick,1
+Derrick,won,1
+won,Jeffrey,1
+Jeffrey,won,1
+small,Betty,1
+Betty,small,1
+small,Samantha,1
+Samantha,small,1
+walk in,Betty,1
+Betty,walk in,1
+walk in,Samantha,1
+Samantha,walk in,1
+cheaper,flight,1
+flight,cheaper,1
+cheaper,train,1
+train,cheaper,1
+costlier,flight,1
+flight,costlier,1
+costlier,train,1
+train,costlier,1
+heavier,schoolbag,1
+schoolbag,heavier,1
+heavier,trashcan,1
+trashcan,heavier,1
+lighter,schoolbag,1
+schoolbag,lighter,1
+lighter,trashcan,1
+trashcan,lighter,1
+never,Jeffrey,1
+Jeffrey,never,1
+never,Steven,1
+Steven,never,1
+often,Jeffrey,1
+Jeffrey,often,1
+often,Steven,1
+Steven,often,1
+relaxes,Jeffrey,1
+Jeffrey,relaxes,1
+relaxes,Steven,1
+Steven,relaxes,1
+works,Jeffrey,1
+Jeffrey,works,1
+works,Steven,1
+Steven,works,1
+memorize,closed book exams,1
+closed book exams,memorize,1
+memorize,open book exams,1
+open book exams,memorize,1
+memorizing,closed book exams,1
+closed book exams,memorizing,1
+memorizing,open book exams,1
+open book exams,memorizing,1
+read from,closed book exams,1
+closed book exams,read from,1
+read from,open book exams,1
+open book exams,read from,1
+reading,closed book exams,1
+closed book exams,reading,1
+reading,open book exams,1
+open book exams,reading,1
+less,hall,1
+hall,less,1
+less,upstairs,1
+upstairs,less,1
+more,hall,1
+hall,more,1
+more,upstairs,1
+upstairs,more,1
+fast,car,1
+car,fast,1
+fast,motorcycle,1
+motorcycle,fast,1
+slowly,car,1
+car,slowly,1
+slowly,motorcycle,1
+motorcycle,slowly,1
+jail,Patricia,1
+Patricia,jail,1
+jail,Sarah,1
+Sarah,jail,1
+the police,Patricia,1
+Patricia,the police,1
+the police,Sarah,1
+Sarah,the police,1
+grab,cabinet,1
+cabinet,grab,1
+grab,file,1
+file,grab,1
+unlock,cabinet,1
+cabinet,unlock,1
+unlock,file,1
+file,unlock,1
+large,envelope,1
+envelope,large,1
+large,invitation,1
+invitation,large,1
+small,envelope,1
+envelope,small,1
+small,invitation,1
+invitation,small,1
+fewer,Christine,1
+Christine,fewer,1
+fewer,Kayla,1
+Kayla,fewer,1
+more,Christine,1
+Christine,more,1
+more,Kayla,1
+Kayla,more,1
+extrovert,Carrie,1
+Carrie,extrovert,1
+extrovert,Victoria,1
+Victoria,extrovert,1
+introvert,Carrie,1
+Carrie,introvert,1
+introvert,Victoria,1
+Victoria,introvert,1
+barely,Brian,1
+Brian,barely,1
+barely,Logan,1
+Logan,barely,1
+easily,Brian,1
+Brian,easily,1
+easily,Logan,1
+Logan,easily,1
+excited,Erin,1
+Erin,excited,1
+excited,Monica,1
+Monica,excited,1
+nauseous,Erin,1
+Erin,nauseous,1
+nauseous,Monica,1
+Monica,nauseous,1
+hated,Adam,1
+Adam,hated,1
+hated,Kevin,1
+Kevin,hated,1
+loved,Adam,1
+Adam,loved,1
+loved,Kevin,1
+Kevin,loved,1
+comfortable,Joseph,1
+Joseph,comfortable,1
+comfortable,Samuel,1
+Samuel,comfortable,1
+freezing,Joseph,1
+Joseph,freezing,1
+freezing,Samuel,1
+Samuel,freezing,1
+stronger,Carrie,1
+Carrie,stronger,1
+stronger,Rachel,1
+Rachel,stronger,1
+weaker,Carrie,1
+Carrie,weaker,1
+weaker,Rachel,1
+Rachel,weaker,1
+heavier,coin,1
+coin,heavier,1
+heavier,ring,1
+ring,heavier,1
+lighter,coin,1
+coin,lighter,1
+lighter,ring,1
+ring,lighter,1
+dont,lasagna,1
+lasagna,dont,1
+dont,soup,1
+soup,dont,1
+hard food,lasagna,1
+lasagna,hard food,1
+hard food,soup,1
+soup,hard food,1
+liquid,lasagna,1
+lasagna,liquid,1
+liquid,soup,1
+soup,liquid,1
+didnt have,Felicia,1
+Felicia,didnt have,1
+didnt have,Laura,1
+Laura,didnt have,1
+had,Felicia,1
+Felicia,had,1
+had,Laura,1
+Laura,had,1
+did not need,Rachel,1
+Rachel,did not need,1
+did not need,Sarah,1
+Sarah,did not need,1
+needed a,Rachel,1
+Rachel,needed a,1
+needed a,Sarah,1
+Sarah,needed a,1
+an expert,Jessica,1
+Jessica,an expert,1
+an expert,Lindsey,1
+Lindsey,an expert,1
+inexperienced,Jessica,1
+Jessica,inexperienced,1
+inexperienced,Lindsey,1
+Lindsey,inexperienced,1
+felt bullied,Derrick,1
+Derrick,felt bullied,1
+felt bullied,Logan,1
+Logan,felt bullied,1
+was a bully,Derrick,1
+Derrick,was a bully,1
+was a bully,Logan,1
+Logan,was a bully,1
+poor,Logan,1
+Logan,poor,1
+poor,Michael,1
+Michael,poor,1
+rich,Logan,1
+Logan,rich,1
+rich,Michael,1
+Michael,rich,1
+doing,Mary,1
+Mary,doing,1
+doing,Patricia,1
+Patricia,doing,1
+receiving,Mary,1
+Mary,receiving,1
+receiving,Patricia,1
+Patricia,receiving,1
+noisy,meditation,1
+meditation,noisy,1
+noisy,music,1
+music,noisy,1
+quiet,meditation,1
+meditation,quiet,1
+quiet,music,1
+music,quiet,1
+his physician,Jason,1
+Jason,his physician,1
+his physician,Leslie,1
+Leslie,his physician,1
+very dehydrated,Jason,1
+Jason,very dehydrated,1
+very dehydrated,Leslie,1
+Leslie,very dehydrated,1
+stronger,Angela,1
+Angela,stronger,1
+stronger,Rachel,1
+Rachel,stronger,1
+weaker,Angela,1
+Angela,weaker,1
+weaker,Rachel,1
+Rachel,weaker,1
+essential,books,1
+books,essential,1
+essential,notebooks,1
+notebooks,essential,1
+not needed,books,1
+books,not needed,1
+not needed,notebooks,1
+notebooks,not needed,1
+calm,Dennis,1
+Dennis,calm,1
+calm,Hunter,1
+Hunter,calm,1
+hysterical,Dennis,1
+Dennis,hysterical,1
+hysterical,Hunter,1
+Hunter,hysterical,1
+because,Adam,1
+Adam,because,1
+because,Robert,1
+Robert,because,1
+improperly,Adam,1
+Adam,improperly,1
+improperly,Robert,1
+Robert,improperly,1
+properly,Adam,1
+Adam,properly,1
+properly,Robert,1
+Robert,properly,1
+since,Adam,1
+Adam,since,1
+since,Robert,1
+Robert,since,1
+sour,juice,1
+juice,sour,1
+sour,salad,1
+salad,sour,1
+sweet,juice,1
+juice,sweet,1
+sweet,salad,1
+salad,sweet,1
+can,Maria,1
+Maria,can,1
+can,Monica,1
+Monica,can,1
+ease,Maria,1
+Maria,ease,1
+ease,Monica,1
+Monica,ease,1
+panic,Maria,1
+Maria,panic,1
+panic,Monica,1
+Monica,panic,1
+will,Maria,1
+Maria,will,1
+will,Monica,1
+Monica,will,1
+enemy,Kevin,1
+Kevin,enemy,1
+enemy,Nick,1
+Nick,enemy,1
+friend,Kevin,1
+Kevin,friend,1
+friend,Nick,1
+Nick,friend,1
+a polite,Hunter,1
+Hunter,a polite,1
+a polite,Leslie,1
+Leslie,a polite,1
+an impolite,Hunter,1
+Hunter,an impolite,1
+an impolite,Leslie,1
+Leslie,an impolite,1
+poorly,CDs,1
+CDs,poorly,1
+poorly,DVDs,1
+DVDs,poorly,1
+well,CDs,1
+CDs,well,1
+well,DVDs,1
+DVDs,well,1
+more,carnations,1
+carnations,more,1
+more,roses,1
+roses,more,1
+no,carnations,1
+carnations,no,1
+no,roses,1
+roses,no,1
+how to say it,Joel,1
+Joel,how to say it,1
+how to say it,Lawrence,1
+Lawrence,how to say it,1
+what they were saying,Joel,1
+Joel,what they were saying,1
+what they were saying,Lawrence,1
+Lawrence,what they were saying,1
+cluttered,information,1
+information,cluttered,1
+cluttered,team,1
+team,cluttered,1
+organized,information,1
+information,organized,1
+organized,team,1
+team,organized,1
+allowed,Nelson,1
+Nelson,allowed,1
+allowed,Samuel,1
+Samuel,allowed,1
+refused,Nelson,1
+Nelson,refused,1
+refused,Samuel,1
+Samuel,refused,1
+fun,company,1
+company,fun,1
+fun,group,1
+group,fun,1
+lame,company,1
+company,lame,1
+lame,group,1
+group,lame,1
+could now,Lindsey,1
+Lindsey,could now,1
+could now,Patricia,1
+Patricia,could now,1
+helped her,Lindsey,1
+Lindsey,helped her,1
+helped her,Patricia,1
+Patricia,helped her,1
+although,Felicia,1
+Felicia,although,1
+although,Jennifer,1
+Jennifer,although,1
+because,Felicia,1
+Felicia,because,1
+because,Jennifer,1
+Jennifer,because,1
+does not possess,Brett,1
+Brett,does not possess,1
+does not possess,Justin,1
+Justin,does not possess,1
+possesses,Brett,1
+Brett,possesses,1
+possesses,Justin,1
+Justin,possesses,1
+less,Jason,1
+Jason,less,1
+less,Neil,1
+Neil,less,1
+more,Jason,1
+Jason,more,1
+more,Neil,1
+Neil,more,1
+in stock,Joel,1
+Joel,in stock,1
+in stock,Kyle,1
+Kyle,in stock,1
+out,Joel,1
+Joel,out,1
+out,Kyle,1
+Kyle,out,1
+abhorred,Maria,1
+Maria,abhorred,1
+abhorred,Tanya,1
+Tanya,abhorred,1
+loved,Maria,1
+Maria,loved,1
+loved,Tanya,1
+Tanya,loved,1
+missed,Amy,1
+Amy,missed,1
+missed,Cynthia,1
+Cynthia,missed,1
+taken,Amy,1
+Amy,taken,1
+taken,Cynthia,1
+Cynthia,taken,1
+dyslexic,Lindsey,1
+Lindsey,dyslexic,1
+dyslexic,Samantha,1
+Samantha,dyslexic,1
+normal,Lindsey,1
+Lindsey,normal,1
+normal,Samantha,1
+Samantha,normal,1
+could have them,Carrie,1
+Carrie,could have them,1
+could have them,Emily,1
+Emily,could have them,1
+would be,Carrie,1
+Carrie,would be,1
+would be,Emily,1
+Emily,would be,1
+faster,Jeffrey,1
+Jeffrey,faster,1
+faster,William,1
+William,faster,1
+helped,Jeffrey,1
+Jeffrey,helped,1
+helped,William,1
+William,helped,1
+helps,Jeffrey,1
+Jeffrey,helps,1
+helps,William,1
+William,helps,1
+slower,Jeffrey,1
+Jeffrey,slower,1
+slower,William,1
+William,slower,1
+despised,Dennis,1
+Dennis,despised,1
+despised,Ian,1
+Ian,despised,1
+enjoyed,Dennis,1
+Dennis,enjoyed,1
+enjoyed,Ian,1
+Ian,enjoyed,1
+boring,sewing,1
+sewing,boring,1
+boring,volleyball,1
+volleyball,boring,1
+interesting,sewing,1
+sewing,interesting,1
+interesting,volleyball,1
+volleyball,interesting,1
+essential,backhoe,1
+backhoe,essential,1
+essential,crane,1
+crane,essential,1
+superfluous,backhoe,1
+backhoe,superfluous,1
+superfluous,crane,1
+crane,superfluous,1
+as,Jennifer,1
+Jennifer,as,1
+as,Maria,1
+Maria,as,1
+queen,Jennifer,1
+Jennifer,queen,1
+queen,Maria,1
+Maria,queen,1
+skipping,Jennifer,1
+Jennifer,skipping,1
+skipping,Maria,1
+Maria,skipping,1
+bathroom,Donald,1
+Donald,bathroom,1
+bathroom,Leslie,1
+Leslie,bathroom,1
+kitchen,Donald,1
+Donald,kitchen,1
+kitchen,Leslie,1
+Leslie,kitchen,1
+closer,floor,1
+floor,closer,1
+closer,window,1
+window,closer,1
+farther,floor,1
+floor,farther,1
+farther,window,1
+window,farther,1
+convincing with,Cynthia,1
+Cynthia,convincing with,1
+convincing with,Emily,1
+Emily,convincing with,1
+persuaded by,Cynthia,1
+Cynthia,persuaded by,1
+persuaded by,Emily,1
+Emily,persuaded by,1
+less,Matthew,1
+Matthew,less,1
+less,Randy,1
+Randy,less,1
+more,Matthew,1
+Matthew,more,1
+more,Randy,1
+Randy,more,1
+large,sign,1
+sign,large,1
+large,window,1
+window,large,1
+small,sign,1
+sign,small,1
+small,window,1
+window,small,1
+being played,Dennis,1
+Dennis,being played,1
+being played,Ryan,1
+Ryan,being played,1
+he,Dennis,1
+Dennis,he,1
+he,Ryan,1
+Ryan,he,1
+it,Dennis,1
+Dennis,it,1
+it,Ryan,1
+Ryan,it,1
+playing,Dennis,1
+Dennis,playing,1
+playing,Ryan,1
+Ryan,playing,1
+strong,Jennifer,1
+Jennifer,strong,1
+strong,Victoria,1
+Victoria,strong,1
+weak,Jennifer,1
+Jennifer,weak,1
+weak,Victoria,1
+Victoria,weak,1
+alert,Carrie,1
+Carrie,alert,1
+alert,Christine,1
+Christine,alert,1
+attentive,Carrie,1
+Carrie,attentive,1
+attentive,Christine,1
+Christine,attentive,1
+careless,Carrie,1
+Carrie,careless,1
+careless,Christine,1
+Christine,careless,1
+clumsy,Carrie,1
+Carrie,clumsy,1
+clumsy,Christine,1
+Christine,clumsy,1
+naive about,Erin,1
+Erin,naive about,1
+naive about,Victoria,1
+Victoria,naive about,1
+weary of,Erin,1
+Erin,weary of,1
+weary of,Victoria,1
+Victoria,weary of,1
+adventurous,Cynthia,1
+Cynthia,adventurous,1
+adventurous,Monica,1
+Monica,adventurous,1
+timid,Cynthia,1
+Cynthia,timid,1
+timid,Monica,1
+Monica,timid,1
+hated,Amy,1
+Amy,hated,1
+hated,Jessica,1
+Jessica,hated,1
+loved,Amy,1
+Amy,loved,1
+loved,Jessica,1
+Jessica,loved,1
+grow,Angela,1
+Angela,grow,1
+grow,Felicia,1
+Felicia,grow,1
+out,Angela,1
+Angela,out,1
+out,Felicia,1
+Felicia,out,1
+shorten,Angela,1
+Angela,shorten,1
+shorten,Felicia,1
+Felicia,shorten,1
+big,men,1
+men,big,1
+big,women,1
+women,big,1
+small,men,1
+men,small,1
+small,women,1
+women,small,1
+for,Hunter,1
+Hunter,for,1
+for,Kenneth,1
+Kenneth,for,1
+from,Hunter,1
+Hunter,from,1
+from,Kenneth,1
+Kenneth,from,1
+English,Kayla,1
+Kayla,English,1
+English,Victoria,1
+Victoria,English,1
+Math,Kayla,1
+Kayla,Math,1
+Math,Victoria,1
+Victoria,Math,1
+irresponsible,Brett,1
+Brett,irresponsible,1
+irresponsible,Kevin,1
+Kevin,irresponsible,1
+more responsible,Brett,1
+Brett,more responsible,1
+more responsible,Kevin,1
+Kevin,more responsible,1
+fresh,corn,1
+corn,fresh,1
+fresh,meatloaf,1
+meatloaf,fresh,1
+scorched,corn,1
+corn,scorched,1
+scorched,meatloaf,1
+meatloaf,scorched,1
+heavy,artwork,1
+artwork,heavy,1
+heavy,wall,1
+wall,heavy,1
+thin,artwork,1
+artwork,thin,1
+thin,wall,1
+wall,thin,1
+only had,shampoo,1
+shampoo,only had,1
+only had,soap,1
+soap,only had,1
+ran out of,shampoo,1
+shampoo,ran out of,1
+ran out of,soap,1
+soap,ran out of,1
+motivated,Betty,1
+Betty,motivated,1
+motivated,Carrie,1
+Carrie,motivated,1
+retiscent,Betty,1
+Betty,retiscent,1
+retiscent,Carrie,1
+Carrie,retiscent,1
+beautiful,Amy,1
+Amy,beautiful,1
+beautiful,Jennifer,1
+Jennifer,beautiful,1
+fat,Amy,1
+Amy,fat,1
+fat,Jennifer,1
+Jennifer,fat,1
+keep up,Amy,1
+Amy,keep up,1
+keep up,Jennifer,1
+Jennifer,keep up,1
+slack on,Amy,1
+Amy,slack on,1
+slack on,Jennifer,1
+Jennifer,slack on,1
+cheaper,lotion,1
+lotion,cheaper,1
+cheaper,makeup,1
+makeup,cheaper,1
+expensive,lotion,1
+lotion,expensive,1
+expensive,makeup,1
+makeup,expensive,1
+less,lotion,1
+lotion,less,1
+less,makeup,1
+makeup,less,1
+more,lotion,1
+lotion,more,1
+more,makeup,1
+makeup,more,1
+felt,Cynthia,1
+Cynthia,felt,1
+felt,Elena,1
+Elena,felt,1
+them,Cynthia,1
+Cynthia,them,1
+them,Elena,1
+Elena,them,1
+attractive,long,1
+long,attractive,1
+attractive,short,1
+short,attractive,1
+repulsive,long,1
+long,repulsive,1
+repulsive,short,1
+short,repulsive,1
+although,ball,1
+ball,although,1
+although,yarn,1
+yarn,although,1
+because,ball,1
+ball,because,1
+because,yarn,1
+yarn,because,1
+mask,Brett,1
+Brett,mask,1
+mask,Neil,1
+Neil,mask,1
+raquet,Brett,1
+Brett,raquet,1
+raquet,Neil,1
+Neil,raquet,1
+needed,powder,1
+powder,needed,1
+needed,salt,1
+salt,needed,1
+unnecessary,powder,1
+powder,unnecessary,1
+unnecessary,salt,1
+salt,unnecessary,1
+hard,apple,1
+apple,hard,1
+hard,wheel,1
+wheel,hard,1
+soft,apple,1
+apple,soft,1
+soft,wheel,1
+wheel,soft,1
+fight for his country,Joseph,1
+Joseph,fight for his country,1
+fight for his country,Lawrence,1
+Lawrence,fight for his country,1
+go to university,Joseph,1
+Joseph,go to university,1
+go to university,Lawrence,1
+Lawrence,go to university,1
+bought,Emily,1
+Emily,bought,1
+bought,Patricia,1
+Patricia,bought,1
+sold,Emily,1
+Emily,sold,1
+sold,Patricia,1
+Patricia,sold,1
+asked for,Brian,1
+Brian,asked for,1
+asked for,Joel,1
+Joel,asked for,1
+offered to,Brian,1
+Brian,offered to,1
+offered to,Joel,1
+Joel,offered to,1
+many,Kayla,1
+Kayla,many,1
+many,Samantha,1
+Samantha,many,1
+very few,Kayla,1
+Kayla,very few,1
+very few,Samantha,1
+Samantha,very few,1
+gentle,cleaning solution,1
+cleaning solution,gentle,1
+gentle,water spray,1
+water spray,gentle,1
+harsh,cleaning solution,1
+cleaning solution,harsh,1
+harsh,water spray,1
+water spray,harsh,1
+much safer,dull,1
+dull,much safer,1
+much safer,sharp,1
+sharp,much safer,1
+too dangerous,dull,1
+dull,too dangerous,1
+too dangerous,sharp,1
+sharp,too dangerous,1
+bad,bank,1
+bank,bad,1
+bad,credit,1
+credit,bad,1
+strict,bank,1
+bank,strict,1
+strict,credit,1
+credit,strict,1
+huge,humidifier,1
+humidifier,huge,1
+huge,trunk,1
+trunk,huge,1
+teeny,humidifier,1
+humidifier,teeny,1
+teeny,trunk,1
+trunk,teeny,1
+long,car wash,1
+car wash,long,1
+long,semi truck,1
+semi truck,long,1
+narrow,car wash,1
+car wash,narrow,1
+narrow,semi truck,1
+semi truck,narrow,1
+clumsy,Benjamin,1
+Benjamin,clumsy,1
+clumsy,Leslie,1
+Leslie,clumsy,1
+nimble,Benjamin,1
+Benjamin,nimble,1
+nimble,Leslie,1
+Leslie,nimble,1
+copious,Hunter,1
+Hunter,copious,1
+copious,Leslie,1
+Leslie,copious,1
+no,Hunter,1
+Hunter,no,1
+no,Leslie,1
+Leslie,no,1
+hates,Carrie,1
+Carrie,hates,1
+hates,Patricia,1
+Patricia,hates,1
+likes,Carrie,1
+Carrie,likes,1
+likes,Patricia,1
+Patricia,likes,1
+plumper,cheeks,1
+cheeks,plumper,1
+plumper,lips,1
+lips,plumper,1
+thinner,cheeks,1
+cheeks,thinner,1
+thinner,lips,1
+lips,thinner,1
+good,Ian,1
+Ian,good,1
+good,Kenneth,1
+Kenneth,good,1
+terrible,Ian,1
+Ian,terrible,1
+terrible,Kenneth,1
+Kenneth,terrible,1
+bigger,Erin,1
+Erin,bigger,1
+bigger,Katrina,1
+Katrina,bigger,1
+smaller,Erin,1
+Erin,smaller,1
+smaller,Katrina,1
+Katrina,smaller,1
+always,Monica,1
+Monica,always,1
+always,Samantha,1
+Samantha,always,1
+never,Monica,1
+Monica,never,1
+never,Samantha,1
+Samantha,never,1
+big,cap,1
+cap,big,1
+big,juice,1
+juice,big,1
+small,cap,1
+cap,small,1
+small,juice,1
+juice,small,1
+bigger,Mary,1
+Mary,bigger,1
+bigger,Megan,1
+Megan,bigger,1
+smaller,Mary,1
+Mary,smaller,1
+smaller,Megan,1
+Megan,smaller,1
+heavier,car,1
+car,heavier,1
+heavier,pallet,1
+pallet,heavier,1
+lighter,car,1
+car,lighter,1
+lighter,pallet,1
+pallet,lighter,1
+brave,Brian,1
+Brian,brave,1
+brave,Christopher,1
+Christopher,brave,1
+scared,Brian,1
+Brian,scared,1
+scared,Christopher,1
+Christopher,scared,1
+asking for,Kayla,1
+Kayla,asking for,1
+asking for,Laura,1
+Laura,asking for,1
+giving her,Kayla,1
+Kayla,giving her,1
+giving her,Laura,1
+Laura,giving her,1
+before,Kenneth,1
+Kenneth,before,1
+before,Logan,1
+Logan,before,1
+did not know,Kenneth,1
+Kenneth,did not know,1
+did not know,Logan,1
+Logan,did not know,1
+learned,Kenneth,1
+Kenneth,learned,1
+learned,Logan,1
+Logan,learned,1
+long,case,1
+case,long,1
+long,trumpet,1
+trumpet,long,1
+short,case,1
+case,short,1
+short,trumpet,1
+trumpet,short,1
+hostile,teeth,1
+teeth,hostile,1
+hostile,tonsils,1
+tonsils,hostile,1
+receptive,teeth,1
+teeth,receptive,1
+receptive,tonsils,1
+tonsils,receptive,1
+didnt want,Adam,1
+Adam,didnt want,1
+didnt want,Benjamin,1
+Benjamin,didnt want,1
+wanted,Adam,1
+Adam,wanted,1
+wanted,Benjamin,1
+Benjamin,wanted,1
+did not own,Christine,1
+Christine,did not own,1
+did not own,Felicia,1
+Felicia,did not own,1
+owned,Christine,1
+Christine,owned,1
+owned,Felicia,1
+Felicia,owned,1
+bright,attic,1
+attic,bright,1
+bright,garden,1
+garden,bright,1
+dark,attic,1
+attic,dark,1
+dark,garden,1
+garden,dark,1
+excited,Kyle,1
+Kyle,excited,1
+excited,Michael,1
+Michael,excited,1
+nervous,Kyle,1
+Kyle,nervous,1
+nervous,Michael,1
+Michael,nervous,1
+hated,Betty,1
+Betty,hated,1
+hated,Rachel,1
+Rachel,hated,1
+loved,Betty,1
+Betty,loved,1
+loved,Rachel,1
+Rachel,loved,1
+many,church,1
+church,many,1
+many,school,1
+school,many,1
+very few,church,1
+church,very few,1
+very few,school,1
+school,very few,1
+middle class,Angela,1
+Angela,middle class,1
+middle class,Emily,1
+Emily,middle class,1
+wealthy,Angela,1
+Angela,wealthy,1
+wealthy,Emily,1
+Emily,wealthy,1
+because,Elena,1
+Elena,because,1
+because,Rachel,1
+Rachel,because,1
+but,Elena,1
+Elena,but,1
+but,Rachel,1
+Rachel,but,1
+considerate,Elena,1
+Elena,considerate,1
+considerate,Rachel,1
+Rachel,considerate,1
+unhappy,Elena,1
+Elena,unhappy,1
+unhappy,Rachel,1
+Rachel,unhappy,1
+legible,Christopher,1
+Christopher,legible,1
+legible,Randy,1
+Randy,legible,1
+unreadable,Christopher,1
+Christopher,unreadable,1
+unreadable,Randy,1
+Randy,unreadable,1
+healthier,Joseph,1
+Joseph,healthier,1
+healthier,Kyle,1
+Kyle,healthier,1
+less healthy,Joseph,1
+Joseph,less healthy,1
+less healthy,Kyle,1
+Kyle,less healthy,1
+gained,Felicia,1
+Felicia,gained,1
+gained,Sarah,1
+Sarah,gained,1
+lost,Felicia,1
+Felicia,lost,1
+lost,Sarah,1
+Sarah,lost,1
+given,Lawrence,1
+Lawrence,given,1
+given,Matthew,1
+Matthew,given,1
+withheld,Lawrence,1
+Lawrence,withheld,1
+withheld,Matthew,1
+Matthew,withheld,1
+doesnt have time to grow,Felicia,1
+Felicia,doesnt have time to grow,1
+doesnt have time to grow,Patricia,1
+Patricia,doesnt have time to grow,1
+enjoyed growing,Felicia,1
+Felicia,enjoyed growing,1
+enjoyed growing,Patricia,1
+Patricia,enjoyed growing,1
+better,necklace,1
+necklace,better,1
+better,ring,1
+ring,better,1
+worse,necklace,1
+necklace,worse,1
+worse,ring,1
+ring,worse,1
+and eventually did quit,Benjamin,1
+Benjamin,and eventually did quit,1
+and eventually did quit,Dennis,1
+Dennis,and eventually did quit,1
+but started,Benjamin,1
+Benjamin,but started,1
+but started,Dennis,1
+Dennis,but started,1
+themselves,Benjamin,1
+Benjamin,themselves,1
+themselves,Dennis,1
+Dennis,themselves,1
+beautiful,Laura,1
+Laura,beautiful,1
+beautiful,Tanya,1
+Tanya,beautiful,1
+horrible,Laura,1
+Laura,horrible,1
+horrible,Tanya,1
+Tanya,horrible,1
+everyone,Samantha,1
+Samantha,everyone,1
+everyone,Tanya,1
+Tanya,everyone,1
+to,Samantha,1
+Samantha,to,1
+to,Tanya,1
+Tanya,to,1
+was,Samantha,1
+Samantha,was,1
+was,Tanya,1
+Tanya,was,1
+her mouth closed,Jennifer,1
+Jennifer,her mouth closed,1
+her mouth closed,Laura,1
+Laura,her mouth closed,1
+talking,Jennifer,1
+Jennifer,talking,1
+talking,Laura,1
+Laura,talking,1
+original,dress,1
+dress,original,1
+original,fabric,1
+fabric,original,1
+tacky,dress,1
+dress,tacky,1
+tacky,fabric,1
+fabric,tacky,1
+available,stick,1
+stick,available,1
+available,wheelchair,1
+wheelchair,available,1
+broken,stick,1
+stick,broken,1
+broken,wheelchair,1
+wheelchair,broken,1
+forgetful,Derrick,1
+Derrick,forgetful,1
+forgetful,Hunter,1
+Hunter,forgetful,1
+unforgetful,Derrick,1
+Derrick,unforgetful,1
+unforgetful,Hunter,1
+Hunter,unforgetful,1
+cheap,steaks,1
+steaks,cheap,1
+cheap,sweet potatoes,1
+sweet potatoes,cheap,1
+expensive,steaks,1
+steaks,expensive,1
+expensive,sweet potatoes,1
+sweet potatoes,expensive,1
+added,Amy,1
+Amy,added,1
+added,Elena,1
+Elena,added,1
+didnt add,Amy,1
+Amy,didnt add,1
+didnt add,Elena,1
+Elena,didnt add,1
+difficult,floor,1
+floor,difficult,1
+difficult,move,1
+move,difficult,1
+small,floor,1
+floor,small,1
+small,move,1
+move,small,1
+faded,ceilings,1
+ceilings,faded,1
+faded,walls,1
+walls,faded,1
+fresh,ceilings,1
+ceilings,fresh,1
+fresh,walls,1
+walls,fresh,1
+only,ceilings,1
+ceilings,only,1
+only,walls,1
+walls,only,1
+did not take,Derrick,1
+Derrick,did not take,1
+did not take,Robert,1
+Robert,did not take,1
+too,Derrick,1
+Derrick,too,1
+too,Robert,1
+Robert,too,1
+took,Derrick,1
+Derrick,took,1
+took,Robert,1
+Robert,took,1
+a liar,Erin,1
+Erin,a liar,1
+a liar,Jessica,1
+Jessica,a liar,1
+lied to,Erin,1
+Erin,lied to,1
+lied to,Jessica,1
+Jessica,lied to,1
+is disappointed,Jennifer,1
+Jennifer,is disappointed,1
+is disappointed,Kayla,1
+Kayla,is disappointed,1
+starts writing,Jennifer,1
+Jennifer,starts writing,1
+starts writing,Kayla,1
+Kayla,starts writing,1
+bad,Brett,1
+Brett,bad,1
+bad,Christopher,1
+Christopher,bad,1
+didnt want,Brett,1
+Brett,didnt want,1
+didnt want,Christopher,1
+Christopher,didnt want,1
+good,Brett,1
+Brett,good,1
+good,Christopher,1
+Christopher,good,1
+he,Brett,1
+Brett,he,1
+he,Christopher,1
+Christopher,he,1
+him,Brett,1
+Brett,him,1
+him,Christopher,1
+Christopher,him,1
+wanted,Brett,1
+Brett,wanted,1
+wanted,Christopher,1
+Christopher,wanted,1
+fit,Erin,1
+Erin,fit,1
+fit,Kayla,1
+Kayla,fit,1
+unfit,Erin,1
+Erin,unfit,1
+unfit,Kayla,1
+Kayla,unfit,1
+big,Matthew,1
+Matthew,big,1
+big,Nick,1
+Nick,big,1
+small,Matthew,1
+Matthew,small,1
+small,Nick,1
+Nick,small,1
+a,apartment,1
+apartment,a,1
+a,house,1
+house,a,1
+an,apartment,1
+apartment,an,1
+an,house,1
+house,an,1
+easier,apartment,1
+apartment,easier,1
+easier,house,1
+house,easier,1
+harder,apartment,1
+apartment,harder,1
+harder,house,1
+house,harder,1
+old,jeans,1
+jeans,old,1
+old,khakis,1
+khakis,old,1
+trendy,jeans,1
+jeans,trendy,1
+trendy,khakis,1
+khakis,trendy,1
+damaging,accident,1
+accident,damaging,1
+damaging,insurance,1
+insurance,damaging,1
+expensive,accident,1
+accident,expensive,1
+expensive,insurance,1
+insurance,expensive,1
+just,accident,1
+accident,just,1
+just,insurance,1
+insurance,just,1
+still,accident,1
+accident,still,1
+still,insurance,1
+insurance,still,1
+in,guitar,1
+guitar,in,1
+in,piano,1
+piano,in,1
+out of,guitar,1
+guitar,out of,1
+out of,piano,1
+piano,out of,1
+heavy,boat,1
+boat,heavy,1
+heavy,ship,1
+ship,heavy,1
+light,boat,1
+boat,light,1
+light,ship,1
+ship,light,1
+deep enough to,bowl,1
+bowl,deep enough to,1
+deep enough to,plate,1
+plate,deep enough to,1
+in,bowl,1
+bowl,in,1
+in,plate,1
+plate,in,1
+n,bowl,1
+bowl,n,1
+n,plate,1
+plate,n,1
+shallow and couldnt,bowl,1
+bowl,shallow and couldnt,1
+shallow and couldnt,plate,1
+plate,shallow and couldnt,1
+ignores,Leslie,1
+Leslie,ignores,1
+ignores,Nelson,1
+Nelson,ignores,1
+plays,Leslie,1
+Leslie,plays,1
+plays,Nelson,1
+Nelson,plays,1
+a healthy weight,Joel,1
+Joel,a healthy weight,1
+a healthy weight,Kyle,1
+Kyle,a healthy weight,1
+overweight,Joel,1
+Joel,overweight,1
+overweight,Kyle,1
+Kyle,overweight,1
+customer,Lawrence,1
+Lawrence,customer,1
+customer,Leslie,1
+Leslie,customer,1
+worker,Lawrence,1
+Lawrence,worker,1
+worker,Leslie,1
+Leslie,worker,1
+animals,Donald,1
+Donald,animals,1
+animals,Randy,1
+Randy,animals,1
+cubicles,Donald,1
+Donald,cubicles,1
+cubicles,Randy,1
+Randy,cubicles,1
+easier,computer,1
+computer,easier,1
+easier,television,1
+television,easier,1
+harder,computer,1
+computer,harder,1
+harder,television,1
+television,harder,1
+had clarity,bullhorn,1
+bullhorn,had clarity,1
+had clarity,microphone,1
+microphone,had clarity,1
+was muffled,bullhorn,1
+bullhorn,was muffled,1
+was muffled,microphone,1
+microphone,was muffled,1
+always,Angela,1
+Angela,always,1
+always,Christine,1
+Christine,always,1
+never,Angela,1
+Angela,never,1
+never,Christine,1
+Christine,never,1
+tough,bleach,1
+bleach,tough,1
+tough,stain,1
+stain,tough,1
+weak,bleach,1
+bleach,weak,1
+weak,stain,1
+stain,weak,1
+less,Natalie,1
+Natalie,less,1
+less,Rebecca,1
+Rebecca,less,1
+more,Natalie,1
+Natalie,more,1
+more,Rebecca,1
+Rebecca,more,1
+good,Lindsey,1
+Lindsey,good,1
+good,Mary,1
+Mary,good,1
+poor,Lindsey,1
+Lindsey,poor,1
+poor,Mary,1
+Mary,poor,1
+aerated,Air,1
+Air,aerated,1
+aerated,Room,1
+Room,aerated,1
+clean,Air,1
+Air,clean,1
+clean,Room,1
+Room,clean,1
+humane,box,1
+box,humane,1
+humane,trap,1
+trap,humane,1
+inhumane,box,1
+box,inhumane,1
+inhumane,trap,1
+trap,inhumane,1
+failed,Betty,1
+Betty,failed,1
+failed,Maria,1
+Maria,failed,1
+graduated,Betty,1
+Betty,graduated,1
+graduated,Maria,1
+Maria,graduated,1
+good,Angela,1
+Angela,good,1
+good,Erin,1
+Erin,good,1
+grateful,Angela,1
+Angela,grateful,1
+grateful,Erin,1
+Erin,grateful,1
+dried fast,mortar,1
+mortar,dried fast,1
+dried fast,trowel,1
+trowel,dried fast,1
+was handheld,mortar,1
+mortar,was handheld,1
+was handheld,trowel,1
+trowel,was handheld,1
+frequently,Craig,1
+Craig,frequently,1
+frequently,Jeffrey,1
+Jeffrey,frequently,1
+infrequently,Craig,1
+Craig,infrequently,1
+infrequently,Jeffrey,1
+Jeffrey,infrequently,1
+nice and cool,summer,1
+summer,nice and cool,1
+nice and cool,winter,1
+winter,nice and cool,1
+too hot,summer,1
+summer,too hot,1
+too hot,winter,1
+winter,too hot,1
+a fan of cats,Elena,1
+Elena,a fan of cats,1
+a fan of cats,Sarah,1
+Sarah,a fan of cats,1
+very persuasive,Elena,1
+Elena,very persuasive,1
+very persuasive,Sarah,1
+Sarah,very persuasive,1
+bad,Felicia,1
+Felicia,bad,1
+bad,Patricia,1
+Patricia,bad,1
+good,Felicia,1
+Felicia,good,1
+good,Patricia,1
+Patricia,good,1
+ethical,commands,1
+commands,ethical,1
+ethical,computers,1
+computers,ethical,1
+unethical,commands,1
+commands,unethical,1
+unethical,computers,1
+computers,unethical,1
+coarse,pot,1
+pot,coarse,1
+coarse,steel wool,1
+steel wool,coarse,1
+fragile,pot,1
+pot,fragile,1
+fragile,steel wool,1
+steel wool,fragile,1
+art,Jason,1
+Jason,art,1
+art,Leslie,1
+Leslie,art,1
+history,Jason,1
+Jason,history,1
+history,Leslie,1
+Leslie,history,1
+history major,Jason,1
+Jason,history major,1
+history major,Leslie,1
+Leslie,history major,1
+cheap,boots,1
+boots,cheap,1
+cheap,loafers,1
+loafers,cheap,1
+expensive,boots,1
+boots,expensive,1
+expensive,loafers,1
+loafers,expensive,1
+optimistic,Kenneth,1
+Kenneth,optimistic,1
+optimistic,Matthew,1
+Matthew,optimistic,1
+pessimistic,Kenneth,1
+Kenneth,pessimistic,1
+pessimistic,Matthew,1
+Matthew,pessimistic,1
+bought,Donald,1
+Donald,bought,1
+bought,Kyle,1
+Kyle,bought,1
+did not need to buy,Donald,1
+Donald,did not need to buy,1
+did not need to buy,Kyle,1
+Kyle,did not need to buy,1
+infield,Erin,1
+Erin,infield,1
+infield,Kayla,1
+Kayla,infield,1
+outfield,Erin,1
+Erin,outfield,1
+outfield,Kayla,1
+Kayla,outfield,1
+professional patissier,Craig,1
+Craig,professional patissier,1
+professional patissier,Justin,1
+Justin,professional patissier,1
+terrible cook,Craig,1
+Craig,terrible cook,1
+terrible cook,Justin,1
+Justin,terrible cook,1
+been,Megan,1
+Megan,been,1
+been,Monica,1
+Monica,been,1
+for awhile,Megan,1
+Megan,for awhile,1
+for awhile,Monica,1
+Monica,for awhile,1
+just started,Megan,1
+Megan,just started,1
+just started,Monica,1
+Monica,just started,1
+attended,Adam,1
+Adam,attended,1
+attended,Nick,1
+Nick,attended,1
+missed,Adam,1
+Adam,missed,1
+missed,Nick,1
+Nick,missed,1
+hates,Carrie,1
+Carrie,hates,1
+hates,Tanya,1
+Tanya,hates,1
+loves,Carrie,1
+Carrie,loves,1
+loves,Tanya,1
+Tanya,loves,1
+although,Betty,1
+Betty,although,1
+although,Tanya,1
+Tanya,although,1
+because,Betty,1
+Betty,because,1
+because,Tanya,1
+Tanya,because,1
+lip,chapstick,1
+chapstick,lip,1
+lip,lipstick,1
+lipstick,lip,1
+old,chapstick,1
+chapstick,old,1
+old,lipstick,1
+lipstick,old,1
+trendy,chapstick,1
+chapstick,trendy,1
+trendy,lipstick,1
+lipstick,trendy,1
+entered,evening,1
+evening,entered,1
+entered,morning,1
+morning,entered,1
+exited,evening,1
+evening,exited,1
+exited,morning,1
+morning,exited,1
+bigger,chalk,1
+chalk,bigger,1
+bigger,markers,1
+markers,bigger,1
+smaller,chalk,1
+chalk,smaller,1
+smaller,markers,1
+markers,smaller,1
+because,Betty,1
+Betty,because,1
+because,Patricia,1
+Patricia,because,1
+even though,Betty,1
+Betty,even though,1
+even though,Patricia,1
+Patricia,even though,1
+better,casino,1
+casino,better,1
+better,truckstop,1
+truckstop,better,1
+worse,casino,1
+casino,worse,1
+worse,truckstop,1
+truckstop,worse,1
+artist,Kayla,1
+Kayla,artist,1
+artist,Maria,1
+Maria,artist,1
+model,Kayla,1
+Kayla,model,1
+model,Maria,1
+Maria,model,1
+boring,basketball,1
+basketball,boring,1
+boring,bowling,1
+bowling,boring,1
+fun,basketball,1
+basketball,fun,1
+fun,bowling,1
+bowling,fun,1
+rough,aloe,1
+aloe,rough,1
+rough,lotion,1
+lotion,rough,1
+soothing,aloe,1
+aloe,soothing,1
+soothing,lotion,1
+lotion,soothing,1
+needed,curtains,1
+curtains,needed,1
+needed,materials,1
+materials,needed,1
+pretty,curtains,1
+curtains,pretty,1
+pretty,materials,1
+materials,pretty,1
+didnt have,Dennis,1
+Dennis,didnt have,1
+didnt have,Kyle,1
+Kyle,didnt have,1
+had,Dennis,1
+Dennis,had,1
+had,Kyle,1
+Kyle,had,1
+a calmer,Amy,1
+Amy,a calmer,1
+a calmer,Christine,1
+Christine,a calmer,1
+an angry,Amy,1
+Amy,an angry,1
+an angry,Christine,1
+Christine,an angry,1
+because didnt have,Megan,1
+Megan,because didnt have,1
+because didnt have,Rachel,1
+Rachel,because didnt have,1
+since already had,Megan,1
+Megan,since already had,1
+since already had,Rachel,1
+Rachel,since already had,1
+big,Felicia,1
+Felicia,big,1
+big,Katrina,1
+Katrina,big,1
+small,Felicia,1
+Felicia,small,1
+small,Katrina,1
+Katrina,small,1
+decided to,Amy,1
+Amy,decided to,1
+decided to,Kayla,1
+Kayla,decided to,1
+saw them,Amy,1
+Amy,saw them,1
+saw them,Kayla,1
+Kayla,saw them,1
+did not study at all,Logan,1
+Logan,did not study at all,1
+did not study at all,Robert,1
+Robert,did not study at all,1
+studied a lot harder,Logan,1
+Logan,studied a lot harder,1
+studied a lot harder,Robert,1
+Robert,studied a lot harder,1
+on hand,Carrie,1
+Carrie,on hand,1
+on hand,Laura,1
+Laura,on hand,1
+pot,pot,1
+pot,pot,1
+pot,tulip,1
+tulip,pot,1
+tulip,pot,1
+pot,tulip,1
+tulip,tulip,1
+tulip,tulip,1
+guilty,Jennifer,1
+Jennifer,guilty,1
+guilty,Kayla,1
+Kayla,guilty,1
+sneezy,Jennifer,1
+Jennifer,sneezy,1
+sneezy,Kayla,1
+Kayla,sneezy,1
+sorry,Jennifer,1
+Jennifer,sorry,1
+sorry,Kayla,1
+Kayla,sorry,1
+stuffy,Jennifer,1
+Jennifer,stuffy,1
+stuffy,Kayla,1
+Kayla,stuffy,1
+experienced,Benjamin,1
+Benjamin,experienced,1
+experienced,Steven,1
+Steven,experienced,1
+new,Benjamin,1
+Benjamin,new,1
+new,Steven,1
+Steven,new,1
+empty,hole,1
+hole,empty,1
+empty,pot,1
+pot,empty,1
+full,hole,1
+hole,full,1
+full,pot,1
+pot,full,1
+large,folder,1
+folder,large,1
+large,paper,1
+paper,large,1
+small,folder,1
+folder,small,1
+small,paper,1
+paper,small,1
+many times,Emily,1
+Emily,many times,1
+many times,Megan,1
+Megan,many times,1
+never,Emily,1
+Emily,never,1
+never,Megan,1
+Megan,never,1
+one,Emily,1
+Emily,one,1
+one,Megan,1
+Megan,one,1
+strong,Erin,1
+Erin,strong,1
+strong,Sarah,1
+Sarah,strong,1
+weak,Erin,1
+Erin,weak,1
+weak,Sarah,1
+Sarah,weak,1
+hides,black bow,1
+black bow,hides,1
+hides,white bow,1
+white bow,hides,1
+shows,black bow,1
+black bow,shows,1
+shows,white bow,1
+white bow,shows,1
+offered,Betty,1
+Betty,offered,1
+offered,Sarah,1
+Sarah,offered,1
+wanted,Betty,1
+Betty,wanted,1
+wanted,Sarah,1
+Sarah,wanted,1
+dangerous,coop,1
+coop,dangerous,1
+dangerous,yard,1
+yard,dangerous,1
+safe,coop,1
+coop,safe,1
+safe,yard,1
+yard,safe,1
+cold,Sweater,1
+Sweater,cold,1
+cold,T-Shirt,1
+T-Shirt,cold,1
+hot,Sweater,1
+Sweater,hot,1
+hot,T-Shirt,1
+T-Shirt,hot,1
+always,Laura,1
+Laura,always,1
+always,Samantha,1
+Samantha,always,1
+rarely,Laura,1
+Laura,rarely,1
+rarely,Samantha,1
+Samantha,rarely,1
+Ive decide,Ian,1
+Ian,Ive decide,1
+Ive decide,Steven,1
+Steven,Ive decide,1
+go,Ian,1
+Ian,go,1
+go,Steven,1
+Steven,go,1
+educating,Brian,1
+Brian,educating,1
+educating,Michael,1
+Michael,educating,1
+learning,Brian,1
+Brian,learning,1
+learning,Michael,1
+Michael,learning,1
+student,Brian,1
+Brian,student,1
+student,Michael,1
+Michael,student,1
+teacher,Brian,1
+Brian,teacher,1
+teacher,Michael,1
+Michael,teacher,1
+narrow,doorway,1
+doorway,narrow,1
+narrow,table,1
+table,narrow,1
+wide,doorway,1
+doorway,wide,1
+wide,table,1
+table,wide,1
+ahead,Jason,1
+Jason,ahead,1
+ahead,Randy,1
+Randy,ahead,1
+behind,Jason,1
+Jason,behind,1
+behind,Randy,1
+Randy,behind,1
+cheaply,documentary movie,1
+documentary movie,cheaply,1
+cheaply,dramatic film,1
+dramatic film,cheaply,1
+well,documentary movie,1
+documentary movie,well,1
+well,dramatic film,1
+dramatic film,well,1
+baby,Angela,1
+Angela,baby,1
+baby,Betty,1
+Betty,baby,1
+mother,Angela,1
+Angela,mother,1
+mother,Betty,1
+Betty,mother,1
+adored,Joel,1
+Joel,adored,1
+adored,Matthew,1
+Matthew,adored,1
+hated,Joel,1
+Joel,hated,1
+hated,Matthew,1
+Matthew,hated,1
+not,female,1
+female,not,1
+not,male,1
+male,not,1
+well,female,1
+female,well,1
+well,male,1
+male,well,1
+parent,Joel,1
+Joel,parent,1
+parent,Robert,1
+Robert,parent,1
+teenager,Joel,1
+Joel,teenager,1
+teenager,Robert,1
+Robert,teenager,1
+black,Derrick,1
+Derrick,black,1
+black,Ryan,1
+Ryan,black,1
+green,Derrick,1
+Derrick,green,1
+green,Ryan,1
+Ryan,green,1
+fatter,Donald,1
+Donald,fatter,1
+fatter,William,1
+William,fatter,1
+thinner,Donald,1
+Donald,thinner,1
+thinner,William,1
+William,thinner,1
+saved,Felicia,1
+Felicia,saved,1
+saved,Sarah,1
+Sarah,saved,1
+spent,Felicia,1
+Felicia,spent,1
+spent,Sarah,1
+Sarah,spent,1
+been an example for,Christopher,1
+Christopher,been an example for,1
+been an example for,Michael,1
+Michael,been an example for,1
+looked up to,Christopher,1
+Christopher,looked up to,1
+looked up to,Michael,1
+Michael,looked up to,1
+hated,Angela,1
+Angela,hated,1
+hated,Lindsey,1
+Lindsey,hated,1
+loved,Angela,1
+Angela,loved,1
+loved,Lindsey,1
+Lindsey,loved,1
+large,briefcase,1
+briefcase,large,1
+large,editorial,1
+editorial,large,1
+small,briefcase,1
+briefcase,small,1
+small,editorial,1
+editorial,small,1
+strong,pesticide,1
+pesticide,strong,1
+strong,soil,1
+soil,strong,1
+weak,pesticide,1
+pesticide,weak,1
+weak,soil,1
+soil,weak,1
+much,room,1
+room,much,1
+much,smoke,1
+smoke,much,1
+small,room,1
+room,small,1
+small,smoke,1
+smoke,small,1
+is a lawyer,Aaron,1
+Aaron,is a lawyer,1
+is a lawyer,William,1
+William,is a lawyer,1
+knows nothing about law,Aaron,1
+Aaron,knows nothing about law,1
+knows nothing about law,William,1
+William,knows nothing about law,1
+avoid it,Brett,1
+Brett,avoid it,1
+avoid it,Kenneth,1
+Kenneth,avoid it,1
+be seductive,Brett,1
+Brett,be seductive,1
+be seductive,Kenneth,1
+Kenneth,be seductive,1
+nosy,Lawrence,1
+Lawrence,nosy,1
+nosy,Nelson,1
+Nelson,nosy,1
+secretive,Lawrence,1
+Lawrence,secretive,1
+secretive,Nelson,1
+Nelson,secretive,1
+excitement,Megan,1
+Megan,excitement,1
+excitement,Patricia,1
+Patricia,excitement,1
+romance,Megan,1
+Megan,romance,1
+romance,Patricia,1
+Patricia,romance,1
+needed,chest,1
+chest,needed,1
+needed,table,1
+table,needed,1
+provided,chest,1
+chest,provided,1
+provided,table,1
+table,provided,1
+extra,bombs,1
+bombs,extra,1
+extra,guns,1
+guns,extra,1
+not as,bombs,1
+bombs,not as,1
+not as,guns,1
+guns,not as,1
+large,boot,1
+boot,large,1
+large,foot,1
+foot,large,1
+small,boot,1
+boot,small,1
+small,foot,1
+foot,small,1
+didnt hire,Betty,1
+Betty,didnt hire,1
+didnt hire,Megan,1
+Megan,didnt hire,1
+hired,Betty,1
+Betty,hired,1
+hired,Megan,1
+Megan,hired,1
+alien to,Joel,1
+Joel,alien to,1
+alien to,Kevin,1
+Kevin,alien to,1
+familiar with,Joel,1
+Joel,familiar with,1
+familiar with,Kevin,1
+Kevin,familiar with,1
+freshly made,bread,1
+bread,freshly made,1
+freshly made,tortilla,1
+tortilla,freshly made,1
+getting moldy,bread,1
+bread,getting moldy,1
+getting moldy,tortilla,1
+tortilla,getting moldy,1
+answered,Jason,1
+Jason,answered,1
+answered,Michael,1
+Michael,answered,1
+asked,Jason,1
+Jason,asked,1
+asked,Michael,1
+Michael,asked,1
+athletic,Cynthia,1
+Cynthia,athletic,1
+athletic,Samantha,1
+Samantha,athletic,1
+lazy,Cynthia,1
+Cynthia,lazy,1
+lazy,Samantha,1
+Samantha,lazy,1
+clumsy,Derrick,1
+Derrick,clumsy,1
+clumsy,Robert,1
+Robert,clumsy,1
+experienced,Derrick,1
+Derrick,experienced,1
+experienced,Robert,1
+Robert,experienced,1
+asked for,Felicia,1
+Felicia,asked for,1
+asked for,Kayla,1
+Kayla,asked for,1
+offered,Felicia,1
+Felicia,offered,1
+offered,Kayla,1
+Kayla,offered,1
+dog food,Christopher,1
+Christopher,dog food,1
+dog food,Neil,1
+Neil,dog food,1
+mice,Christopher,1
+Christopher,mice,1
+mice,Neil,1
+Neil,mice,1
+cheaper,band,1
+band,cheaper,1
+cheaper,gemstone,1
+gemstone,cheaper,1
+pricier,band,1
+band,pricier,1
+pricier,gemstone,1
+gemstone,pricier,1
+a professional horticulturist,Brian,1
+Brian,a professional horticulturist,1
+a professional horticulturist,Ryan,1
+Ryan,a professional horticulturist,1
+new to gardening,Brian,1
+Brian,new to gardening,1
+new to gardening,Ryan,1
+Ryan,new to gardening,1
+loose,bracelet,1
+bracelet,loose,1
+loose,ring,1
+ring,loose,1
+tight,bracelet,1
+bracelet,tight,1
+tight,ring,1
+ring,tight,1
+healthy,diet,1
+diet,healthy,1
+healthy,vacation,1
+vacation,healthy,1
+local,diet,1
+diet,local,1
+local,vacation,1
+vacation,local,1
+bad,burn,1
+burn,bad,1
+bad,ointment,1
+ointment,bad,1
+good,burn,1
+burn,good,1
+good,ointment,1
+ointment,good,1
+less,Felicia,1
+Felicia,less,1
+less,Sarah,1
+Sarah,less,1
+more,Felicia,1
+Felicia,more,1
+more,Sarah,1
+Sarah,more,1
+absolutely refused,Christopher,1
+Christopher,absolutely refused,1
+absolutely refused,Jeffrey,1
+Jeffrey,absolutely refused,1
+was delighted,Christopher,1
+Christopher,was delighted,1
+was delighted,Jeffrey,1
+Jeffrey,was delighted,1
+coarse,diamond,1
+diamond,coarse,1
+coarse,emerald,1
+emerald,coarse,1
+prettier,diamond,1
+diamond,prettier,1
+prettier,emerald,1
+emerald,prettier,1
+fragile,floor,1
+floor,fragile,1
+fragile,pot,1
+pot,fragile,1
+hard,floor,1
+floor,hard,1
+hard,pot,1
+pot,hard,1
+fresh,Derrick,1
+Derrick,fresh,1
+fresh,Joseph,1
+Joseph,fresh,1
+smelly,Derrick,1
+Derrick,smelly,1
+smelly,Joseph,1
+Joseph,smelly,1
+narrow,cash,1
+cash,narrow,1
+narrow,purse,1
+purse,narrow,1
+wide,cash,1
+cash,wide,1
+wide,purse,1
+purse,wide,1
+earlier,Cynthia,1
+Cynthia,earlier,1
+earlier,Rachel,1
+Rachel,earlier,1
+later,Cynthia,1
+Cynthia,later,1
+later,Rachel,1
+Rachel,later,1
+did not know,Felicia,1
+Felicia,did not know,1
+did not know,Jennifer,1
+Jennifer,did not know,1
+knew,Felicia,1
+Felicia,knew,1
+knew,Jennifer,1
+Jennifer,knew,1
+experience,Erin,1
+Erin,experience,1
+experience,Patricia,1
+Patricia,experience,1
+trouble,Erin,1
+Erin,trouble,1
+trouble,Patricia,1
+Patricia,trouble,1
+limited,olympic,1
+olympic,limited,1
+limited,world cup,1
+world cup,limited,1
+variant,olympic,1
+olympic,variant,1
+variant,world cup,1
+world cup,variant,1
+bought,crayons,1
+crayons,bought,1
+bought,pencils,1
+pencils,bought,1
+tiny,crayons,1
+crayons,tiny,1
+tiny,pencils,1
+pencils,tiny,1
+resiliant,sunburn,1
+sunburn,resiliant,1
+resiliant,vasectomy,1
+vasectomy,resiliant,1
+sensitive,sunburn,1
+sunburn,sensitive,1
+sensitive,vasectomy,1
+vasectomy,sensitive,1
+darker,basement,1
+basement,darker,1
+darker,shed,1
+shed,darker,1
+lighter,basement,1
+basement,lighter,1
+lighter,shed,1
+shed,lighter,1
+quicker,chemical,1
+chemical,quicker,1
+quicker,vinegar,1
+vinegar,quicker,1
+slower,chemical,1
+chemical,slower,1
+slower,vinegar,1
+vinegar,slower,1
+accidentally dropped dirt there,Benjamin,1
+Benjamin,accidentally dropped dirt there,1
+accidentally dropped dirt there,Samuel,1
+Samuel,accidentally dropped dirt there,1
+despises grime,Benjamin,1
+Benjamin,despises grime,1
+despises grime,Samuel,1
+Samuel,despises grime,1
+quick,meals,1
+meals,quick,1
+quick,snacks,1
+snacks,quick,1
+timeconsuming,meals,1
+meals,timeconsuming,1
+timeconsuming,snacks,1
+snacks,timeconsuming,1
+flimsy,concrete,1
+concrete,flimsy,1
+flimsy,straw,1
+straw,flimsy,1
+solid,concrete,1
+concrete,solid,1
+solid,straw,1
+straw,solid,1
+less,Christine,1
+Christine,less,1
+less,Tanya,1
+Tanya,less,1
+more,Christine,1
+Christine,more,1
+more,Tanya,1
+Tanya,more,1
+brighter,ball,1
+ball,brighter,1
+brighter,stick,1
+stick,brighter,1
+duller,ball,1
+ball,duller,1
+duller,stick,1
+stick,duller,1
+ashamed,Kayla,1
+Kayla,ashamed,1
+ashamed,Mary,1
+Mary,ashamed,1
+bullied,Kayla,1
+Kayla,bullied,1
+bullied,Mary,1
+Mary,bullied,1
+cynic,Jennifer,1
+Jennifer,cynic,1
+cynic,Tanya,1
+Tanya,cynic,1
+romantic,Jennifer,1
+Jennifer,romantic,1
+romantic,Tanya,1
+Tanya,romantic,1
+above,fridge,1
+fridge,above,1
+above,pantry,1
+pantry,above,1
+behind stuff in,fridge,1
+fridge,behind stuff in,1
+behind stuff in,pantry,1
+pantry,behind stuff in,1
+comedy,movie,1
+movie,comedy,1
+comedy,show,1
+show,comedy,1
+drama,movie,1
+movie,drama,1
+drama,show,1
+show,drama,1
+high,apartments,1
+apartments,high,1
+high,offices,1
+offices,high,1
+low,apartments,1
+apartments,low,1
+low,offices,1
+offices,low,1
+efficient,Emily,1
+Emily,efficient,1
+efficient,Mary,1
+Mary,efficient,1
+inefficient,Emily,1
+Emily,inefficient,1
+inefficient,Mary,1
+Mary,inefficient,1
+artist,Donald,1
+Donald,artist,1
+artist,Ryan,1
+Ryan,artist,1
+commissioned,Donald,1
+Donald,commissioned,1
+commissioned,Ryan,1
+Ryan,commissioned,1
+made,Donald,1
+Donald,made,1
+made,Ryan,1
+Ryan,made,1
+person,Donald,1
+Donald,person,1
+person,Ryan,1
+Ryan,person,1
+large,ball,1
+ball,large,1
+large,basket,1
+basket,large,1
+small,ball,1
+ball,small,1
+small,basket,1
+basket,small,1
+disappointed,Christine,1
+Christine,disappointed,1
+disappointed,Jennifer,1
+Jennifer,disappointed,1
+pleased,Christine,1
+Christine,pleased,1
+pleased,Jennifer,1
+Jennifer,pleased,1
+poor,cleanser,1
+cleanser,poor,1
+poor,cream,1
+cream,poor,1
+proper,cleanser,1
+cleanser,proper,1
+proper,cream,1
+cream,proper,1
+abundant,fair,1
+fair,abundant,1
+abundant,market,1
+market,abundant,1
+few,fair,1
+fair,few,1
+few,market,1
+market,few,1
+important,home,1
+home,important,1
+important,workplace,1
+workplace,important,1
+trivial,home,1
+home,trivial,1
+trivial,workplace,1
+workplace,trivial,1
+complex,tank,1
+tank,complex,1
+complex,vehicle,1
+vehicle,complex,1
+simple,tank,1
+tank,simple,1
+simple,vehicle,1
+vehicle,simple,1
+misunderstood,Derrick,1
+Derrick,misunderstood,1
+misunderstood,Ian,1
+Ian,misunderstood,1
+understood,Derrick,1
+Derrick,understood,1
+understood,Ian,1
+Ian,understood,1
+new,flute,1
+flute,new,1
+new,shofar,1
+shofar,new,1
+old,flute,1
+flute,old,1
+old,shofar,1
+shofar,old,1
+a professional,Kenneth,1
+Kenneth,a professional,1
+a professional,Neil,1
+Neil,a professional,1
+an amateur,Kenneth,1
+Kenneth,an amateur,1
+an amateur,Neil,1
+Neil,an amateur,1
+instant pot,ingredients,1
+ingredients,instant pot,1
+instant pot,instant pot,1
+instant pot,instant pot,1
+the,ingredients,1
+ingredients,the,1
+the,instant pot,1
+instant pot,the,1
+them,ingredients,1
+ingredients,them,1
+them,instant pot,1
+instant pot,them,1
+better,Elena,1
+Elena,better,1
+better,Lindsey,1
+Lindsey,better,1
+worse,Elena,1
+Elena,worse,1
+worse,Lindsey,1
+Lindsey,worse,1
+strong,Derrick,1
+Derrick,strong,1
+strong,Samuel,1
+Samuel,strong,1
+weak,Derrick,1
+Derrick,weak,1
+weak,Samuel,1
+Samuel,weak,1
+angry,Hunter,1
+Hunter,angry,1
+angry,Matthew,1
+Matthew,angry,1
+supportive,Hunter,1
+Hunter,supportive,1
+supportive,Matthew,1
+Matthew,supportive,1
+enjoys crab legs,Betty,1
+Betty,enjoys crab legs,1
+enjoys crab legs,Sarah,1
+Sarah,enjoys crab legs,1
+wants her to be happy,Betty,1
+Betty,wants her to be happy,1
+wants her to be happy,Sarah,1
+Sarah,wants her to be happy,1
+lost,Michael,1
+Michael,lost,1
+lost,Steven,1
+Steven,lost,1
+won,Michael,1
+Michael,won,1
+won,Steven,1
+Steven,won,1
+dentist,Lindsey,1
+Lindsey,dentist,1
+dentist,Tanya,1
+Tanya,dentist,1
+psychologist,Lindsey,1
+Lindsey,psychologist,1
+psychologist,Tanya,1
+Tanya,psychologist,1
+because,Ian,1
+Ian,because,1
+because,Randy,1
+Randy,because,1
+but,Ian,1
+Ian,but,1
+but,Randy,1
+Randy,but,1
+lazy about,Joel,1
+Joel,lazy about,1
+lazy about,William,1
+William,lazy about,1
+tired of,Joel,1
+Joel,tired of,1
+tired of,William,1
+William,tired of,1
+better,Jason,1
+Jason,better,1
+better,Justin,1
+Justin,better,1
+worse,Jason,1
+Jason,worse,1
+worse,Justin,1
+Justin,worse,1
+thin,doorway,1
+doorway,thin,1
+thin,structure,1
+structure,thin,1
+wide,doorway,1
+doorway,wide,1
+wide,structure,1
+structure,wide,1
+bicycle,Dennis,1
+Dennis,bicycle,1
+bicycle,Randy,1
+Randy,bicycle,1
+van,Dennis,1
+Dennis,van,1
+van,Randy,1
+Randy,van,1
+heavy,toolboxes,1
+toolboxes,heavy,1
+heavy,tools,1
+tools,heavy,1
+weak,toolboxes,1
+toolboxes,weak,1
+weak,tools,1
+tools,weak,1
+doesnt have,Kenneth,1
+Kenneth,doesnt have,1
+doesnt have,Matthew,1
+Matthew,doesnt have,1
+has,Kenneth,1
+Kenneth,has,1
+has,Matthew,1
+Matthew,has,1
+accept no payment,Angela,1
+Angela,accept no payment,1
+accept no payment,Natalie,1
+Natalie,accept no payment,1
+admit it,Angela,1
+Angela,admit it,1
+admit it,Natalie,1
+Natalie,admit it,1
+damaged,Angela,1
+Angela,damaged,1
+damaged,Natalie,1
+Natalie,damaged,1
+had,Angela,1
+Angela,had,1
+had,Natalie,1
+Natalie,had,1
+rare,cure,1
+cure,rare,1
+rare,disease,1
+disease,rare,1
+widespread,cure,1
+cure,widespread,1
+widespread,disease,1
+disease,widespread,1
+believe,Natalie,1
+Natalie,believe,1
+believe,Tanya,1
+Tanya,believe,1
+frighten,Natalie,1
+Natalie,frighten,1
+frighten,Tanya,1
+Tanya,frighten,1
+poor,Brett,1
+Brett,poor,1
+poor,Neil,1
+Neil,poor,1
+sharp,Brett,1
+Brett,sharp,1
+sharp,Neil,1
+Neil,sharp,1
+stronger,coyotes,1
+coyotes,stronger,1
+stronger,wolves,1
+wolves,stronger,1
+weaker,coyotes,1
+coyotes,weaker,1
+weaker,wolves,1
+wolves,weaker,1
+bought,Kenneth,1
+Kenneth,bought,1
+bought,Nick,1
+Nick,bought,1
+sold,Kenneth,1
+Kenneth,sold,1
+sold,Nick,1
+Nick,sold,1
+new,supplement,1
+supplement,new,1
+new,vitamin,1
+vitamin,new,1
+old,supplement,1
+supplement,old,1
+old,vitamin,1
+vitamin,old,1
+louder,computer,1
+computer,louder,1
+louder,stereo,1
+stereo,louder,1
+quieter,computer,1
+computer,quieter,1
+quieter,stereo,1
+stereo,quieter,1
+healthy,obesity,1
+obesity,healthy,1
+healthy,thin,1
+thin,healthy,1
+unhealthy,obesity,1
+obesity,unhealthy,1
+unhealthy,thin,1
+thin,unhealthy,1
+was boring,basketball practice,1
+basketball practice,was boring,1
+was boring,soccer practice,1
+soccer practice,was boring,1
+wasnt strenuous,basketball practice,1
+basketball practice,wasnt strenuous,1
+wasnt strenuous,soccer practice,1
+soccer practice,wasnt strenuous,1
+fertilized,potatoes,1
+potatoes,fertilized,1
+fertilized,tomatoes,1
+tomatoes,fertilized,1
+impotent,potatoes,1
+potatoes,impotent,1
+impotent,tomatoes,1
+tomatoes,impotent,1
+a risk taker,Amy,1
+Amy,a risk taker,1
+a risk taker,Rebecca,1
+Rebecca,a risk taker,1
+conservative,Amy,1
+Amy,conservative,1
+conservative,Rebecca,1
+Rebecca,conservative,1
+country,Eric,1
+Eric,country,1
+country,Ian,1
+Ian,country,1
+joined,Eric,1
+Eric,joined,1
+joined,Ian,1
+Ian,joined,1
+left,Eric,1
+Eric,left,1
+left,Ian,1
+Ian,left,1
+marines,Eric,1
+Eric,marines,1
+marines,Ian,1
+Ian,marines,1
+empty,basket,1
+basket,empty,1
+empty,oven,1
+oven,empty,1
+full,basket,1
+basket,full,1
+full,oven,1
+oven,full,1
+new,bowl,1
+bowl,new,1
+new,food,1
+food,new,1
+old,bowl,1
+bowl,old,1
+old,food,1
+food,old,1
+helps,Kayla,1
+Kayla,helps,1
+helps,Sarah,1
+Sarah,helps,1
+people,Kayla,1
+Kayla,people,1
+people,Sarah,1
+Sarah,people,1
+was,Kayla,1
+Kayla,was,1
+was,Sarah,1
+Sarah,was,1
+strong,Jason,1
+Jason,strong,1
+strong,William,1
+William,strong,1
+weak,Jason,1
+Jason,weak,1
+weak,William,1
+William,weak,1
+girl,bride,1
+bride,girl,1
+girl,groom,1
+groom,girl,1
+great personality,bride,1
+bride,great personality,1
+great personality,groom,1
+groom,great personality,1
+guy,bride,1
+bride,guy,1
+guy,groom,1
+groom,guy,1
+large wallet,bride,1
+bride,large wallet,1
+large wallet,groom,1
+groom,large wallet,1
+calm,Benjamin,1
+Benjamin,calm,1
+calm,Eric,1
+Eric,calm,1
+nervous,Benjamin,1
+Benjamin,nervous,1
+nervous,Eric,1
+Eric,nervous,1
+heavy,Sun,1
+Sun,heavy,1
+heavy,Top,1
+Top,heavy,1
+hot,Sun,1
+Sun,hot,1
+hot,Top,1
+Top,hot,1
+essential,endurance,1
+endurance,essential,1
+essential,skill,1
+skill,essential,1
+useless,endurance,1
+endurance,useless,1
+useless,skill,1
+skill,useless,1
+apologized,Adam,1
+Adam,apologized,1
+apologized,Michael,1
+Michael,apologized,1
+cried,Adam,1
+Adam,cried,1
+cried,Michael,1
+Michael,cried,1
+depleated,bowl,1
+bowl,depleated,1
+depleated,container,1
+container,depleated,1
+filled,bowl,1
+bowl,filled,1
+filled,container,1
+container,filled,1
+neat,Leslie,1
+Leslie,neat,1
+neat,Randy,1
+Randy,neat,1
+sloppy,Leslie,1
+Leslie,sloppy,1
+sloppy,Randy,1
+Randy,sloppy,1
+a techie,Emily,1
+Emily,a techie,1
+a techie,Lindsey,1
+Lindsey,a techie,1
+old fashion,Emily,1
+Emily,old fashion,1
+old fashion,Lindsey,1
+Lindsey,old fashion,1
+envious,Dennis,1
+Dennis,envious,1
+envious,Ian,1
+Ian,envious,1
+pleased,Dennis,1
+Dennis,pleased,1
+pleased,Ian,1
+Ian,pleased,1
+the host,Kevin,1
+Kevin,the host,1
+the host,Nick,1
+Nick,the host,1
+thirsty,Kevin,1
+Kevin,thirsty,1
+thirsty,Nick,1
+Nick,thirsty,1
+Hairmask,Cynthia,1
+Cynthia,Hairmask,1
+Hairmask,Monica,1
+Monica,Hairmask,1
+hairmask,Cynthia,1
+Cynthia,hairmask,1
+hairmask,Monica,1
+Monica,hairmask,1
+mixed,Cynthia,1
+Cynthia,mixed,1
+mixed,Monica,1
+Monica,mixed,1
+wore,Cynthia,1
+Cynthia,wore,1
+wore,Monica,1
+Monica,wore,1
+constraining,cape,1
+cape,constraining,1
+constraining,necktie,1
+necktie,constraining,1
+liberating,cape,1
+cape,liberating,1
+liberating,necktie,1
+necktie,liberating,1
+cheap,diner,1
+diner,cheap,1
+cheap,restaurant,1
+restaurant,cheap,1
+expensive,diner,1
+diner,expensive,1
+expensive,restaurant,1
+restaurant,expensive,1
+cooler,house,1
+house,cooler,1
+cooler,yard,1
+yard,cooler,1
+hot,house,1
+house,hot,1
+hot,yard,1
+yard,hot,1
+active,Lindsey,1
+Lindsey,active,1
+active,Rebecca,1
+Rebecca,active,1
+disabled,Lindsey,1
+Lindsey,disabled,1
+disabled,Rebecca,1
+Rebecca,disabled,1
+old,Lindsey,1
+Lindsey,old,1
+old,Rebecca,1
+Rebecca,old,1
+young,Lindsey,1
+Lindsey,young,1
+young,Rebecca,1
+Rebecca,young,1
+although,Christine,1
+Christine,although,1
+although,Rachel,1
+Rachel,although,1
+because,Christine,1
+Christine,because,1
+because,Rachel,1
+Rachel,because,1
+bad,realities,1
+realities,bad,1
+bad,sitcoms,1
+sitcoms,bad,1
+good,realities,1
+realities,good,1
+good,sitcoms,1
+sitcoms,good,1
+hated,Natalie,1
+Natalie,hated,1
+hated,Rachel,1
+Rachel,hated,1
+liked,Natalie,1
+Natalie,liked,1
+liked,Rachel,1
+Rachel,liked,1
+because forgets,Amy,1
+Amy,because forgets,1
+because forgets,Jennifer,1
+Jennifer,because forgets,1
+since remembers,Amy,1
+Amy,since remembers,1
+since remembers,Jennifer,1
+Jennifer,since remembers,1
+borrowed,Hunter,1
+Hunter,borrowed,1
+borrowed,Joel,1
+Joel,borrowed,1
+his,Hunter,1
+Hunter,his,1
+his,Joel,1
+Joel,his,1
+lent,Hunter,1
+Hunter,lent,1
+lent,Joel,1
+Joel,lent,1
+s,Hunter,1
+Hunter,s,1
+s,Joel,1
+Joel,s,1
+failed,Betty,1
+Betty,failed,1
+failed,Tanya,1
+Tanya,failed,1
+passed,Betty,1
+Betty,passed,1
+passed,Tanya,1
+Tanya,passed,1
+a toddler,Betty,1
+Betty,a toddler,1
+a toddler,Cynthia,1
+Cynthia,a toddler,1
+the parent,Betty,1
+Betty,the parent,1
+the parent,Cynthia,1
+Cynthia,the parent,1
+boring,basketball,1
+basketball,boring,1
+boring,soccer,1
+soccer,boring,1
+entertaining,basketball,1
+basketball,entertaining,1
+entertaining,soccer,1
+soccer,entertaining,1
+in,garbage can,1
+garbage can,in,1
+in,recycle bin,1
+recycle bin,in,1
+out of,garbage can,1
+garbage can,out of,1
+out of,recycle bin,1
+recycle bin,out of,1
+high,party,1
+party,high,1
+high,wedding,1
+wedding,high,1
+low,party,1
+party,low,1
+low,wedding,1
+wedding,low,1
+and,Megan,1
+Megan,and,1
+and,Sarah,1
+Sarah,and,1
+but,Megan,1
+Megan,but,1
+but,Sarah,1
+Sarah,but,1
+figure out the,Megan,1
+Megan,figure out the,1
+figure out the,Sarah,1
+Sarah,figure out the,1
+keep it a,Megan,1
+Megan,keep it a,1
+keep it a,Sarah,1
+Sarah,keep it a,1
+chronically,Joseph,1
+Joseph,chronically,1
+chronically,Steven,1
+Steven,chronically,1
+only temporary,Joseph,1
+Joseph,only temporary,1
+only temporary,Steven,1
+Steven,only temporary,1
+struggling,Jessica,1
+Jessica,struggling,1
+struggling,Samantha,1
+Samantha,struggling,1
+unimpressed,Jessica,1
+Jessica,unimpressed,1
+unimpressed,Samantha,1
+Samantha,unimpressed,1
+adult,Megan,1
+Megan,adult,1
+adult,Natalie,1
+Natalie,adult,1
+child,Megan,1
+Megan,child,1
+child,Natalie,1
+Natalie,child,1
+inferior,Aaron,1
+Aaron,inferior,1
+inferior,Craig,1
+Craig,inferior,1
+superior,Aaron,1
+Aaron,superior,1
+superior,Craig,1
+Craig,superior,1
+field,Christine,1
+Christine,field,1
+field,Jennifer,1
+Jennifer,field,1
+topic,Christine,1
+Christine,topic,1
+topic,Jennifer,1
+Jennifer,topic,1
+was working,Christine,1
+Christine,was working,1
+was working,Jennifer,1
+Jennifer,was working,1
+wasnt as knowledgeable,Christine,1
+Christine,wasnt as knowledgeable,1
+wasnt as knowledgeable,Jennifer,1
+Jennifer,wasnt as knowledgeable,1
+bowed,Elena,1
+Elena,bowed,1
+bowed,Natalie,1
+Natalie,bowed,1
+clapped,Elena,1
+Elena,clapped,1
+clapped,Natalie,1
+Natalie,clapped,1
+ignorant,Emily,1
+Emily,ignorant,1
+ignorant,Natalie,1
+Natalie,ignorant,1
+knowledgeable,Emily,1
+Emily,knowledgeable,1
+knowledgeable,Natalie,1
+Natalie,knowledgeable,1
+although,bread,1
+bread,although,1
+although,cake,1
+cake,although,1
+because,bread,1
+bread,because,1
+because,cake,1
+cake,because,1
+although,Christine,1
+Christine,although,1
+although,Monica,1
+Monica,although,1
+so,Christine,1
+Christine,so,1
+so,Monica,1
+Monica,so,1
+frivolous,Ian,1
+Ian,frivolous,1
+frivolous,William,1
+William,frivolous,1
+practical,Ian,1
+Ian,practical,1
+practical,William,1
+William,practical,1
+covered,arms,1
+arms,covered,1
+covered,legs,1
+legs,covered,1
+exposed,arms,1
+arms,exposed,1
+exposed,legs,1
+legs,exposed,1
+hated,Sarah,1
+Sarah,hated,1
+hated,Victoria,1
+Victoria,hated,1
+loved,Sarah,1
+Sarah,loved,1
+loved,Victoria,1
+Victoria,loved,1
+in,Kevin,1
+Kevin,in,1
+in,Neil,1
+Neil,in,1
+out,Kevin,1
+Kevin,out,1
+out,Neil,1
+Neil,out,1
+inside,Amy,1
+Amy,inside,1
+inside,Laura,1
+Laura,inside,1
+outside,Amy,1
+Amy,outside,1
+outside,Laura,1
+Laura,outside,1
+big,equipment,1
+equipment,big,1
+big,van,1
+van,big,1
+small,equipment,1
+equipment,small,1
+small,van,1
+van,small,1
+prepared,quiz,1
+quiz,prepared,1
+prepared,test,1
+test,prepared,1
+unprepared,quiz,1
+quiz,unprepared,1
+unprepared,test,1
+test,unprepared,1
+and,Dennis,1
+Dennis,and,1
+and,Leslie,1
+Leslie,and,1
+attractive,Dennis,1
+Dennis,attractive,1
+attractive,Leslie,1
+Leslie,attractive,1
+but,Dennis,1
+Dennis,but,1
+but,Leslie,1
+Leslie,but,1
+easy,Dennis,1
+Dennis,easy,1
+easy,Leslie,1
+Leslie,easy,1
+hard,Dennis,1
+Dennis,hard,1
+hard,Leslie,1
+Leslie,hard,1
+nervous,Dennis,1
+Dennis,nervous,1
+nervous,Leslie,1
+Leslie,nervous,1
+less,lego set,1
+lego set,less,1
+less,tablet,1
+tablet,less,1
+more,lego set,1
+lego set,more,1
+more,tablet,1
+tablet,more,1
+fragrant,Hunter,1
+Hunter,fragrant,1
+fragrant,Nick,1
+Nick,fragrant,1
+stinky,Hunter,1
+Hunter,stinky,1
+stinky,Nick,1
+Nick,stinky,1
+halibut,Donald,1
+Donald,halibut,1
+halibut,Logan,1
+Logan,halibut,1
+roast chicken,Donald,1
+Donald,roast chicken,1
+roast chicken,Logan,1
+Logan,roast chicken,1
+clean,Kenneth,1
+Kenneth,clean,1
+clean,Michael,1
+Michael,clean,1
+happy,Kenneth,1
+Kenneth,happy,1
+happy,Michael,1
+Michael,happy,1
+scribble,Kenneth,1
+Kenneth,scribble,1
+scribble,Michael,1
+Michael,scribble,1
+unhappy,Kenneth,1
+Kenneth,unhappy,1
+unhappy,Michael,1
+Michael,unhappy,1
+her,Jessica,1
+Jessica,her,1
+her,Rebecca,1
+Rebecca,her,1
+needs some,Jessica,1
+Jessica,needs some,1
+needs some,Rebecca,1
+Rebecca,needs some,1
+wants to,Jessica,1
+Jessica,wants to,1
+wants to,Rebecca,1
+Rebecca,wants to,1
+car,Joel,1
+Joel,car,1
+car,Neil,1
+Neil,car,1
+drove,Joel,1
+Joel,drove,1
+drove,Neil,1
+Neil,drove,1
+flew,Joel,1
+Joel,flew,1
+flew,Neil,1
+Neil,flew,1
+plane,Joel,1
+Joel,plane,1
+plane,Neil,1
+Neil,plane,1
+a flip,Kayla,1
+Kayla,a flip,1
+a flip,Lindsey,1
+Lindsey,a flip,1
+an iPhoneXR,Kayla,1
+Kayla,an iPhoneXR,1
+an iPhoneXR,Lindsey,1
+Lindsey,an iPhoneXR,1
+tastier,oven,1
+oven,tastier,1
+tastier,stove,1
+stove,tastier,1
+unappetizing,oven,1
+oven,unappetizing,1
+unappetizing,stove,1
+stove,unappetizing,1
+less thorough,insurance agent,1
+insurance agent,less thorough,1
+less thorough,medical doctor,1
+medical doctor,less thorough,1
+more careful,insurance agent,1
+insurance agent,more careful,1
+more careful,medical doctor,1
+medical doctor,more careful,1
+maker,Angela,1
+Angela,maker,1
+maker,Lindsey,1
+Lindsey,maker,1
+wearer,Angela,1
+Angela,wearer,1
+wearer,Lindsey,1
+Lindsey,wearer,1
+fit perfectly,plant,1
+plant,fit perfectly,1
+fit perfectly,tree,1
+tree,fit perfectly,1
+was out of place,plant,1
+plant,was out of place,1
+was out of place,tree,1
+tree,was out of place,1
+during,Patricia,1
+Patricia,during,1
+during,Sarah,1
+Sarah,during,1
+early to watch,Patricia,1
+Patricia,early to watch,1
+early to watch,Sarah,1
+Sarah,early to watch,1
+left,Patricia,1
+Patricia,left,1
+left,Sarah,1
+Sarah,left,1
+stayed at,Patricia,1
+Patricia,stayed at,1
+stayed at,Sarah,1
+Sarah,stayed at,1
+focused,armchair,1
+armchair,focused,1
+focused,bed,1
+bed,focused,1
+sleepy,armchair,1
+armchair,sleepy,1
+sleepy,bed,1
+bed,sleepy,1
+less,Lindsey,1
+Lindsey,less,1
+less,Patricia,1
+Patricia,less,1
+more,Lindsey,1
+Lindsey,more,1
+more,Patricia,1
+Patricia,more,1
+got,Brian,1
+Brian,got,1
+got,Kenneth,1
+Kenneth,got,1
+was denied,Brian,1
+Brian,was denied,1
+was denied,Kenneth,1
+Kenneth,was denied,1
+is being,Betty,1
+Betty,is being,1
+is being,Erin,1
+Erin,is being,1
+student,Betty,1
+Betty,student,1
+student,Erin,1
+Erin,student,1
+teacher,Betty,1
+Betty,teacher,1
+teacher,Erin,1
+Erin,teacher,1
+twenty,Jessica,1
+Jessica,twenty,1
+twenty,Laura,1
+Laura,twenty,1
+zero,Jessica,1
+Jessica,zero,1
+zero,Laura,1
+Laura,zero,1
+higher,Carrie,1
+Carrie,higher,1
+higher,Megan,1
+Megan,higher,1
+lower,Carrie,1
+Carrie,lower,1
+lower,Megan,1
+Megan,lower,1
+didnt use,Leslie,1
+Leslie,didnt use,1
+didnt use,Robert,1
+Robert,didnt use,1
+used,Leslie,1
+Leslie,used,1
+used,Robert,1
+Robert,used,1
+empty,mug,1
+mug,empty,1
+empty,pot,1
+pot,empty,1
+full,mug,1
+mug,full,1
+full,pot,1
+pot,full,1
+a pessimist,Amy,1
+Amy,a pessimist,1
+a pessimist,Sarah,1
+Sarah,a pessimist,1
+an optimist,Amy,1
+Amy,an optimist,1
+an optimist,Sarah,1
+Sarah,an optimist,1
+rough,floor,1
+floor,rough,1
+rough,skin,1
+skin,rough,1
+smooth,floor,1
+floor,smooth,1
+smooth,skin,1
+skin,smooth,1
+powerful,oil,1
+oil,powerful,1
+powerful,salt,1
+salt,powerful,1
+useless,oil,1
+oil,useless,1
+useless,salt,1
+salt,useless,1
+hated,Jessica,1
+Jessica,hated,1
+hated,Laura,1
+Laura,hated,1
+liked,Jessica,1
+Jessica,liked,1
+liked,Laura,1
+Laura,liked,1
+gets,Kayla,1
+Kayla,gets,1
+gets,Rachel,1
+Rachel,gets,1
+hates getting,Kayla,1
+Kayla,hates getting,1
+hates getting,Rachel,1
+Rachel,hates getting,1
+is a chef,Mary,1
+Mary,is a chef,1
+is a chef,Samantha,1
+Samantha,is a chef,1
+wants to get it right,Mary,1
+Mary,wants to get it right,1
+wants to get it right,Samantha,1
+Samantha,wants to get it right,1
+didnt have,Hunter,1
+Hunter,didnt have,1
+didnt have,Joel,1
+Joel,didnt have,1
+had,Hunter,1
+Hunter,had,1
+had,Joel,1
+Joel,had,1
+high grade,Hunter,1
+Hunter,high grade,1
+high grade,Joel,1
+Joel,high grade,1
+more effective,hormones,1
+hormones,more effective,1
+more effective,steroids,1
+steroids,more effective,1
+not working,hormones,1
+hormones,not working,1
+not working,steroids,1
+steroids,not working,1
+fragile,baseball,1
+baseball,fragile,1
+fragile,window,1
+window,fragile,1
+strong,baseball,1
+baseball,strong,1
+strong,window,1
+window,strong,1
+could use,Amy,1
+Amy,could use,1
+could use,Emily,1
+Emily,could use,1
+is,Amy,1
+Amy,is,1
+is,Emily,1
+Emily,is,1
+high,Angela,1
+Angela,high,1
+high,Erin,1
+Erin,high,1
+low,Angela,1
+Angela,low,1
+low,Erin,1
+Erin,low,1
+cashier,Elena,1
+Elena,cashier,1
+cashier,Mary,1
+Mary,cashier,1
+housekeeper,Elena,1
+Elena,housekeeper,1
+housekeeper,Mary,1
+Mary,housekeeper,1
+but couldnt,Christine,1
+Christine,but couldnt,1
+but couldnt,Mary,1
+Mary,but couldnt,1
+so asked for,Christine,1
+Christine,so asked for,1
+so asked for,Mary,1
+Mary,so asked for,1
+stayed home,Angela,1
+Angela,stayed home,1
+stayed home,Maria,1
+Maria,stayed home,1
+went hiking,Angela,1
+Angela,went hiking,1
+went hiking,Maria,1
+Maria,went hiking,1
+politics,Christopher,1
+Christopher,politics,1
+politics,Kenneth,1
+Kenneth,politics,1
+romance,Christopher,1
+Christopher,romance,1
+romance,Kenneth,1
+Kenneth,romance,1
+be stopped,Brett,1
+Brett,be stopped,1
+be stopped,Randy,1
+Randy,be stopped,1
+have blood,Brett,1
+Brett,have blood,1
+have blood,Randy,1
+Randy,have blood,1
+sadist,Brett,1
+Brett,sadist,1
+sadist,Randy,1
+Randy,sadist,1
+villain,Brett,1
+Brett,villain,1
+villain,Randy,1
+Randy,villain,1
+narrow,ball,1
+ball,narrow,1
+narrow,basket,1
+basket,narrow,1
+wide,ball,1
+ball,wide,1
+wide,basket,1
+basket,wide,1
+destroyed,seat,1
+seat,destroyed,1
+destroyed,tire,1
+tire,destroyed,1
+still intact,seat,1
+seat,still intact,1
+still intact,tire,1
+tire,still intact,1
+decadent,brownies,1
+brownies,decadent,1
+decadent,cookies,1
+cookies,decadent,1
+plain,brownies,1
+brownies,plain,1
+plain,cookies,1
+cookies,plain,1
+foreigner,Christine,1
+Christine,foreigner,1
+foreigner,Samantha,1
+Samantha,foreigner,1
+native,Christine,1
+Christine,native,1
+native,Samantha,1
+Samantha,native,1
+cant handle the,Mary,1
+Mary,cant handle the,1
+cant handle the,Victoria,1
+Victoria,cant handle the,1
+handles,Mary,1
+Mary,handles,1
+handles,Victoria,1
+Victoria,handles,1
+very well,Mary,1
+Mary,very well,1
+very well,Victoria,1
+Victoria,very well,1
+cleaner,floors,1
+floors,cleaner,1
+cleaner,walls,1
+walls,cleaner,1
+dirtier,floors,1
+floors,dirtier,1
+dirtier,walls,1
+walls,dirtier,1
+he,floors,1
+floors,he,1
+he,walls,1
+walls,he,1
+we,floors,1
+floors,we,1
+we,walls,1
+walls,we,1
+Cape Codder,Christopher,1
+Christopher,Cape Codder,1
+Cape Codder,Donald,1
+Donald,Cape Codder,1
+cold beer,Christopher,1
+Christopher,cold beer,1
+cold beer,Donald,1
+Donald,cold beer,1
+high,Katrina,1
+Katrina,high,1
+high,Monica,1
+Monica,high,1
+low,Katrina,1
+Katrina,low,1
+low,Monica,1
+Monica,low,1
+offered,Felicia,1
+Felicia,offered,1
+offered,Tanya,1
+Tanya,offered,1
+ordered them,Felicia,1
+Felicia,ordered them,1
+ordered them,Tanya,1
+Tanya,ordered them,1
+was busy with work,Aaron,1
+Aaron,was busy with work,1
+was busy with work,Joel,1
+Joel,was busy with work,1
+won the only ticket,Aaron,1
+Aaron,won the only ticket,1
+won the only ticket,Joel,1
+Joel,won the only ticket,1
+dry,muffins,1
+muffins,dry,1
+dry,scones,1
+scones,dry,1
+flavorful,muffins,1
+muffins,flavorful,1
+flavorful,scones,1
+scones,flavorful,1
+compressed,machine,1
+machine,compressed,1
+compressed,wood,1
+wood,compressed,1
+sluggish,machine,1
+machine,sluggish,1
+sluggish,wood,1
+wood,sluggish,1
+consoled,Neil,1
+Neil,consoled,1
+consoled,Nelson,1
+Nelson,consoled,1
+shouted at,Neil,1
+Neil,shouted at,1
+shouted at,Nelson,1
+Nelson,shouted at,1
+bulky,hair,1
+hair,bulky,1
+bulky,hat,1
+hat,bulky,1
+compact,hair,1
+hair,compact,1
+compact,hat,1
+hat,compact,1
+lost,farms,1
+farms,lost,1
+lost,restaurants,1
+restaurants,lost,1
+saved,farms,1
+farms,saved,1
+saved,restaurants,1
+restaurants,saved,1
+large,cutting board,1
+cutting board,large,1
+large,sink,1
+sink,large,1
+small,cutting board,1
+cutting board,small,1
+small,sink,1
+sink,small,1
+sharp,chainsaw,1
+chainsaw,sharp,1
+sharp,wood,1
+wood,sharp,1
+weak,chainsaw,1
+chainsaw,weak,1
+weak,wood,1
+wood,weak,1
+his,Jessica,1
+Jessica,his,1
+his,Megan,1
+Megan,his,1
+was accepted,Jessica,1
+Jessica,was accepted,1
+was accepted,Megan,1
+Megan,was accepted,1
+with the,Jessica,1
+Jessica,with the,1
+with the,Megan,1
+Megan,with the,1
+deadly,Diet,1
+Diet,deadly,1
+deadly,Disease,1
+Disease,deadly,1
+very poor,Diet,1
+Diet,very poor,1
+very poor,Disease,1
+Disease,very poor,1
+comfortable,Michael,1
+Michael,comfortable,1
+comfortable,Randy,1
+Randy,comfortable,1
+uncomfortable,Michael,1
+Michael,uncomfortable,1
+uncomfortable,Randy,1
+Randy,uncomfortable,1
+large,bag,1
+bag,large,1
+large,garbage,1
+garbage,large,1
+small,bag,1
+bag,small,1
+small,garbage,1
+garbage,small,1
+did not like,Dennis,1
+Dennis,did not like,1
+did not like,Nelson,1
+Nelson,did not like,1
+liked,Dennis,1
+Dennis,liked,1
+liked,Nelson,1
+Nelson,liked,1
+hated,Mary,1
+Mary,hated,1
+hated,Patricia,1
+Patricia,hated,1
+loved,Mary,1
+Mary,loved,1
+loved,Patricia,1
+Patricia,loved,1
+experienced,Brett,1
+Brett,experienced,1
+experienced,William,1
+William,experienced,1
+failing,Brett,1
+Brett,failing,1
+failing,William,1
+William,failing,1
+inexperienced,Brett,1
+Brett,inexperienced,1
+inexperienced,William,1
+William,inexperienced,1
+successful,Brett,1
+Brett,successful,1
+successful,William,1
+William,successful,1
+no,Jessica,1
+Jessica,no,1
+no,Rachel,1
+Rachel,no,1
+some,Jessica,1
+Jessica,some,1
+some,Rachel,1
+Rachel,some,1
+farther,Comcast,1
+Comcast,farther,1
+farther,Taco Bell,1
+Taco Bell,farther,1
+first,Comcast,1
+Comcast,first,1
+first,Taco Bell,1
+Taco Bell,first,1
+nearer,Comcast,1
+Comcast,nearer,1
+nearer,Taco Bell,1
+Taco Bell,nearer,1
+second,Comcast,1
+Comcast,second,1
+second,Taco Bell,1
+Taco Bell,second,1
+a,dad,1
+dad,a,1
+a,mom,1
+mom,a,1
+he,dad,1
+dad,he,1
+he,mom,1
+mom,he,1
+job,dad,1
+dad,job,1
+job,mom,1
+mom,job,1
+she,dad,1
+dad,she,1
+she,mom,1
+mom,she,1
+stories,dad,1
+dad,stories,1
+stories,mom,1
+mom,stories,1
+loose,handle,1
+handle,loose,1
+loose,knob,1
+knob,loose,1
+secure,handle,1
+handle,secure,1
+secure,knob,1
+knob,secure,1
+party,Jessica,1
+Jessica,party,1
+party,Kayla,1
+Kayla,party,1
+study,Jessica,1
+Jessica,study,1
+study,Kayla,1
+Kayla,study,1
+harder,Derrick,1
+Derrick,harder,1
+harder,Kyle,1
+Kyle,harder,1
+softer,Derrick,1
+Derrick,softer,1
+softer,Kyle,1
+Kyle,softer,1
+employee,Carrie,1
+Carrie,employee,1
+employee,Rachel,1
+Rachel,employee,1
+employer,Carrie,1
+Carrie,employer,1
+employer,Rachel,1
+Rachel,employer,1
+lost,Donald,1
+Donald,lost,1
+lost,Kenneth,1
+Kenneth,lost,1
+won,Donald,1
+Donald,won,1
+won,Kenneth,1
+Kenneth,won,1
+bad,Hunter,1
+Hunter,bad,1
+bad,Leslie,1
+Leslie,bad,1
+fine,Hunter,1
+Hunter,fine,1
+fine,Leslie,1
+Leslie,fine,1
+didnt have any,Benjamin,1
+Benjamin,didnt have any,1
+didnt have any,Joel,1
+Joel,didnt have any,1
+had a few,Benjamin,1
+Benjamin,had a few,1
+had a few,Joel,1
+Joel,had a few,1
+heavier,splint,1
+splint,heavier,1
+heavier,wrap,1
+wrap,heavier,1
+lighter,splint,1
+splint,lighter,1
+lighter,wrap,1
+wrap,lighter,1
+extensive,Carrie,1
+Carrie,extensive,1
+extensive,Natalie,1
+Natalie,extensive,1
+limited,Carrie,1
+Carrie,limited,1
+limited,Natalie,1
+Natalie,limited,1
+less,slippers,1
+slippers,less,1
+less,sneakers,1
+sneakers,less,1
+more,slippers,1
+slippers,more,1
+more,sneakers,1
+sneakers,more,1
+cold,grill,1
+grill,cold,1
+cold,stovetop,1
+stovetop,cold,1
+hot,grill,1
+grill,hot,1
+hot,stovetop,1
+stovetop,hot,1
+a guest,Patricia,1
+Patricia,a guest,1
+a guest,Rebecca,1
+Rebecca,a guest,1
+present,Patricia,1
+Patricia,present,1
+present,Rebecca,1
+Rebecca,present,1
+the bride,Patricia,1
+Patricia,the bride,1
+the bride,Rebecca,1
+Rebecca,the bride,1
+alive,plane,1
+plane,alive,1
+alive,tomboy,1
+tomboy,alive,1
+inanimate,plane,1
+plane,inanimate,1
+inanimate,tomboy,1
+tomboy,inanimate,1
+safe from,book,1
+book,safe from,1
+safe from,folder,1
+folder,safe from,1
+vulnerable to,book,1
+book,vulnerable to,1
+vulnerable to,folder,1
+folder,vulnerable to,1
+suggested,Adam,1
+Adam,suggested,1
+suggested,Kevin,1
+Kevin,suggested,1
+tried,Adam,1
+Adam,tried,1
+tried,Kevin,1
+Kevin,tried,1
+needy,Maria,1
+Maria,needy,1
+needy,Mary,1
+Mary,needy,1
+thoughtful,Maria,1
+Maria,thoughtful,1
+thoughtful,Mary,1
+Mary,thoughtful,1
+janitor,Elena,1
+Elena,janitor,1
+janitor,Kayla,1
+Kayla,janitor,1
+lawyer,Elena,1
+Elena,lawyer,1
+lawyer,Kayla,1
+Kayla,lawyer,1
+fresh,apple,1
+apple,fresh,1
+fresh,banana,1
+banana,fresh,1
+mushy,apple,1
+apple,mushy,1
+mushy,banana,1
+banana,mushy,1
+didnt know,Joel,1
+Joel,didnt know,1
+didnt know,Logan,1
+Logan,didnt know,1
+knew,Joel,1
+Joel,knew,1
+knew,Logan,1
+Logan,knew,1
+ignored,Aaron,1
+Aaron,ignored,1
+ignored,Brett,1
+Brett,ignored,1
+obeyed,Aaron,1
+Aaron,obeyed,1
+obeyed,Brett,1
+Brett,obeyed,1
+a lack,ballet,1
+ballet,a lack,1
+a lack,jitterbug,1
+jitterbug,a lack,1
+an abundance,ballet,1
+ballet,an abundance,1
+an abundance,jitterbug,1
+jitterbug,an abundance,1
+beautician,Derrick,1
+Derrick,beautician,1
+beautician,Kenneth,1
+Kenneth,beautician,1
+model,Derrick,1
+Derrick,model,1
+model,Kenneth,1
+Kenneth,model,1
+less,bed,1
+bed,less,1
+less,crib,1
+crib,less,1
+more,bed,1
+bed,more,1
+more,crib,1
+crib,more,1
+did not have,Adam,1
+Adam,did not have,1
+did not have,Samuel,1
+Samuel,did not have,1
+had,Adam,1
+Adam,had,1
+had,Samuel,1
+Samuel,had,1
+cheap,books,1
+books,cheap,1
+cheap,schools,1
+schools,cheap,1
+expensive,books,1
+books,expensive,1
+expensive,schools,1
+schools,expensive,1
+dryer,dryer,1
+dryer,dryer,1
+dryer,thrift store,1
+thrift store,dryer,1
+thrift store,dryer,1
+dryer,thrift store,1
+thrift store,thrift store,1
+thrift store,thrift store,1
+monkeys,Kyle,1
+Kyle,monkeys,1
+monkeys,Leslie,1
+Leslie,monkeys,1
+tigers,Kyle,1
+Kyle,tigers,1
+tigers,Leslie,1
+Leslie,tigers,1
+bad,Erin,1
+Erin,bad,1
+bad,Laura,1
+Laura,bad,1
+good,Erin,1
+Erin,good,1
+good,Laura,1
+Laura,good,1
+less,Christopher,1
+Christopher,less,1
+less,Ian,1
+Ian,less,1
+more,Christopher,1
+Christopher,more,1
+more,Ian,1
+Ian,more,1
+asked,Aaron,1
+Aaron,asked,1
+asked,Brett,1
+Brett,asked,1
+for,Aaron,1
+Aaron,for,1
+for,Brett,1
+Brett,for,1
+gave,Aaron,1
+Aaron,gave,1
+gave,Brett,1
+Brett,gave,1
+isnt good enough,car,1
+car,isnt good enough,1
+isnt good enough,card,1
+card,isnt good enough,1
+shows appreciation,car,1
+car,shows appreciation,1
+shows appreciation,card,1
+card,shows appreciation,1
+boring,board game,1
+board game,boring,1
+boring,figure,1
+figure,boring,1
+interesting,board game,1
+board game,interesting,1
+interesting,figure,1
+figure,interesting,1
+few,Joseph,1
+Joseph,few,1
+few,Kyle,1
+Kyle,few,1
+many,Joseph,1
+Joseph,many,1
+many,Kyle,1
+Kyle,many,1
+negative,Emily,1
+Emily,negative,1
+negative,Lindsey,1
+Lindsey,negative,1
+positive,Emily,1
+Emily,positive,1
+positive,Lindsey,1
+Lindsey,positive,1
+athletic,Jason,1
+Jason,athletic,1
+athletic,Joseph,1
+Joseph,athletic,1
+proud of him,Jason,1
+Jason,proud of him,1
+proud of him,Joseph,1
+Joseph,proud of him,1
+sure,Jason,1
+Jason,sure,1
+sure,Joseph,1
+Joseph,sure,1
+failed,Benjamin,1
+Benjamin,failed,1
+failed,William,1
+William,failed,1
+passed,Benjamin,1
+Benjamin,passed,1
+passed,William,1
+William,passed,1
+dull,book,1
+book,dull,1
+dull,movie,1
+movie,dull,1
+interesting,book,1
+book,interesting,1
+interesting,movie,1
+movie,interesting,1
+disappointed,Angela,1
+Angela,disappointed,1
+disappointed,Megan,1
+Megan,disappointed,1
+excited,Angela,1
+Angela,excited,1
+excited,Megan,1
+Megan,excited,1
+gave,Benjamin,1
+Benjamin,gave,1
+gave,Matthew,1
+Matthew,gave,1
+picked,Benjamin,1
+Benjamin,picked,1
+picked,Matthew,1
+Matthew,picked,1
+closed,cave,1
+cave,closed,1
+closed,house,1
+house,closed,1
+open,cave,1
+cave,open,1
+open,house,1
+house,open,1
+clash,Mexican recipe,1
+Mexican recipe,clash,1
+clash,Thai recipe,1
+Thai recipe,clash,1
+harmonize,Mexican recipe,1
+Mexican recipe,harmonize,1
+harmonize,Thai recipe,1
+Thai recipe,harmonize,1
+less,cake,1
+cake,less,1
+less,cupcake,1
+cupcake,less,1
+more,cake,1
+cake,more,1
+more,cupcake,1
+cupcake,more,1
+prettier,cake,1
+cake,prettier,1
+prettier,cupcake,1
+cupcake,prettier,1
+uglier,cake,1
+cake,uglier,1
+uglier,cupcake,1
+cupcake,uglier,1
+less,trailer,1
+trailer,less,1
+less,truck,1
+truck,less,1
+more,trailer,1
+trailer,more,1
+more,truck,1
+truck,more,1
+cool,crockpot,1
+crockpot,cool,1
+cool,skillet,1
+skillet,cool,1
+warm,crockpot,1
+crockpot,warm,1
+warm,skillet,1
+skillet,warm,1
+hotel,Amy,1
+Amy,hotel,1
+hotel,Cynthia,1
+Cynthia,hotel,1
+loft,Amy,1
+Amy,loft,1
+loft,Cynthia,1
+Cynthia,loft,1
+longer,street,1
+street,longer,1
+longer,walkway,1
+walkway,longer,1
+shorter,street,1
+street,shorter,1
+shorter,walkway,1
+walkway,shorter,1
+create,Joseph,1
+Joseph,create,1
+create,Ryan,1
+Ryan,create,1
+prepare for,Joseph,1
+Joseph,prepare for,1
+prepare for,Ryan,1
+Ryan,prepare for,1
+after her,Mary,1
+Mary,after her,1
+after her,Rachel,1
+Rachel,after her,1
+created,Mary,1
+Mary,created,1
+created,Rachel,1
+Rachel,created,1
+during the,Mary,1
+Mary,during the,1
+during the,Rachel,1
+Rachel,during the,1
+had,Mary,1
+Mary,had,1
+had,Rachel,1
+Rachel,had,1
+new,oxford shirt,1
+oxford shirt,new,1
+new,sweatshirt,1
+sweatshirt,new,1
+old,oxford shirt,1
+oxford shirt,old,1
+old,sweatshirt,1
+sweatshirt,old,1
+righteous,Joseph,1
+Joseph,righteous,1
+righteous,Ryan,1
+Ryan,righteous,1
+sinful,Joseph,1
+Joseph,sinful,1
+sinful,Ryan,1
+Ryan,sinful,1
+prolific,Angela,1
+Angela,prolific,1
+prolific,Betty,1
+Betty,prolific,1
+substandard,Angela,1
+Angela,substandard,1
+substandard,Betty,1
+Betty,substandard,1
+a Korean native,Dennis,1
+Dennis,a Korean native,1
+a Korean native,Nick,1
+Nick,a Korean native,1
+from the United States,Dennis,1
+Dennis,from the United States,1
+from the United States,Nick,1
+Nick,from the United States,1
+often,Kayla,1
+Kayla,often,1
+often,Natalie,1
+Natalie,often,1
+rarely,Kayla,1
+Kayla,rarely,1
+rarely,Natalie,1
+Natalie,rarely,1
+is the only reason,Kayla,1
+Kayla,is the only reason,1
+is the only reason,Monica,1
+Monica,is the only reason,1
+should be grateful,Kayla,1
+Kayla,should be grateful,1
+should be grateful,Monica,1
+Monica,should be grateful,1
+fun,cage,1
+cage,fun,1
+fun,toys,1
+toys,fun,1
+space,cage,1
+cage,space,1
+space,toys,1
+toys,space,1
+irritable,food,1
+food,irritable,1
+irritable,stomach,1
+stomach,irritable,1
+soothing,food,1
+food,soothing,1
+soothing,stomach,1
+stomach,soothing,1
+dull,glue,1
+glue,dull,1
+dull,polish,1
+polish,dull,1
+sparkly,glue,1
+glue,sparkly,1
+sparkly,polish,1
+polish,sparkly,1
+fruitful,corn,1
+corn,fruitful,1
+fruitful,rice,1
+rice,fruitful,1
+scarce,corn,1
+corn,scarce,1
+scarce,rice,1
+rice,scarce,1
+drove,Kevin,1
+Kevin,drove,1
+drove,Matthew,1
+Matthew,drove,1
+rode with,Kevin,1
+Kevin,rode with,1
+rode with,Matthew,1
+Matthew,rode with,1
+always,red wine,1
+red wine,always,1
+always,white wine,1
+white wine,always,1
+rarely,red wine,1
+red wine,rarely,1
+rarely,white wine,1
+white wine,rarely,1
+too cold,summer,1
+summer,too cold,1
+too cold,winter,1
+winter,too cold,1
+very hot,summer,1
+summer,very hot,1
+very hot,winter,1
+winter,very hot,1
+bland,salt,1
+salt,bland,1
+bland,steak,1
+steak,bland,1
+savory,salt,1
+salt,savory,1
+savory,steak,1
+steak,savory,1
+a shorter,garage,1
+garage,a shorter,1
+a shorter,patio,1
+patio,a shorter,1
+an abundant,garage,1
+garage,an abundant,1
+an abundant,patio,1
+patio,an abundant,1
+closed,Angela,1
+Angela,closed,1
+closed,Megan,1
+Megan,closed,1
+open,Angela,1
+Angela,open,1
+open,Megan,1
+Megan,open,1
+not,Craig,1
+Craig,not,1
+not,Dennis,1
+Dennis,not,1
+very,Craig,1
+Craig,very,1
+very,Dennis,1
+Dennis,very,1
+one degree,Nick,1
+Nick,one degree,1
+one degree,Robert,1
+Robert,one degree,1
+several degrees,Nick,1
+Nick,several degrees,1
+several degrees,Robert,1
+Robert,several degrees,1
+ask,Eric,1
+Eric,ask,1
+ask,Kevin,1
+Kevin,ask,1
+asked,Eric,1
+Eric,asked,1
+asked,Kevin,1
+Kevin,asked,1
+learned,Eric,1
+Eric,learned,1
+learned,Kevin,1
+Kevin,learned,1
+taught,Eric,1
+Eric,taught,1
+taught,Kevin,1
+Kevin,taught,1
+hydrated,Felicia,1
+Felicia,hydrated,1
+hydrated,Patricia,1
+Patricia,hydrated,1
+thirsty,Felicia,1
+Felicia,thirsty,1
+thirsty,Patricia,1
+Patricia,thirsty,1
+bad,Derrick,1
+Derrick,bad,1
+bad,William,1
+William,bad,1
+good,Derrick,1
+Derrick,good,1
+good,William,1
+William,good,1
+healthy,Lindsey,1
+Lindsey,healthy,1
+healthy,Monica,1
+Monica,healthy,1
+helpful,Lindsey,1
+Lindsey,helpful,1
+helpful,Monica,1
+Monica,helpful,1
+scared,Angela,1
+Angela,scared,1
+scared,Tanya,1
+Tanya,scared,1
+sympathetic,Angela,1
+Angela,sympathetic,1
+sympathetic,Tanya,1
+Tanya,sympathetic,1
+despises,Monica,1
+Monica,despises,1
+despises,Victoria,1
+Victoria,despises,1
+enjoys,Monica,1
+Monica,enjoys,1
+enjoys,Victoria,1
+Victoria,enjoys,1
+informed,Mary,1
+Mary,informed,1
+informed,Samantha,1
+Samantha,informed,1
+uninformed,Mary,1
+Mary,uninformed,1
+uninformed,Samantha,1
+Samantha,uninformed,1
+difficult,grapefruit,1
+grapefruit,difficult,1
+difficult,orange,1
+orange,difficult,1
+easy,grapefruit,1
+grapefruit,easy,1
+easy,orange,1
+orange,easy,1
+fit,Monica,1
+Monica,fit,1
+fit,Rachel,1
+Rachel,fit,1
+unfit,Monica,1
+Monica,unfit,1
+unfit,Rachel,1
+Rachel,unfit,1
+large,bucket,1
+bucket,large,1
+large,tub,1
+tub,large,1
+small,bucket,1
+bucket,small,1
+small,tub,1
+tub,small,1
+kitten,Aaron,1
+Aaron,kitten,1
+kitten,William,1
+William,kitten,1
+puppy,Aaron,1
+Aaron,puppy,1
+puppy,William,1
+William,puppy,1
+confusing,metal,1
+metal,confusing,1
+confusing,wood,1
+wood,confusing,1
+intuitive,metal,1
+metal,intuitive,1
+intuitive,wood,1
+wood,intuitive,1
+protective,Erin,1
+Erin,protective,1
+protective,Jessica,1
+Jessica,protective,1
+stronger,Erin,1
+Erin,stronger,1
+stronger,Jessica,1
+Jessica,stronger,1
+a,Adam,1
+Adam,a,1
+a,Jason,1
+Jason,a,1
+never,Adam,1
+Adam,never,1
+never,Jason,1
+Jason,never,1
+one,Adam,1
+Adam,one,1
+one,Jason,1
+Jason,one,1
+improperly,hamburger,1
+hamburger,improperly,1
+improperly,pork,1
+pork,improperly,1
+properly,hamburger,1
+hamburger,properly,1
+properly,pork,1
+pork,properly,1
+apathetic toward,speeches,1
+speeches,apathetic toward,1
+apathetic toward,writings,1
+writings,apathetic toward,1
+intrigued by,speeches,1
+speeches,intrigued by,1
+intrigued by,writings,1
+writings,intrigued by,1
+loud,announcement,1
+announcement,loud,1
+loud,bell,1
+bell,loud,1
+quiet,announcement,1
+announcement,quiet,1
+quiet,bell,1
+bell,quiet,1
+already knew,Rebecca,1
+Rebecca,already knew,1
+already knew,Sarah,1
+Sarah,already knew,1
+didnt know,Rebecca,1
+Rebecca,didnt know,1
+didnt know,Sarah,1
+Sarah,didnt know,1
+although,Monica,1
+Monica,although,1
+although,Samantha,1
+Samantha,although,1
+because,Monica,1
+Monica,because,1
+because,Samantha,1
+Samantha,because,1
+agency,Carrie,1
+Carrie,agency,1
+agency,Patricia,1
+Patricia,agency,1
+hospital,Carrie,1
+Carrie,hospital,1
+hospital,Patricia,1
+Patricia,hospital,1
+fed by,Neil,1
+Neil,fed by,1
+fed by,Robert,1
+Robert,fed by,1
+feeding,Neil,1
+Neil,feeding,1
+feeding,Robert,1
+Robert,feeding,1
+large,boxes,1
+boxes,large,1
+large,offices,1
+offices,large,1
+small,boxes,1
+boxes,small,1
+small,offices,1
+offices,small,1
+bad,milk,1
+milk,bad,1
+bad,rice,1
+rice,bad,1
+still good,milk,1
+milk,still good,1
+still good,rice,1
+rice,still good,1
+over,Angela,1
+Angela,over,1
+over,Cynthia,1
+Cynthia,over,1
+under,Angela,1
+Angela,under,1
+under,Cynthia,1
+Cynthia,under,1
+expensive,price,1
+price,expensive,1
+expensive,print,1
+print,expensive,1
+small,price,1
+price,small,1
+small,print,1
+print,small,1
+gained a new,Dennis,1
+Dennis,gained a new,1
+gained a new,Eric,1
+Eric,gained a new,1
+lost their,Dennis,1
+Dennis,lost their,1
+lost their,Eric,1
+Eric,lost their,1
+dislikes,Brian,1
+Brian,dislikes,1
+dislikes,Lawrence,1
+Lawrence,dislikes,1
+loves,Brian,1
+Brian,loves,1
+loves,Lawrence,1
+Lawrence,loves,1
+hated,Brett,1
+Brett,hated,1
+hated,Jason,1
+Jason,hated,1
+liked,Brett,1
+Brett,liked,1
+liked,Jason,1
+Jason,liked,1
+older,Brett,1
+Brett,older,1
+older,Jason,1
+Jason,older,1
+younger,Brett,1
+Brett,younger,1
+younger,Jason,1
+Jason,younger,1
+industrious,Derrick,1
+Derrick,industrious,1
+industrious,Justin,1
+Justin,industrious,1
+lazy,Derrick,1
+Derrick,lazy,1
+lazy,Justin,1
+Justin,lazy,1
+inside,chair,1
+chair,inside,1
+inside,post,1
+post,inside,1
+outside,chair,1
+chair,outside,1
+outside,post,1
+post,outside,1
+insane,Adam,1
+Adam,insane,1
+insane,Brett,1
+Brett,insane,1
+sane,Adam,1
+Adam,sane,1
+sane,Brett,1
+Brett,sane,1
+ineffective,bandage,1
+bandage,ineffective,1
+ineffective,ointment,1
+ointment,ineffective,1
+potent,bandage,1
+bandage,potent,1
+potent,ointment,1
+ointment,potent,1
+poor,Dennis,1
+Dennis,poor,1
+poor,Steven,1
+Steven,poor,1
+rich,Dennis,1
+Dennis,rich,1
+rich,Steven,1
+Steven,rich,1
+obedient,Rebecca,1
+Rebecca,obedient,1
+obedient,Tanya,1
+Tanya,obedient,1
+rambunctious,Rebecca,1
+Rebecca,rambunctious,1
+rambunctious,Tanya,1
+Tanya,rambunctious,1
+candidate,Dennis,1
+Dennis,candidate,1
+candidate,Justin,1
+Justin,candidate,1
+company,Dennis,1
+Dennis,company,1
+company,Justin,1
+Justin,company,1
+earlier,Craig,1
+Craig,earlier,1
+earlier,Jason,1
+Jason,earlier,1
+later,Craig,1
+Craig,later,1
+later,Jason,1
+Jason,later,1
+compact,bed,1
+bed,compact,1
+compact,mattress,1
+mattress,compact,1
+vast,bed,1
+bed,vast,1
+vast,mattress,1
+mattress,vast,1
+weighed down,back,1
+back,weighed down,1
+weighed down,stomach,1
+stomach,weighed down,1
+werent supported by,back,1
+back,werent supported by,1
+werent supported by,stomach,1
+stomach,werent supported by,1
+new,sink,1
+sink,new,1
+new,toilet,1
+toilet,new,1
+unclean,sink,1
+sink,unclean,1
+unclean,toilet,1
+toilet,unclean,1
+expert,Erin,1
+Erin,expert,1
+expert,Laura,1
+Laura,expert,1
+incompetent,Erin,1
+Erin,incompetent,1
+incompetent,Laura,1
+Laura,incompetent,1
+a vegetarian,Aaron,1
+Aaron,a vegetarian,1
+a vegetarian,Ryan,1
+Ryan,a vegetarian,1
+an omnivorous,Aaron,1
+Aaron,an omnivorous,1
+an omnivorous,Ryan,1
+Ryan,an omnivorous,1
+fewer,Erin,1
+Erin,fewer,1
+fewer,Kayla,1
+Kayla,fewer,1
+greater,Erin,1
+Erin,greater,1
+greater,Kayla,1
+Kayla,greater,1
+cannot,barber shop,1
+barber shop,cannot,1
+cannot,beauty salon,1
+beauty salon,cannot,1
+knows how to,barber shop,1
+barber shop,knows how to,1
+knows how to,beauty salon,1
+beauty salon,knows how to,1
+not paint easily on,fabric paint,1
+fabric paint,not paint easily on,1
+not paint easily on,spray paint,1
+spray paint,not paint easily on,1
+stick to,fabric paint,1
+fabric paint,stick to,1
+stick to,spray paint,1
+spray paint,stick to,1
+even notice,Lindsey,1
+Lindsey,even notice,1
+even notice,Patricia,1
+Patricia,even notice,1
+feel guilty about,Lindsey,1
+Lindsey,feel guilty about,1
+feel guilty about,Patricia,1
+Patricia,feel guilty about,1
+cut,scissors,1
+scissors,cut,1
+cut,sewing machine,1
+sewing machine,cut,1
+first,scissors,1
+scissors,first,1
+first,sewing machine,1
+sewing machine,first,1
+second,scissors,1
+scissors,second,1
+second,sewing machine,1
+sewing machine,second,1
+sew,scissors,1
+scissors,sew,1
+sew,sewing machine,1
+sewing machine,sew,1
+dishonorable,Betty,1
+Betty,dishonorable,1
+dishonorable,Felicia,1
+Felicia,dishonorable,1
+honorable,Betty,1
+Betty,honorable,1
+honorable,Felicia,1
+Felicia,honorable,1
+chef,Adam,1
+Adam,chef,1
+chef,Nick,1
+Nick,chef,1
+customer,Adam,1
+Adam,customer,1
+customer,Nick,1
+Nick,customer,1
+short,Ian,1
+Ian,short,1
+short,Justin,1
+Justin,short,1
+tall,Ian,1
+Ian,tall,1
+tall,Justin,1
+Justin,tall,1
+bullied,Christopher,1
+Christopher,bullied,1
+bullied,Randy,1
+Randy,bullied,1
+liked,Christopher,1
+Christopher,liked,1
+liked,Randy,1
+Randy,liked,1
+popular,Christopher,1
+Christopher,popular,1
+popular,Randy,1
+Randy,popular,1
+shy,Christopher,1
+Christopher,shy,1
+shy,Randy,1
+Randy,shy,1
+because,Mary,1
+Mary,because,1
+because,Patricia,1
+Patricia,because,1
+but,Mary,1
+Mary,but,1
+but,Patricia,1
+Patricia,but,1
+not,Mary,1
+Mary,not,1
+not,Patricia,1
+Patricia,not,1
+house phone,Donald,1
+Donald,house phone,1
+house phone,Matthew,1
+Matthew,house phone,1
+smartphone,Donald,1
+Donald,smartphone,1
+smartphone,Matthew,1
+Matthew,smartphone,1
+stays,computer,1
+computer,stays,1
+stays,pet,1
+pet,stays,1
+strays from,computer,1
+computer,strays from,1
+strays from,pet,1
+pet,strays from,1
+Joan,larger,1
+larger,Joan,1
+Joan,smaller,1
+smaller,Joan,1
+John,larger,1
+larger,John,1
+John,smaller,1
+smaller,John,1
+large,book,1
+book,large,1
+large,spell,1
+spell,large,1
+small,book,1
+book,small,1
+small,spell,1
+spell,small,1
+fragile,box,1
+box,fragile,1
+fragile,tablet,1
+tablet,fragile,1
+heavy,box,1
+box,heavy,1
+heavy,tablet,1
+tablet,heavy,1
+helped fix,Kayla,1
+Kayla,helped fix,1
+helped fix,Tanya,1
+Tanya,helped fix,1
+was experiencing,Kayla,1
+Kayla,was experiencing,1
+was experiencing,Tanya,1
+Tanya,was experiencing,1
+discipline,Kenneth,1
+Kenneth,discipline,1
+discipline,Nelson,1
+Nelson,discipline,1
+neglect,Kenneth,1
+Kenneth,neglect,1
+neglect,Nelson,1
+Nelson,neglect,1
+fraying,cording,1
+cording,fraying,1
+fraying,rope,1
+rope,fraying,1
+sturdy,cording,1
+cording,sturdy,1
+sturdy,rope,1
+rope,sturdy,1
+hates,Brian,1
+Brian,hates,1
+hates,Kenneth,1
+Kenneth,hates,1
+loves,Brian,1
+Brian,loves,1
+loves,Kenneth,1
+Kenneth,loves,1
+and,Craig,1
+Craig,and,1
+and,Derrick,1
+Derrick,and,1
+did not like,Craig,1
+Craig,did not like,1
+did not like,Derrick,1
+Derrick,did not like,1
+liked,Craig,1
+Craig,liked,1
+liked,Derrick,1
+Derrick,liked,1
+or,Craig,1
+Craig,or,1
+or,Derrick,1
+Derrick,or,1
+amused,Kyle,1
+Kyle,amused,1
+amused,Robert,1
+Robert,amused,1
+embarrassed,Kyle,1
+Kyle,embarrassed,1
+embarrassed,Robert,1
+Robert,embarrassed,1
+longtime,Natalie,1
+Natalie,longtime,1
+longtime,Patricia,1
+Patricia,longtime,1
+new,Natalie,1
+Natalie,new,1
+new,Patricia,1
+Patricia,new,1
+faster,Elena,1
+Elena,faster,1
+faster,Kayla,1
+Kayla,faster,1
+slower,Elena,1
+Elena,slower,1
+slower,Kayla,1
+Kayla,slower,1
+just,Cynthia,1
+Cynthia,just,1
+just,Elena,1
+Elena,just,1
+not,Cynthia,1
+Cynthia,not,1
+not,Elena,1
+Elena,not,1
+long,journey,1
+journey,long,1
+long,time,1
+time,long,1
+short,journey,1
+journey,short,1
+short,time,1
+time,short,1
+less,bus,1
+bus,less,1
+less,truck,1
+truck,less,1
+more,bus,1
+bus,more,1
+more,truck,1
+truck,more,1
+fresh,meat,1
+meat,fresh,1
+fresh,vegetable,1
+vegetable,fresh,1
+rotten,meat,1
+meat,rotten,1
+rotten,vegetable,1
+vegetable,rotten,1
+didnt need,Christopher,1
+Christopher,didnt need,1
+didnt need,Dennis,1
+Dennis,didnt need,1
+needed,Christopher,1
+Christopher,needed,1
+needed,Dennis,1
+Dennis,needed,1
+be bullied,Adam,1
+Adam,be bullied,1
+be bullied,Steven,1
+Steven,be bullied,1
+bully others,Adam,1
+Adam,bully others,1
+bully others,Steven,1
+Steven,bully others,1
+always,Adam,1
+Adam,always,1
+always,Nick,1
+Nick,always,1
+never,Adam,1
+Adam,never,1
+never,Nick,1
+Nick,never,1
+and lots of,diving board,1
+diving board,and lots of,1
+and lots of,pool,1
+pool,and lots of,1
+but no,diving board,1
+diving board,but no,1
+but no,pool,1
+pool,but no,1
+nurse,Jessica,1
+Jessica,nurse,1
+nurse,Rachel,1
+Rachel,nurse,1
+patient,Jessica,1
+Jessica,patient,1
+patient,Rachel,1
+Rachel,patient,1
+go to sleep,Emily,1
+Emily,go to sleep,1
+go to sleep,Mary,1
+Mary,go to sleep,1
+turn down the TV,Emily,1
+Emily,turn down the TV,1
+turn down the TV,Mary,1
+Mary,turn down the TV,1
+longer,letters,1
+letters,longer,1
+longer,messages,1
+messages,longer,1
+shorter,letters,1
+letters,shorter,1
+shorter,messages,1
+messages,shorter,1
+less,curtains,1
+curtains,less,1
+less,shades,1
+shades,less,1
+more,curtains,1
+curtains,more,1
+more,shades,1
+shades,more,1
+dangerous,Airplanes,1
+Airplanes,dangerous,1
+dangerous,Guns,1
+Guns,dangerous,1
+safe,Airplanes,1
+Airplanes,safe,1
+safe,Guns,1
+Guns,safe,1
+prettier,hat,1
+hat,prettier,1
+prettier,scarf,1
+scarf,prettier,1
+uncomplimentary,hat,1
+hat,uncomplimentary,1
+uncomplimentary,scarf,1
+scarf,uncomplimentary,1
+apathetic,Monica,1
+Monica,apathetic,1
+apathetic,Natalie,1
+Natalie,apathetic,1
+concerned,Monica,1
+Monica,concerned,1
+concerned,Natalie,1
+Natalie,concerned,1
+overall,Monica,1
+Monica,overall,1
+overall,Natalie,1
+Natalie,overall,1
+adventurous,Jessica,1
+Jessica,adventurous,1
+adventurous,Sarah,1
+Sarah,adventurous,1
+unadventurous,Jessica,1
+Jessica,unadventurous,1
+unadventurous,Sarah,1
+Sarah,unadventurous,1
+convenient,pen,1
+pen,convenient,1
+convenient,pencil,1
+pencil,convenient,1
+dry,pen,1
+pen,dry,1
+dry,pencil,1
+pencil,dry,1
+forgot,arms,1
+arms,forgot,1
+forgot,legs,1
+legs,forgot,1
+remembered,arms,1
+arms,remembered,1
+remembered,legs,1
+legs,remembered,1
+boring,ball,1
+ball,boring,1
+boring,balloon,1
+balloon,boring,1
+exciting,ball,1
+ball,exciting,1
+exciting,balloon,1
+balloon,exciting,1
+brand new,jacket,1
+jacket,brand new,1
+brand new,sweater,1
+sweater,brand new,1
+full of holes,jacket,1
+jacket,full of holes,1
+full of holes,sweater,1
+sweater,full of holes,1
+heavily,city,1
+city,heavily,1
+heavily,suburb,1
+suburb,heavily,1
+lightly,city,1
+city,lightly,1
+lightly,suburb,1
+suburb,lightly,1
+faster,digital clocks,1
+digital clocks,faster,1
+faster,windup clocks,1
+windup clocks,faster,1
+slower,digital clocks,1
+digital clocks,slower,1
+slower,windup clocks,1
+windup clocks,slower,1
+already bought,Felicia,1
+Felicia,already bought,1
+already bought,Tanya,1
+Tanya,already bought,1
+an extra,Felicia,1
+Felicia,an extra,1
+an extra,Tanya,1
+Tanya,an extra,1
+because,Felicia,1
+Felicia,because,1
+because,Tanya,1
+Tanya,because,1
+but,Felicia,1
+Felicia,but,1
+but,Tanya,1
+Tanya,but,1
+happy for him,Dennis,1
+Dennis,happy for him,1
+happy for him,Samuel,1
+Samuel,happy for him,1
+smart,Dennis,1
+Dennis,smart,1
+smart,Samuel,1
+Samuel,smart,1
+doesnt know,Christine,1
+Christine,doesnt know,1
+doesnt know,Cynthia,1
+Cynthia,doesnt know,1
+knows,Christine,1
+Christine,knows,1
+knows,Cynthia,1
+Cynthia,knows,1
+very,Christine,1
+Christine,very,1
+very,Cynthia,1
+Cynthia,very,1
+desperate,Lindsey,1
+Lindsey,desperate,1
+desperate,Natalie,1
+Natalie,desperate,1
+no,Lindsey,1
+Lindsey,no,1
+no,Natalie,1
+Natalie,no,1
+amused,Kayla,1
+Kayla,amused,1
+amused,Mary,1
+Mary,amused,1
+embarrassed,Kayla,1
+Kayla,embarrassed,1
+embarrassed,Mary,1
+Mary,embarrassed,1
+is waiting,Felicia,1
+Felicia,is waiting,1
+is waiting,Megan,1
+Megan,is waiting,1
+said,Felicia,1
+Felicia,said,1
+said,Megan,1
+Megan,said,1
+cook with,Eric,1
+Eric,cook with,1
+cook with,Randy,1
+Randy,cook with,1
+grow,Eric,1
+Eric,grow,1
+grow,Randy,1
+Randy,grow,1
+spacious,cafe,1
+cafe,spacious,1
+spacious,house,1
+house,spacious,1
+tiny,cafe,1
+cafe,tiny,1
+tiny,house,1
+house,tiny,1
+be,procedure,1
+procedure,be,1
+be,surgery,1
+surgery,be,1
+long,procedure,1
+procedure,long,1
+long,surgery,1
+surgery,long,1
+short,procedure,1
+procedure,short,1
+short,surgery,1
+surgery,short,1
+take,procedure,1
+procedure,take,1
+take,surgery,1
+surgery,take,1
+escaped,Christine,1
+Christine,escaped,1
+escaped,Maria,1
+Maria,escaped,1
+extinguished,Christine,1
+Christine,extinguished,1
+extinguished,Maria,1
+Maria,extinguished,1
+called,Kenneth,1
+Kenneth,called,1
+called,Randy,1
+Randy,called,1
+is,Kenneth,1
+Kenneth,is,1
+is,Randy,1
+Randy,is,1
+less,egg,1
+egg,less,1
+less,milk,1
+milk,less,1
+more,egg,1
+egg,more,1
+more,milk,1
+milk,more,1
+fresh,concrete,1
+concrete,fresh,1
+fresh,wood,1
+wood,fresh,1
+old,concrete,1
+concrete,old,1
+old,wood,1
+wood,old,1
+fearful,Emily,1
+Emily,fearful,1
+fearful,Lindsey,1
+Lindsey,fearful,1
+fearless,Emily,1
+Emily,fearless,1
+fearless,Lindsey,1
+Lindsey,fearless,1
+extroverted,Jennifer,1
+Jennifer,extroverted,1
+extroverted,Samantha,1
+Samantha,extroverted,1
+introverted,Jennifer,1
+Jennifer,introverted,1
+introverted,Samantha,1
+Samantha,introverted,1
+higher,Donald,1
+Donald,higher,1
+higher,Jason,1
+Jason,higher,1
+lower,Donald,1
+Donald,lower,1
+lower,Jason,1
+Jason,lower,1
+does not leave,dry,1
+dry,does not leave,1
+does not leave,fresh,1
+fresh,does not leave,1
+leaves,dry,1
+dry,leaves,1
+leaves,fresh,1
+fresh,leaves,1
+clean,bowl,1
+bowl,clean,1
+clean,bucket,1
+bucket,clean,1
+messy,bowl,1
+bowl,messy,1
+messy,bucket,1
+bucket,messy,1
+catch,Adam,1
+Adam,catch,1
+catch,Logan,1
+Logan,catch,1
+deliver,Adam,1
+Adam,deliver,1
+deliver,Logan,1
+Logan,deliver,1
+stoical,Logan,1
+Logan,stoical,1
+stoical,Steven,1
+Steven,stoical,1
+weepy,Logan,1
+Logan,weepy,1
+weepy,Steven,1
+Steven,weepy,1
+many projects,Jeffrey,1
+Jeffrey,many projects,1
+many projects,Joel,1
+Joel,many projects,1
+stress relief,Jeffrey,1
+Jeffrey,stress relief,1
+stress relief,Joel,1
+Joel,stress relief,1
+horrible,Emily,1
+Emily,horrible,1
+horrible,Maria,1
+Maria,horrible,1
+nice,Emily,1
+Emily,nice,1
+nice,Maria,1
+Maria,nice,1
+with,Emily,1
+Emily,with,1
+with,Maria,1
+Maria,with,1
+without,Emily,1
+Emily,without,1
+without,Maria,1
+Maria,without,1
+needed,doll,1
+doll,needed,1
+needed,table,1
+table,needed,1
+provided,doll,1
+doll,provided,1
+provided,table,1
+table,provided,1
+a beginner,Hunter,1
+Hunter,a beginner,1
+a beginner,Randy,1
+Randy,a beginner,1
+experienced,Hunter,1
+Hunter,experienced,1
+experienced,Randy,1
+Randy,experienced,1
+skilled,Joseph,1
+Joseph,skilled,1
+skilled,Neil,1
+Neil,skilled,1
+weak,Joseph,1
+Joseph,weak,1
+weak,Neil,1
+Neil,weak,1
+do well,Joel,1
+Joel,do well,1
+do well,Nelson,1
+Nelson,do well,1
+give pointers,Joel,1
+Joel,give pointers,1
+give pointers,Nelson,1
+Nelson,give pointers,1
+larger,Kayla,1
+Kayla,larger,1
+larger,Laura,1
+Laura,larger,1
+smaller,Kayla,1
+Kayla,smaller,1
+smaller,Laura,1
+Laura,smaller,1
+doesnt have any,Katrina,1
+Katrina,doesnt have any,1
+doesnt have any,Rebecca,1
+Rebecca,doesnt have any,1
+has a lot of,Katrina,1
+Katrina,has a lot of,1
+has a lot of,Rebecca,1
+Rebecca,has a lot of,1
+grape grower,Katrina,1
+Katrina,grape grower,1
+grape grower,Patricia,1
+Patricia,grape grower,1
+wine taster,Katrina,1
+Katrina,wine taster,1
+wine taster,Patricia,1
+Patricia,wine taster,1
+didnt win,Emily,1
+Emily,didnt win,1
+didnt win,Victoria,1
+Victoria,didnt win,1
+won,Emily,1
+Emily,won,1
+won,Victoria,1
+Victoria,won,1
+less,bank,1
+bank,less,1
+less,store,1
+store,less,1
+more,bank,1
+bank,more,1
+more,store,1
+store,more,1
+off,food,1
+food,off,1
+off,oven,1
+oven,off,1
+raw,food,1
+food,raw,1
+raw,oven,1
+oven,raw,1
+thick,ball,1
+ball,thick,1
+thick,tube,1
+tube,thick,1
+thin,ball,1
+ball,thin,1
+thin,tube,1
+tube,thin,1
