@@ -1,0 +1,10 @@
+dimension d'un objet : small, big, large, short, long
+
+contenance : empty, full, box, bag, bowl, bottle, cup, pan, pot
+
+valeur : more, less, better, worse, good, bad
+
+personnes : noms propres
+
+never et always ?
+
