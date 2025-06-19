@@ -3,6 +3,8 @@ intro générale pour le projet
 mercredi : utilisation du serveur
 RDV: jeudi ou vendredi
 
+inclure she/ he dans les listes de prénoms
+
 
 'ask' in sentence
 
@@ -16,7 +18,9 @@ wealth
 sickness
 
 failure (il voulait faire ceci mais il a raté, ses objectifs)
-success
+success (not by chance)
 	
 
 team viewver 
+
+remplacer femmes par hommes, manuellement
