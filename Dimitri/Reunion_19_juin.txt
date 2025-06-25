@@ -6,18 +6,20 @@ RDV: jeudi ou vendredi
 inclure she/ he dans les listes de prénoms
 
 
-'ask' in sentence
++'ask' in sentence, also want to ask
 
-hesitation
++hesitation, also ask si on pose la question et que l'on ne demande pas quelque chose qui est spécifique à l'autre personne
 
-friendship
-famille
++friendship, or just word 'frien', but not if its ambiguous : one is in love w/ the other
++famille, or just word 'family', not including wedding
+(not girlfirend/boyfriend in both categories)
 
 bricolage
-wealth
-sickness
+wealth, or just money, taxes, , not buy, not price
++sickness, inclding injury, including mental pb
++choires, including cooking
 
-failure (il voulait faire ceci mais il a raté, ses objectifs)
+failure (il voulait faire ceci mais il a raté, ses objectifs => une question de compétence), lose a bet, mais pas un truc qui ne marche pas (comme un objet qui se casse)
 success (not by chance)
 	
 
