@@ -7,6 +7,8 @@ inclure she/ he dans les listes de prénoms
 
 
 +'ask' in sentence, also want to ask, but not answering question, also demande et non une question
+peut être que le modèle n'est pas assez sensible au vocabulaire => je peux tester avec des forme i identiques de asked , ou faire une boucle python essayer avec look, food, diet
+bert : ok tester, comparer au oprécédent
 
 +hesitation, mais pas ask ask seulement, même s'il y a un doute derrière
 
@@ -18,6 +20,7 @@ bricolage
 wealth, or just money, taxes on people, , not buy, not price
 +sickness, inclding injury, including mental pb, also just medication, non including blood test
 +choires, including cooking
+=> les phrases classifiées : tout ce qui fait référence à la propreté
 
 failure (il voulait faire ceci mais il a raté, ses objectifs => une question de compétence), lose a bet, mais pas un truc qui ne marche pas (comme un objet qui se casse)
 success (not by chance)
@@ -26,3 +29,8 @@ success (not by chance)
 team viewver 
 
 remplacer femmes par hommes, manuellement
+
+quand le classfieur sickness marche très bine mais que sur les humains
+
+comparer les recall entre les femmes et les hommes
+faire les raisonnemnt sur les complémentaire et voir si les sdistribution théoriques

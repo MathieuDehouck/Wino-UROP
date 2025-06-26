@@ -1,0 +1,641 @@
+,qID,sentence,option1,option2,answer,probabilite_nourriture,classe
+0,3QHITW7OYO7Q6B6ISU2UMJB84ZLAQE-2,Ian volunteered to eat Dennis's menudo after already having a bowl because _ despised eating intestine.,Ian,Dennis,2,0.1373645208080997,autre
+1,3QHITW7OYO7Q6B6ISU2UMJB84ZLAQE-1,Ian volunteered to eat Dennis's menudo after already having a bowl because _ enjoyed eating intestine.,Ian,Dennis,1,0.08883581823690988,autre
+2,3XWUWJ18TLO2DDRXF83QWLKRJ29UU4-1,"He never comes to my home, but I always go to his house because the _ is smaller.",home,house,1,0.04109294619901853,autre
+3,3XWUWJ18TLO2DDRXF83QWLKRJ29UU4-2,"He never comes to my home, but I always go to his house because the _ is bigger.",home,house,2,0.04517992142272764,autre
+4,3D5G8J4N5CI2K40F4RZLF9OG2CKVTH-2,"Kyle doesn't wear leg warmers to bed, while Logan almost always does. _ is more likely to live in a colder climate.",Kyle,Logan,2,0.05592162856611033,autre
+5,3D5G8J4N5CI2K40F4RZLF9OG2CKVTH-1,"Kyle doesn't wear leg warmers to bed, while Logan almost always does. _ is more likely to live in a warmer climate.",Kyle,Logan,1,0.05506407699001688,autre
+6,3DW3BNF1GHG4SV9KHVCQWF4L0K98VE-2,The GPS and map helped me navigate home.  I got lost when the _ got turned upside down.,GPS,map,2,0.0892244567994706,autre
+7,3DW3BNF1GHG4SV9KHVCQWF4L0K98VE-1,The GPS and map helped me navigate home.  I got lost when the _ got turned off.,GPS,map,1,0.1083286007963223,autre
+8,3DTJ4WT8BFTH45NSFTZT1T1BND3ZEV-2,"Emily looked up and saw Patricia racing by overhead, as _ was on the ramp .",Emily,Patricia,2,0.1372817286176149,autre
+9,3DTJ4WT8BFTH45NSFTZT1T1BND3ZEV-1,"Emily looked up and saw Patricia racing by overhead, as _ was under the ramp .",Emily,Patricia,1,0.10768103315365728,autre
+10,304QEQWKZRY6EBUR5DPX06S39IH0OJ-2,The treasury workers took the gold bars off of the trolley and stacked them in the safe until the _ was empty.,safe,trolley,2,0.08416409173448557,autre
+11,304QEQWKZRY6EBUR5DPX06S39IH0OJ-1,The treasury workers took the gold bars off of the trolley and stacked them in the safe until the _ was full.,safe,trolley,1,0.08741874154268811,autre
+12,36FFXPMSTB2HPB0N3LWI6YRLWWHHOX-1,"He thought he had time to take the scenic route to the store, but the _ was under construction.",route,store,1,0.13741823379624574,autre
+13,36FFXPMSTB2HPB0N3LWI6YRLWWHHOX-2,"He thought he had time to take the scenic route to the store, but the _ was closed early.",route,store,2,0.1257168073241423,autre
+14,37SOB9Z0SUBUPIQRB8ROANMHJ463L8-2,She remembered how annoying it is to dust her wood chair so she bought a plastic table instead.  Cleaning the _ is quick.,chair,table,2,0.8272085085960466,chores
+15,37SOB9Z0SUBUPIQRB8ROANMHJ463L8-1,She remembered how annoying it is to dust her wood chair so she bought a plastic table instead.  Cleaning the _ is time consuming.,chair,table,1,0.8599750225902917,chores
+16,3D1UCPY6GINZAB68HJIK5I0BYMV83E-2,"To overcome behavioural bias, we need to focus more on changing the conscious actions instead of the unconscious actions because the _ actions are voluntary.",unconscious,conscious,2,0.08063190934818551,autre
+17,3D1UCPY6GINZAB68HJIK5I0BYMV83E-1,"To overcome behavioural bias, we need to focus more on changing the conscious actions instead of the unconscious actions because the _ actions are involuntary.",unconscious,conscious,1,0.06923166361673636,autre
+18,3R5LWXWHR2MQJOJ4K61W4B6CS5OGXO-2,Megan has a lot less money than Jessica because _ just bought the winning lottery ticket.,Megan,Jessica,2,0.03946199111923679,autre
+19,3R5LWXWHR2MQJOJ4K61W4B6CS5OGXO-1,Megan has a lot more money than Jessica because _ just bought the winning lottery ticket.,Megan,Jessica,1,0.03615463596658903,autre
+20,3NRZ1LDP7W4677DB493437C7D3WZP2-2,I picked up a bag of peanuts and raisins for a snack. I wanted a sweeter snack out so I stored the _ for now.,raisins,peanuts,2,0.13734085000266358,autre
+21,3NRZ1LDP7W4677DB493437C7D3WZP2-1,I picked up a bag of peanuts and raisins for a snack. I wanted a sweeter snack out so I ate the _ for now.,raisins,peanuts,1,0.18070041804967182,autre
+22,3X55NP42EOE5ME6IJ28VZ67STRW3P5-1,Craig really loves to clean all the time but Derrick does not because _ is very neat.,Craig,Derrick,1,0.9548053282392589,chores
+23,3X55NP42EOE5ME6IJ28VZ67STRW3P5-2,Craig really loves to clean all the time but Derrick does not because _ is very untidy.,Craig,Derrick,2,0.9739018279145241,chores
+24,3JHB4BPSFMNRVHVKKM0UIMOWRR29QT-1,Dennis gave his hammer to Robert so he could hammer the nails. _ had plenty of hammers.,Dennis,Robert,1,0.02073907092442851,autre
+25,3JHB4BPSFMNRVHVKKM0UIMOWRR29QT-2,Dennis gave his hammer to Robert so he could hammer the nails. _ had no hammers.,Dennis,Robert,2,0.03758427693410748,autre
+26,3DGDV62G7O7G1WAZF2UQGW20SY82PG-2,The party was more interesting and uplifing than the funeral because the _ was rigid.,party,funeral,2,0.13736675111561406,autre
+27,3DGDV62G7O7G1WAZF2UQGW20SY82PG-1,The party was more interesting and uplifting than the funeral because the _ was flexible.,party,funeral,1,0.04139493374907585,autre
+28,3VW0145YLYAAMPBUU78QY9UMP3VMJ1-2,The geese prefer to nest in the fields rather than the forests because in the _ predators are more hidden.,fields,forests,2,0.1373278293315072,autre
+29,3VW0145YLYAAMPBUU78QY9UMP3VMJ1-1,The geese prefer to nest in the fields rather than the forests because in the _ predators are very visible.,fields,forests,1,0.16233386486862128,autre
+30,3IWA71V4TKUOMVUY8TSASKTOZ3UX63-2,"The plant took up too much room in the urn, because the _ was small.",plant,urn,2,0.1372760974138412,autre
+31,3IWA71V4TKUOMVUY8TSASKTOZ3UX63-1,"The plant took up too much room in the urn, because the _ was large.",plant,urn,1,0.15293737659097334,autre
+32,3M7OI89LVYMLP8KWXZKNM9K59J76CX-1,"I installed a new bird house outside above the ground, but had to prop it up higher away from my cat since the _ was too low.",bird house,ground,1,0.017808819823928304,autre
+33,3M7OI89LVYMLP8KWXZKNM9K59J76CX-2,"I installed a new bird house outside above the ground, but had to prop it up higher away from my cat since the _ was too high.",bird house,ground,2,0.01946806483358703,autre
+34,3INZSNUD80OICJS8V2IAQPTPKLFD95-2,I prefer spa to the pool and I find the cold water in the _  not relaxing at the end of the day.,spa,pool,2,0.13735015526878216,autre
+35,3INZSNUD80OICJS8V2IAQPTPKLFD95-1,I prefer spa to the pool and I find the hot water in the _ relaxing at the end of the day.,spa,pool,1,0.19099829589766376,autre
+36,3B9J25CZ27R56VH0OAZQFC45F2ESCA-2,Megan said it would be liberating to go out without makeup like Elena does. _ never wore makeup when she left the house.,Megan,Elena,2,0.13725814793220176,autre
+37,3B9J25CZ27R56VH0OAZQFC45F2ESCA-1,Megan said it would be liberating to go out without makeup like Elena does. _ always wore makeup when she left the house.,Megan,Elena,1,0.13675378508918495,autre
+38,38G0E1M85OJHKHF44WPVK5AIL6SUV4-1,Donald was richer than Leslie was because companies had found oil on the property of _ .,Donald,Leslie,1,0.0211085604726559,autre
+39,38G0E1M85OJHKHF44WPVK5AIL6SUV4-2,Donald was poorer than Leslie was because companies had found oil on the property of _ .,Donald,Leslie,2,0.04462706540046549,autre
+40,3THR0FZ95R7JB7JDU6BGYQKRCK0OLW-2,"Feeling a draft, William asked Neil to please close the front door because _ was closer.",William,Neil,2,0.0987263860515464,autre
+41,3THR0FZ95R7JB7JDU6BGYQKRCK0OLW-1,"Feeling a draft, William asked Neil to please close the front door because _ was farther away.",William,Neil,1,0.12065123873638416,autre
+42,3SV8KD29L4Q5WGGVRHYW7QQ8EEZZKB-2,Lindsey loved the taste of duck but Megan liked chicken better. _ ordered the kung pao chicken for dinner.,Lindsey,Megan,2,0.13722642996066994,autre
+43,3SV8KD29L4Q5WGGVRHYW7QQ8EEZZKB-1,Lindsey loved the taste of duck but Megan liked chicken better. _ ordered the Peking Duck for dinner.,Lindsey,Megan,1,0.1683732621815789,autre
+44,3RSBJ6YZEE4XBF9H8V8I3DF7F0UFOM-2,Elena would grab their inventory in the back of the store for Megan to sell each time because _ was a loyal customer.,Elena,Megan,2,0.02280742902913624,autre
+45,3RSBJ6YZEE4XBF9H8V8I3DF7F0UFOM-1,Elena would grab their inventory in the back of the store for Megan to sell each time because _ was a businessperson.,Elena,Megan,1,0.03242880832973224,autre
+46,3TCFMTM8HEMDK4RXU0J0F0K2KZI21L-2,"Kenneth asked Dennis what time the dance was being held, but _ had forgotten.",Kenneth,Dennis,2,0.13727807170458048,autre
+47,3TCFMTM8HEMDK4RXU0J0F0K2KZI21L-1,"Kenneth asked Dennis what time the dance was being held, because _ had forgotten.",Kenneth,Dennis,1,0.20248257125281274,autre
+48,3S4TINXCC217YYX13TMMKNON1TXBOG-1,"Eric was teaching all of the proper stretches to Neil, because _ was using them to get paid.",Eric,Neil,1,0.0019624246316377993,autre
+49,3S4TINXCC217YYX13TMMKNON1TXBOG-2,"Eric was teaching all of the proper stretches to Neil, because _ was using them to get in shape.",Eric,Neil,2,0.0054148633085966645,autre
+50,36MUZ9VAE8GE14IWNBAWA1I8ZL8DE5-2,"When buying a home, Patricia doesn't have as much money to spend as Tanya, so _ buys a 5 bedroom house.",Patricia,Tanya,2,0.13730980096901882,autre
+51,36MUZ9VAE8GE14IWNBAWA1I8ZL8DE5-1,"When buying a home, Patricia doesn't have as much money to spend as Tanya, so _ buys a 1 bedroom house.",Patricia,Tanya,1,0.17611056399380462,autre
+52,3E9ZFLPWOYQPLQQSQWPZXPVKJR3IXG-2,"I wanted to buy small tweezer to fit in my wristlet, but they still didn't fit. The _ were too small.",tweezer,wristlet,2,0.007394675579939681,autre
+53,3E9ZFLPWOYQPLQQSQWPZXPVKJR3IXG-1,"I wanted to buy small tweezer to fit in my wristlet, but they still didn't fit. The _ were too big.",tweezer,wristlet,1,0.007627722091142818,autre
+54,3PCPFX4U40OL22NQ3AOM0KMZ1FFFQD-1,Handling emergencies was never very difficult for Kevin but it was for Nelson because _ could remain calm under pressure.,Kevin,Nelson,1,0.04105748577314423,autre
+55,3PCPFX4U40OL22NQ3AOM0KMZ1FFFQD-2,Handling emergencies was never very difficult for Kevin but it was for Nelson because _ wasn't able to remain calm under pressure.,Kevin,Nelson,2,0.0944241810097152,autre
+56,3P4C70TRMTVVJU2F6NY8THBPLKALGF-1,"Emily asked her sister Sarah if she needed any tampons or pads from the store, even though _ didn't because she had switched to using menstrual cups.",Emily,Sarah,1,0.13737793556567712,autre
+57,3P4C70TRMTVVJU2F6NY8THBPLKALGF-2,"Emily asked her sister Sarah if she needed any tampons or pads from the store, but _ didn't because she had switched to using menstrual cups.",Emily,Sarah,2,0.10876178575280597,autre
+58,3R6RZGK0XHQY1QZ9EXMKNQGVHU3YV6-2,"Elena had a horrendous coughing fit from the pollen, unlike Tanya , since _ was immune to allergies.",Elena,Tanya,2,0.8315772048291734,chores
+59,3R6RZGK0XHQY1QZ9EXMKNQGVHU3YV6-1,"Elena had a horrendous coughing fit from the pollen, unlike Tanya , since _ was susceptible to allergies.",Elena,Tanya,1,0.8829643881399342,chores
+60,3HJ1EVZS2OHQYRMXWUCK4177UA4R37-1,"Rebecca picked up Amy to carpool to work every day, so _ asked for some gas money.",Rebecca,Amy,1,0.13731774864598498,autre
+61,3HJ1EVZS2OHQYRMXWUCK4177UA4R37-2,"Rebecca picked up Amy to carpool to work every day, so _ offered some gas money.",Rebecca,Amy,2,0.09671332580946618,autre
+62,3BDORL6HKKBEBRIGPNNLX4B158XCRH-2,Jennifer discreetly admitted to Erin that she didn't know how to apply eye shadow.  _ was reassuring.,Jennifer,Erin,2,0.06962776024908558,autre
+63,3BDORL6HKKBEBRIGPNNLX4B158XCRH-1,Jennifer discreetly admitted to Erin that she didn't know how to apply eye shadow.  _ was embarrassed.,Jennifer,Erin,1,0.23085464976054593,autre
+64,34D9ZRXCYT8HDGK24W3Z9HEIG7ISAG-1,The employees threw a party and drank so much alcohol that they could not go into work the next day. The _ was loud.,party,alcohol,1,0.5,incertitude
+65,34D9ZRXCYT8HDGK24W3Z9HEIG7ISAG-2,The employees threw a party and drank so much alcohol that they could not go into work the next day. The _ was copious.,party,alcohol,2,0.319869794051783,incertitude
+66,39WSF6KUV2JQBCAETMCCTX6ZAD1OEF-2,"Once in Poland, Dennis enjoyed the trip more than Jason because _ had a shallow understanding of the Polish language.",Dennis,Jason,2,0.17779248707553572,autre
+67,39WSF6KUV2JQBCAETMCCTX6ZAD1OEF-1,"Once in Poland, Dennis enjoyed the trip more than Jason because _ had a deeper understanding of the Polish language.",Dennis,Jason,1,0.09885853188430302,autre
+68,3CMV9YRYP5F5AWSGETJBQU35DCRLJJ-1,"The house Benjamin designed for Joseph was beautiful, so _ used it in his portfolio.",Benjamin,Joseph,1,0.08857844923421712,autre
+69,3CMV9YRYP5F5AWSGETJBQU35DCRLJJ-2,"The house designed for Benjamin by Joseph was beautiful, so _ used it in his portfolio.",Benjamin,Joseph,2,0.060805476576366604,autre
+70,3YLTXLH3DF4KGMDHYNXX3082HG2HPN-2,John poured the entire bowl of fish into the hot pan on the stove until the _ was full.,bowl,pan,2,0.6470668212399382,incertitude
+71,3YLTXLH3DF4KGMDHYNXX3082HG2HPN-1,John poured the entire bowl of fish into the hot pan on the stove until the _ was empty.,bowl,pan,1,0.6541208145650457,incertitude
+72,3L1EFR8WWVJU4S5B66P06NKJLV1F9S-2,Sue wanted to practice meditation so she went to the gym with her class but the _ was too busy.,class,gym,2,0.19189745386107357,autre
+73,3L1EFR8WWVJU4S5B66P06NKJLV1F9S-1,Sue wanted to practice meditation so she went to the gym with her class but the _ was too late.,class,gym,1,0.12759096738176026,autre
+74,3MDKGGG61QL2BPM7JLFDBJK9SLJ6TJ-2,Natalie thinks emeralds are beautiful gems but Betty does not. _ bought a necklace featuring a big diamond.,Natalie,Betty,2,0.00433002009554982,autre
+75,3MDKGGG61QL2BPM7JLFDBJK9SLJ6TJ-1,Natalie thinks emeralds are beautiful gems but Betty does not. _ bought a necklace featuring a big emerald.,Natalie,Betty,1,0.0035324621468560075,autre
+76,3XEIP58NL21VABXKWFMXEORVWA4ZLI-1,Aaron hung his hunting rifle over the hearth after the most recent trip ended up with Benjamin making the fatal shot.  _ was happy for him.,Aaron,Benjamin,1,0.3382288274489003,incertitude
+77,3XEIP58NL21VABXKWFMXEORVWA4ZLI-2,Aaron hung his hunting rifle over the hearth after the most recent trip ended up with Benjamin making the fatal shot.  _ was happy for himself.,Aaron,Benjamin,2,0.350077762450173,incertitude
+78,3K3G488TR26T05U1XYBDE8VMH5FQ5S-2,"Kevin is far more physically versatile than Nick, because _ is an injured athlete in bed.",Kevin,Nick,2,0.05444784555646601,autre
+79,3K3G488TR26T05U1XYBDE8VMH5FQ5S-1,"Kevin is far more physically versatile than Nick, because _ is a seasoned athlete in training.",Kevin,Nick,1,0.043653834453329834,autre
+80,3DQYSJDTYL9D5LO6UDZ8CAXSMH5XES-1,Adam put handwash only clothes in the washer but Aaron washed them by hand as _ was lazy.,Adam,Aaron,1,0.9103962745770272,chores
+81,3DQYSJDTYL9D5LO6UDZ8CAXSMH5XES-2,Adam put handwash only clothes in the washer but Aaron washed them by hand as _ was conscientious.,Adam,Aaron,2,0.8150854326815484,chores
+82,3QGHA0EA0JY09I7WAH1W9JD0AKWWBC-2,Kyle loves the flavor of apricots but Matthew likes plums better. _ couldn't wait for plum season.,Kyle,Matthew,2,0.16881484505045313,autre
+83,3QGHA0EA0JY09I7WAH1W9JD0AKWWBC-1,Kyle loves the flavor of apricots but Matthew likes plums better. _ couldn't wait for apricot season.,Kyle,Matthew,1,0.15478125115404595,autre
+84,3RTFSSG7T84CMRT81UQQNM95RWELWX-2,"Derrick was unable to stay focused at work unlike Justin, because _ had a fun job.",Derrick,Justin,2,0.46134198534335397,incertitude
+85,3RTFSSG7T84CMRT81UQQNM95RWELWX-1,"Derrick was unable to stay focused at work unlike Justin, because _ had a boring job.",Derrick,Justin,1,0.6228046339795972,incertitude
+86,3Z33IC0JC0K460SUMNI4WBZWKULV9S-2,"Avery was debating on taking up German instead of Latin, because the _ was newer.",Latin,German,2,0.315468521730368,incertitude
+87,3Z33IC0JC0K460SUMNI4WBZWKULV9S-1,"Avery was debating on taking up German instead of Latin, because the _ was old.",Latin,German,1,0.37484375947803494,incertitude
+88,31JUPBOORN21WQXQ3RAK966J43ML8G-2,"Kayla dated many more people at once than Betty, because _ was in an open relationship.",Kayla,Betty,2,0.11830713282114028,autre
+89,31JUPBOORN21WQXQ3RAK966J43ML8G-1,"Kayla dated many more people at once than Betty, because _ was in an exclusive relationship.",Kayla,Betty,1,0.1601430295047889,autre
+90,3WKGUBL7SZK0DPAOROK7SUQE73EL4A-1,Steven proudly showed Michael the mangoes he grew himself all this summer.  _ is hardworking.,Steven,Michael,1,0.13580443915271923,autre
+91,3WKGUBL7SZK0DPAOROK7SUQE73EL4A-2,Steven proudly showed Michael the mangoes he grew himself all this summer.  _ is astonished.,Steven,Michael,2,0.06012088879602514,autre
+92,3QGTX7BCHRGH8MUZ4S6QXZVYAK4Z5U-1,"The letter that Joel has written is being read by Adam, so _ is the writer.",Joel,Adam,1,0.134031940384369,autre
+93,3QGTX7BCHRGH8MUZ4S6QXZVYAK4Z5U-2,"The letter that Joel has written is being read by Adam, so _ is the editor.",Joel,Adam,2,0.16255471082213332,autre
+94,3P4ZBJFX2XH5GOIJZHZSK7STICEFW3-1,"Kyle was more comfortable speaking in front of large groups than Nick, because _ had taken public speaking courses in college.",Kyle,Nick,1,0.028709632806449482,autre
+95,3P4ZBJFX2XH5GOIJZHZSK7STICEFW3-2,"Kyle was more comfortable speaking in front of large groups than Nick, because _ was not able to take public speaking courses in college.",Kyle,Nick,2,0.04979633989596218,autre
+96,34OWYT6U3WFZKU8UNGJLHM92CQ3I9S-2,In the lagoon Emily swam in the nude while Felicia opted for a full body swimsuit. _ was very hesitant with showing their body.,Emily,Felicia,2,0.09292574226072246,autre
+97,34OWYT6U3WFZKU8UNGJLHM92CQ3I9S-1,In the lagoon Emily swam in the nude while Felicia opted for a full body swimsuit. _ was very free with showing their body.,Emily,Felicia,1,0.064771493958818,autre
+98,33K3E8REWWTWWKEFHAD8K016GUUX8H-2,Sarah Jane's watch smashed when the book hit it since the _ was too strong.,watch,book,2,0.35738502122134264,incertitude
+99,33K3E8REWWTWWKEFHAD8K016GUUX8H-1,Sarah Jane's watch smashed when the book hit it since the _ was too weak.,watch,book,1,0.31028616838886863,incertitude
+100,3WPCIUYH1A61WY1MT8NRHPU19DUTDY-1,"Joseph had to have well manicured nails for work, but not Kevin, because _ worked at a bank.",Joseph,Kevin,1,0.2945886161622906,incertitude
+101,3WPCIUYH1A61WY1MT8NRHPU19DUTDY-2,"Joseph had to have well manicured nails for work, but not Kevin, because _ worked at a farm.",Joseph,Kevin,2,0.5,incertitude
+102,3XAOZ9UYR1596CSPG9L13G6DTFDQ10-2,"While out playing golf, Dennis fell in the mud, but Christopher kept their balance because _ had spiked shoes on.",Dennis,Christopher,2,0.2597185911846903,incertitude
+103,3XAOZ9UYR1596CSPG9L13G6DTFDQ10-1,"While out playing golf, Dennis fell in the mud, but Christopher kept their balance, because _ had slippery shoes on.",Dennis,Christopher,1,0.24749341978051934,autre
+104,3G9UA71JVX86VB3EAZI17PL5KCMJ7G-2,"I couldn't control the moisture like I controlled the rain, because the _ was coming in at one spot.",moisture,rain,2,0.2774348812894804,incertitude
+105,3G9UA71JVX86VB3EAZI17PL5KCMJ7G-1,"I couldn't control the moisture like I controlled the rain, because the _ was coming in everywhere.",moisture,rain,1,0.44982664861350147,incertitude
+106,3R6RZGK0XHQY1QZ9EXMKNQGWJ4SVYG-1,"Leslie was fascinated with collecting new shoes compared to Derrick, because _ loved fashion trends.",Leslie,Derrick,1,0.06067963077711451,autre
+107,3R6RZGK0XHQY1QZ9EXMKNQGWJ4SVYG-2,"Leslie was fascinated with collecting new shoes compared to Derrick, because _ hated fashion trends.",Leslie,Derrick,2,0.10429837219395395,autre
+108,3SU800BH886PF9JNIXVLEIBA4ORQU4-2,Jessica thought Sandstorm was the greatest song ever written but Patricia hated it. _ bought a ticket to the jazz concert.,Jessica,Patricia,2,0.26018856508894705,incertitude
+109,3SU800BH886PF9JNIXVLEIBA4ORQU4-1,Jessica thought Sandstorm was the greatest song ever written but Patricia hated it. _ bought a ticket to the Darude rave.,Jessica,Patricia,1,0.23279969748262974,autre
+110,3EHVO81VN5JHZUUFDLM724Q4E0O1HV-2,Bill poured the entire bowl of cheese snack into his mouth until the _ was empty.,mouth,bowl,2,0.367061669411833,incertitude
+111,3EHVO81VN5JHZUUFDLM724Q4E0O1HV-1,Bill poured the entire bowl of cheese snack into his mouth until the _ was full.,mouth,bowl,1,0.4003790307153053,incertitude
+112,3126F2F5F818WCMF8MPRIXBPP0LEPF-2,"Ben played soccer and bowling every week. However, it was easy for him to play in the _ game because he hurt his arm.",bowling,soccer,2,0.34304380282911945,incertitude
+113,3126F2F5F818WCMF8MPRIXBPP0LEPF-1,"Ben played soccer and bowling every week. However, it was difficult for him to play in the _ game because he hurt his arm.",bowling,soccer,1,0.3915487984758632,incertitude
+114,3J94SKDEKINZBWQWSC5TE9ONT9BD5S-1,Nick had a bigger dog than Craig because _ fed their dog much more food.,Nick,Craig,1,0.30091734829122146,incertitude
+115,3J94SKDEKINZBWQWSC5TE9ONT9BD5S-2,Nick had a smaller dog than Craig because _ fed their dog much more food.,Nick,Craig,2,0.2910012917354821,incertitude
+116,33CLA8O0MI9LE32QGPDM5AW4X5DRFU-1,There was more shade in the yard of Christine than there was in the yard of Victoria because _ had more plants.,Christine,Victoria,1,0.4265488238772856,incertitude
+117,33CLA8O0MI9LE32QGPDM5AW4X5DRFU-2,There was more shade in the yard of Christine than there was in the yard of Victoria because _ had less plants.,Christine,Victoria,2,0.4543647330009858,incertitude
+118,3OND0WXMHYTVDKNY97TM1MX6R3AHE7-2,Kyle loves chocolate and candy and Steven loves pickles and lemons. _ loves sour foods.,Kyle,Steven,2,0.285499346661709,incertitude
+119,3OND0WXMHYTVDKNY97TM1MX6R3AHE7-1,Kyle loves chocolate and candy and Steven loves pickles and lemons. _ loves sweet foods.,Kyle,Steven,1,0.20925247849597445,autre
+120,3MA5N0ATTC912LBQGUEP8MWQ2XXKWJ-2,"Since Benjamin ate unhealthy desserts far more frequently than Brett, _ had strong will power.",Benjamin,Brett,2,0.5471978352331919,incertitude
+121,3MA5N0ATTC912LBQGUEP8MWQ2XXKWJ-1,"Since Benjamin ate unhealthy desserts far more frequently than Brett, _ had weak will power.",Benjamin,Brett,1,0.6604279389265045,incertitude
+122,3QHITW7OYO7Q6B6ISU2UMJB89I2AQ2-1,Eric asked Michael on a date to go to the movies on Friday night because _ was very confident.,Eric,Michael,1,0.006243565096892552,autre
+123,3QHITW7OYO7Q6B6ISU2UMJB89I2AQ2-2,Eric asked Michael on a date to go to the movies Friday night because _ was very attractive.,Eric,Michael,2,0.01857972269472897,autre
+124,3M4KL7H8KVL125AYH2V35D1E5OH167-2,"Amy hated the smell of bleach, but still Kayla used it all the time to clean so _ tries to use it less.",Amy,Kayla,2,0.8273499434809725,chores
+125,3M4KL7H8KVL125AYH2V35D1E5OH167-1,"Amy hated the smell of bleach, but still Kayla used it all the time to clean so _ always leaves the house.",Amy,Kayla,1,0.8634849684286425,chores
+126,3R5OYNIC2C7ALV4CYHEMHJBQSB1PTB-2,Eric looked at Neil in shock and started to react violently because _ lied to him.,Eric,Neil,2,0.006323093429940602,autre
+127,3R5OYNIC2C7ALV4CYHEMHJBQSB1PTB-1,Eric looked at Neil in shock and started to react violently because _ felt betrayed.,Eric,Neil,1,0.008308741304670755,autre
+128,3PN6H8C9R4OWH22DN8WAMK49Q47DAW-2,"Matthew made sure to use an oil lubricant when expanding his piercing, unlike Jeffrey, so the painful experience from _ made a lot of sense.",Matthew,Jeffrey,2,0.09408674974515246,autre
+129,3PN6H8C9R4OWH22DN8WAMK49Q47DAW-1,"Matthew made sure to use an oil lubricant when expanding his piercing, unlike Jeffrey, so the agreeable experience from _ made a lot of sense.",Matthew,Jeffrey,1,0.045768516446961754,autre
+130,3XWUWJ18TN4H72Q4Z6FQOJ8Z7XHUU9-2,Samantha brought a get well card to the hospital but Emily forgot to because _ was preoccupied.,Samantha,Emily,2,0.15249084272647792,autre
+131,3XWUWJ18TN4H72Q4Z6FQOJ8Z7XHUU9-1,Samantha brought a get well card to the hospital but Emily forgot to because _ was thoughtful.,Samantha,Emily,1,0.08872299752185996,autre
+132,3ZXNP4Z39TZCQ1REDKUEN4YXNY17L9-2,Jessica took off the gloves and gave them to Katrina because _ 's hands were cold.,Jessica,Katrina,2,0.4476904333312,incertitude
+133,3ZXNP4Z39TZCQ1REDKUEN4YXNY17L9-1,Jessica took off the gloves and gave them to Katrina because _ 's hands were warm.,Jessica,Katrina,1,0.358137104766272,incertitude
+134,306W7JMRYYWPJHBECELQV3AESDU8BA-2,"The lawsuit bankrupted the company, causing Megan to be let go from their job while Mary was promoted. _ felt relieved and elated.",Megan,Mary,2,0.054273427379779374,autre
+135,306W7JMRYYWPJHBECELQV3AESDU8BA-1,"The lawsuit bankrupted the company, causing Megan to be let go from their job while Mary was promoted. _ felt depressed and hopeless.",Megan,Mary,1,0.09656120773264629,autre
+136,3YZ7A3YHR77K7A8L90CI16YWOEW5S8-1,John's certification was less important that Jim's degree because the _ was from a minor University.,certification,degree,1,0.07749884726515947,autre
+137,3YZ7A3YHR77K7A8L90CI16YWOEW5S8-2,John's certification was less important that Jim's degree because the _ was from a major University.,certification,degree,2,0.07810344917061086,autre
+138,3ZG552ORAOI80562LCFPEMFR4LT2VU-2,"They opted not to go to the dance but to the movie instead, the _ seemed like a proper destination for their date.",dance,movie,2,0.06225322757414831,autre
+139,3ZG552ORAOI80562LCFPEMFR4LT2VU-1,"They opted not to go to the dance but to the movie instead, the _ seemed like an inappropriate destination for their date.",dance,movie,1,0.13598112723917644,autre
+140,3D0LPO3EADD3B6QCDL06SYMNLVWOY8-1,"The thermostat showed that it was twenty degrees cooler downstairs than it was upstairs, so Byron stayed in the _ because he was hot.",downstairs,upstairs,1,0.5324896092627998,incertitude
+141,3D0LPO3EADD3B6QCDL06SYMNLVWOY8-2,"The thermostat showed that it was twenty degrees cooler downstairs than it was upstairs, so Byron stayed in the _ because he was cold.",downstairs,upstairs,2,0.42894192406025244,incertitude
+142,3NZ1E5QA61FLQORJYEQNBHOVJVI5BM-1,Michael wanted to take Craig out on the water in his new boat. _ said it would be fun to show him the ropes.,Michael,Craig,1,0.5688152519614713,incertitude
+143,3NZ1E5QA61FLQORJYEQNBHOVJVI5BM-2,Michael wanted to take Craig out on the water in his new boat. _ said it would be confusing to see how the boat works.,Michael,Craig,2,0.6313856506256225,incertitude
+144,3LAZVA75NIPYGWYY02HBRWXADAS2O8-2,"Come over here and take a look at my scalp today  Natalie told Katrina, _ hates providing her  opinion.",Natalie,Katrina,2,0.07966306018908982,autre
+145,3LAZVA75NIPYGWYY02HBRWXADAS2O8-1,"Come over here and take a look at my scalp today  Natalie told Katrina, _ needs a second opinion.",Natalie,Katrina,1,0.2271480718625517,autre
+146,3421H3BM9CVA9UR7PWGLLLCBE2HJ9Y-1,"The sushi rotted on the counter unless it was put in the cooler, as the _ exposed it to contamination.",counter,cooler,1,0.2536282273501048,incertitude
+147,3421H3BM9CVA9UR7PWGLLLCBE2HJ9Y-2,"The sushi rotted on the counter unless it was put in the cooler, as the _ protected it from contamination.",counter,cooler,2,0.18482092109906978,autre
+148,3WRBLBQ2GTMIMYDTHUCPVXJ2JTP0GS-1,The contract could not be drafted at the business during that day because the _ was too small to care about.,contract,business,1,0.028693138177105438,autre
+149,3WRBLBQ2GTMIMYDTHUCPVXJ2JTP0GS-2,The contract could not be drafted at the business during that day because the _ was too big to care about it.,contract,business,2,0.039349383317036635,autre
+150,3I7KR83SNCR5KEXP7HGXM0COUXGK9A-1,"Laura always had more motivation in life and achieving goals than Katrina, as _ was optimistic.",Laura,Katrina,1,0.25249423975902935,incertitude
+151,3I7KR83SNCR5KEXP7HGXM0COUXGK9A-2,"Laura always had more motivation in life and achieving goals than Katrina, as _ was lazy.",Laura,Katrina,2,0.5754610552664238,incertitude
+152,3MZ3TAMYTLL5OU4GHXJ7879WIBGRIT-2,Ben had to either stop eating chocolates or nuts. He chose to stop eating the _ because they were savory.,chocolates,nuts,2,0.40075714590785494,incertitude
+153,3MZ3TAMYTLL5OU4GHXJ7879WIBGRIT-1,Ben had to either stop eating chocolates or nuts. He chose to stop eating the _ because they were sweet.,chocolates,nuts,1,0.31777768089042374,incertitude
+154,3909MD9T21VBZOWSEH5MY1LUCSHFE2-1,James was looking if there is any space to put the book into the shelf. The _ is small.,space,book,1,0.06310149142655917,autre
+155,3909MD9T21VBZOWSEH5MY1LUCSHFE2-2,James was looking if there is any space to put the book into the shelf. The _ is big.,space,book,2,0.06793561878817113,autre
+156,3SNR5F7R947V9FYIFPB71YYMSK9EIS-1,James was writing a poem on his jotter when the ink finished. The _ is a long .,poem,ink,1,0.18413696908627009,autre
+157,3SNR5F7R947V9FYIFPB71YYMSK9EIS-2,James was writing a poem on his jotter when the ink finished. The _ is a low.,poem,ink,2,0.1931550167683335,autre
+158,34F34TZU7WXKFL71KPP6J0GOJZ2J2X-2,"The couple drank wine out of glasses instead of mugs, because the _ were clean.",mugs,glasses,2,0.7295526109932003,incertitude
+159,34F34TZU7WXKFL71KPP6J0GOJZ2J2X-1,"The couple drank wine out of glasses instead of mugs, because the _ were dirty.",mugs,glasses,1,0.938311431191901,chores
+160,37PGLWGSJVKYVFQSBBMAZTBQBYPKIX-1,Dividing the candy was more difficult than dividing the apples because every kid wanted the _ .,candy,apples,1,0.5561480597493071,incertitude
+161,37PGLWGSJVKYVFQSBBMAZTBQBYPKIX-2,Dividing the candy was more difficult than dividing the apples because no kid wanted the _ .,candy,apples,2,0.4717411851207319,incertitude
+162,3O4VWC1GEW49033KOP3B2ALGKZ73J0-1,Brian wanted to be a home based administrative assistant and Kenneth didn't because _ liked staying at home.,Brian,Kenneth,1,0.4373019886198069,incertitude
+163,3O4VWC1GEW49033KOP3B2ALGKZ73J0-2,Brian wanted to be a home based administrative assistant and Kenneth didn't because _ did not like staying at home.,Brian,Kenneth,2,0.5069969734308589,incertitude
+164,3B6F54KMR2A6P38VOFY66IX6ND11SG-2,"Brian had a large collection of coins that Kevin really admired, so _ asked him for some duplicates.",Brian,Kevin,2,0.13277030411847768,autre
+165,3B6F54KMR2A6P38VOFY66IX6ND11SG-1,"Brian had a large collection of coins that Kevin really admired, so _ offered him some duplicates.",Brian,Kevin,1,0.05534127864031685,autre
+166,3APP19WN73SD09Z8JJS64YTSV1P6GK-2,"William forgot about all the times when Ian saved them, despite how _ was generally self-sacrificing.",William,Ian,2,0.11532809446731214,autre
+167,3APP19WN73SD09Z8JJS64YTSV1P6GK-1,"William forgot about all the times when Ian saved them, because _ was generally self-involved.",William,Ian,1,0.09186106795943164,autre
+168,3CMIQF80GP44DYTMMFXIYCXU1CV6QO-2,"Katrina's being taught how to speak Korean by Felicia, so _ was most likely born in Korea.",Katrina,Felicia,2,0.1180089067182724,autre
+169,3CMIQF80GP44DYTMMFXIYCXU1CV6QO-1,"Katrina's being taught how to speak Korean by Felicia, so _ was most likely born in the US.",Katrina,Felicia,1,0.11437107502785324,autre
+170,3HEA4ZVWVF0J18AAX4ZA8VO39BB55O-2,Jason denied Ian's passport application because _ did not provide the correct paperwork in time.,Jason,Ian,2,0.2547056929583948,incertitude
+171,3HEA4ZVWVF0J18AAX4ZA8VO39BB55O-1,Jason denied Ian's passport application because _ did not receive the correct paperwork in time.,Jason,Ian,1,0.28499243420338666,incertitude
+172,32L724R85LIKCHO145FI3C9HHSMIPK-2,I wanted a combination of Vanilla and tea tree essence scents but it smelled like Vanilla because the _ essence was too weak.,Vanilla,tea tree,2,0.1541373463403309,autre
+173,32L724R85LIKCHO145FI3C9HHSMIPK-1,I wanted a combination of Vanilla and tea tree essence scents but it smelled like Vanilla because the _ essence was too strong.,Vanilla,tea tree,1,0.1672231503030942,autre
+174,3LN50BUKPXP1W7VE96OVNQPINZBPLG-2,I'd rather play on a soccer team than be a kicker on a foot ball team since the _ ball is harder to kick.,soccer,foot,2,0.1913751340454624,autre
+175,3LN50BUKPXP1W7VE96OVNQPINZBPLG-1,I'd rather play on a soccer team than be a kicker on a foot ball team since the _ ball is easier to kick.,soccer,foot,1,0.1836420033539764,autre
+176,3I4E7AFQ2KXEZK1E3492KNPEER2TJB-1,"Kyle thought the temperature was too warm while William thought it was too cold, so _ turned the heat down.",Kyle,William,1,0.516994125295739,incertitude
+177,3I4E7AFQ2KXEZK1E3492KNPEER2TJB-2,"Kyle thought the temperature was too warm while William thought it was too cold, so _ turned the heat up.",Kyle,William,2,0.47723081628772895,incertitude
+178,3PIOQ99R7YKPIN7OI7R4IQSX6RPUNM-2,"William wanted an egg for breakfast, but Kevin ate the last one, so _ had to give them cereal.",William,Kevin,2,0.4148405538916373,incertitude
+179,3PIOQ99R7YKPIN7OI7R4IQSX6RPUNM-1,"William wanted an egg for breakfast, but Kevin ate the last one, so _ had to eat cereal.",William,Kevin,1,0.4770183982954554,incertitude
+180,3LN3BXKGC29BUOEEA15A2SS5J15WGU-2,The woman sprayed cleaner on the mirror but skipped the countertop because the _ was clean.,mirror,countertop,2,0.8273462153879081,chores
+181,3LN3BXKGC29BUOEEA15A2SS5J15WGU-1,The woman sprayed cleaner on the mirror but skipped the countertop because the _ was dirty.,mirror,countertop,1,0.9281465720585139,chores
+182,3JY0Q5X05LKFX2OEVW1SGP6IQKYGGF-2,Justin wrote a paragraph in his planner every day unlike Matthew because _ was disorganized.,Justin,Matthew,2,0.6591198916048926,incertitude
+183,3JY0Q5X05LKFX2OEVW1SGP6IQKYGGF-1,Justin wrote a paragraph in his planner every day unlike Matthew because _ was organized.,Justin,Matthew,1,0.5381077964676437,incertitude
+184,3UOMW19E6D4P64KISGAIU365DNSC5H-2,The children could only count the number of balls in one jar and not the beans in the other because the _ were too numerous.,balls,beans,2,0.5788362166873564,incertitude
+185,3UOMW19E6D4P64KISGAIU365DNSC5H-1,The children could only count the number of balls in one jar and not the beans in the other because the _ were more manageable.,balls,beans,1,0.5241823333579438,incertitude
+186,33W1NHWFYHJ4ZZ6ILQCO8HD4XV4TZX-1,Erin is known an an entrepreneur while Victoria is only an employee because _ owns a business.,Erin,Victoria,1,0.042153944929124935,autre
+187,33W1NHWFYHJ4ZZ6ILQCO8HD4XV4TZX-2,Erin is known as an entrepreneur while Victoria is only an employee because _ doesn't yet own a business.,Erin,Victoria,2,0.05503272026158174,autre
+188,30Y6N4AHYPUOGJOUPJIWHATJQ9LDRW-2,Since _ arrived at work later Dennis would eat their lunch before Adam in the break room at their job.,Dennis,Adam,2,0.13085794221812794,autre
+189,30Y6N4AHYPUOGJOUPJIWHATJQ9LDRW-1,Since _ arrived at work sooner Dennis would eat their lunch before Adam in the break room at their job.,Dennis,Adam,1,0.1578065670877255,autre
+190,3ZFRE2BDQ9CBGGF2Q0DLXKYAANVZXH-1,"The stomach of Neil was rumbling, but Samuel seemed fine, due to _ being hungry.",Neil,Samuel,1,0.1916480211160215,autre
+191,3ZFRE2BDQ9CBGGF2Q0DLXKYAANVZXH-2,"The stomach of Neil was rumbling, but Samuel seemed fine, due to _ being satiated.",Neil,Samuel,2,0.19027432905361147,autre
+192,3MDWE879UJG4RBTV1434NXTX5R0B9I-2,After Logan contracted the chickenpox from Joseph so _ spent the day sending nice texts about it.,Logan,Joseph,2,0.19665226237066522,autre
+193,3MDWE879UJG4RBTV1434NXTX5R0B9I-1,After Logan contracted the chickenpox from Joseph so _ spent the day sending mean texts about it.,Logan,Joseph,1,0.4599928192690937,incertitude
+194,31ANT7FQN80GNCVYE8OJ5U3LQEB5HV-1,The man wanted to put the luggage in the house but the _ was too small.,house,luggage,1,0.3552781530255588,incertitude
+195,31ANT7FQN80GNCVYE8OJ5U3LQEB5HV-2,The man wanted to put the luggage in the house but the _ was too large.,house,luggage,2,0.3957983644698669,incertitude
+196,3MDWE879UJG4RBTV1434NXTX5T39BN-2,The experience was totally unforgettable for Betty but not Samantha because _ had dreaded it for months.,Betty,Samantha,2,0.05976435924097736,autre
+197,3MDWE879UJG4RBTV1434NXTX5T39BN-1,The experience was totally unforgettable for Betty but not Samantha because _ had anticipated it for months.,Betty,Samantha,1,0.034704617617549345,autre
+198,3YGYP13643NCWKEEYB8Z5DTLS2KNR6-1,Kyle got a new cell phone and showed it to Leslie because _ was happy about the new phone.,Kyle,Leslie,1,0.0768911036935129,autre
+199,3YGYP13643NCWKEEYB8Z5DTLS2KNR6-2,Kyle got a new cell phone and showed it to Leslie but _ was upset about the new phone.,Kyle,Leslie,2,0.11750366322210155,autre
+200,3YLPJ8OXXARA78QKP5ZVVM9A3A94X6-1,"When one experiences cramps they can get into a warm bath or use a heating pad, but the _ is more of an inconvenience.",bath,heating pad,1,0.09951803238829196,autre
+201,3YLPJ8OXXARA78QKP5ZVVM9A3A94X6-2,"When one experiences cramps they can get into a warm bath or use a heating pad, but the _ is more convenient.",bath,heating pad,2,0.15112818991380098,autre
+202,3ZQX1VYFTD392B0NGJQC1NAD4V4O8S-1,"Neil agreed to help wash Adam's large dog, and _ was very eager to help.",Neil,Adam,1,0.18316334224473718,autre
+203,3ZQX1VYFTD392B0NGJQC1NAD4V4O8S-2,"Neil agreed to help wash Adam's large dog, and _ was very grateful for the help.",Neil,Adam,2,0.13109271631965813,autre
+204,3L60IFZKF5W7XUE0Z81SMPUKLT4HHD-2,"Cricket is a favorite past time of Lindsey, while Rachel has never heard of it. _ is more likely to be American.",Lindsey,Rachel,2,0.3920630255574418,incertitude
+205,3L60IFZKF5W7XUE0Z81SMPUKLT4HHD-1,"Cricket is a favorite past time of Lindsey, while Rachel has never heard of it. _ is more likely to be British.",Lindsey,Rachel,1,0.3642015579739177,incertitude
+206,3K8CQCU3KGFH4GV0X5I5SC12KHZNW9-1,It was clear that Jessica understood and was entertained by the article from Monica because _ was the reader.,Jessica,Monica,1,0.059674333036234595,autre
+207,3K8CQCU3KGFH4GV0X5I5SC12KHZNW9-2,It was clear that Jessica understood and was entertained by the article from Monica because _ was the writer.,Jessica,Monica,2,0.07074124787383469,autre
+208,3W3RSPVVGU5EOC3AQSNPXWCGUI3ULI-2,"In an effort to control kennel cough, Emily sent Maria to get the medication but _ was busy examining the animals.",Emily,Maria,2,0.6551702128768891,incertitude
+209,3W3RSPVVGU5EOC3AQSNPXWCGUI3ULI-1,"In an effort to control kennel cough, Emily sent Maria to get the medication because _ was busy examining the animals.",Emily,Maria,1,0.542205524474197,incertitude
+210,3BC9H1KCYUAWMQ07K9FGHUB108VWY7-1,Jan poured the entire cup of lemon juice into the bowl bananas until the _ was empty.,cup,bowl,1,0.7485533880335264,incertitude
+211,3BC9H1KCYUAWMQ07K9FGHUB108VWY7-2,Jan poured the entire cup of lemon juice into the bowl bananas until the _ was full.,cup,bowl,2,0.7454004225278134,incertitude
+212,3MQKOF1EE2MTOF5GODS24910D6FWDS-2,The insurance company blamed Leslie instead of Logan for the accident since _ had a green light.,Leslie,Logan,2,0.059606305171020085,autre
+213,3MQKOF1EE2MTOF5GODS24910D6FWDS-1,The insurance company blamed Leslie instead of Logan for the accident since _ ran a red light.,Leslie,Logan,1,0.10967253770957826,autre
+214,3N5YJ55YXG153ETQC2ADIPG345GANC-1,The chef decided to store the food in the container but the _ was too large.,food,container,1,0.564966602140354,incertitude
+215,3N5YJ55YXG153ETQC2ADIPG345GANC-2,The chef decided to store the food in the container but the _ was too small.,food,container,2,0.4600832841825865,incertitude
+216,3TFJJUELSHNX771VAX8KWW3TTFCC2V-1,"My sister enjoyed writing on the blog more than in her journal, because the _ for everyone to see.",blog,journal,1,0.05285645751785602,autre
+217,3TFJJUELSHNX771VAX8KWW3TTFCC2V-2,"My sister enjoyed writing on the blog more than in her journal, because the _ for nobody to see.",blog,journal,2,0.03885788217607865,autre
+218,3ODOP6T3AUY96SNN1GE25WFER5142X-1,"Derrick spent the entire summer laying on the hot beach, while Jeffrey spent the summer indoors, so _ 's hair had more sun damage.",Derrick,Jeffrey,1,0.4553239431988295,incertitude
+219,3ODOP6T3AUY96SNN1GE25WFER5142X-2,"Derrick spent the entire summer laying on the hot beach, while Jeffrey spent the summer indoors, so _ 's hair had less sun damage.",Derrick,Jeffrey,2,0.34965196789671266,incertitude
+220,3NQUW096N8MG4KF7SHSY10P3IVT9L5-1,This menu was very eclectic. They served everything from  a three tiered burger to sushi to omeletes. The _ was juicy.,burger,sushi,1,0.05497721338658231,autre
+221,3NQUW096N8MG4KF7SHSY10P3IVT9L5-2,This menu was very eclectic. They served everything from  a three tiered burger to sushi to omeletes. The _ was raw.,burger,sushi,2,0.11820129002431393,autre
+222,3VGET1QSZ0XD7646X0PG4HR4W9E7W9-2,"the statistics show many females compared to the males are being born everyday, the _ are few.",females,males,2,0.030223315957276477,autre
+223,3VGET1QSZ0XD7646X0PG4HR4W9E7W9-1,"the statistics show many females compared to the males are being born everyday, the _ are many.",females,males,1,0.04909804603199185,autre
+224,3TCFMTM8HG2SETQ4EYV07Y8BFL721Y-2,"Robert made the choice to buy Neil's house, so _ had a lot more money in the bank afterwards.",Robert,Neil,2,0.015163535382330208,autre
+225,3TCFMTM8HG2SETQ4EYV07Y8BFL721Y-1,"Robert made the choice to buy Neil's house, so _ had a lot less money in the bank afterwards.",Robert,Neil,1,0.02432482623711715,autre
+226,3RWB1RTQDL16H0BVFHFRIL3C3XW8PT-2,The medical exam for the broken arm was longer than the exam on the heart because the _ was a serious problem.,heart,arm,2,0.3201871700794665,incertitude
+227,3RWB1RTQDL16H0BVFHFRIL3C3XW8PT-1,The medical exam for the broken arm was shorter than the exam on the heart because the _ was a serious problem.,heart,arm,1,0.306327348531786,incertitude
+228,3ACRLU860NC6SIL5PH7QND603EIEB1-2,"When opening up about their crushes, Kenneth sighed at Jeffrey because _ forgot who their crush was.",Kenneth,Jeffrey,2,0.19901711521262322,autre
+229,3ACRLU860NC6SIL5PH7QND603EIEB1-1,"When opening up about their crushes, Kenneth laughed at Jeffrey because _ remembered who their crush was.",Kenneth,Jeffrey,1,0.11575698978832022,autre
+230,3R6RZGK0XHQY1QZ9EXMKNQGWI2FVYY-1,"Jack loved math and disliked social sciences, so when deciding to take sociology or math that semester, the counselor entered the _ because Jack was receptive to it.",math,sociology,1,0.20805708915397303,autre
+231,3R6RZGK0XHQY1QZ9EXMKNQGWI2FVYY-2,"Jack loved math and disliked social sciences, so when deciding to take sociology or math that semester, the counselor deleted the _ because Jack was resistant to it.",math,sociology,2,0.223855703287588,autre
+232,3WUVMVA7OB1ZK379FQL7DCNC925ZAW-1,Christopher wanted to be a specialist but not Adam because _ had an interest in a limited number of subjects.,Christopher,Adam,1,0.37621804512740364,incertitude
+233,3WUVMVA7OB1ZK379FQL7DCNC925ZAW-2,Christopher wanted to be a specialist but not Adam because _ had an interest in a many number of subjects.,Christopher,Adam,2,0.4138440162811519,incertitude
+234,3S37Y8CWIAEVI8LUF039T3V2T04W4N-2,Megan enjoyed summer while Felicia did not.   _  spent much time indoors.,Megan,Felicia,2,0.2273032803505503,autre
+235,3S37Y8CWIAEVI8LUF039T3V2T04W4N-1,Megan enjoyed summer while Felicia did not.  _  spent much time at the beach.,Megan,Felicia,1,0.14461163452366266,autre
+236,3OEWW2KGQLP0DVVLHPDSFDCN5IJDO8-2,John could not remove the wallpaper attached to the wall with a glue without the wallpaper tearing apart. The _ is weak.,glue,wallpaper,2,0.2880685213349188,incertitude
+237,3OEWW2KGQLP0DVVLHPDSFDCN5IJDO8-1,John could not remove the wallpaper attached to the wall with a glue without the wallpaper tearing apart. The _ is strong.,glue,wallpaper,1,0.27299764589595343,incertitude
+238,3VJ4PFXFJ35IY4DZ93MZWK8XC3SAUR-2,The counselor treated the child who suffered from abuse by giving her a teddy instead of a blanket because the _ was boring.,teddy,blanket,2,0.21937720761584814,autre
+239,3VJ4PFXFJ35IY4DZ93MZWK8XC3SAUR-1,The counselor treated the child who suffered from abuse by giving her a teddy instead of a blanket because the _ was comforting.,teddy,blanket,1,0.11024430641379006,autre
+240,38Z7YZ2SB5GK6IONOG67VFN0CNPIQ1-2,John cared for the pot while it was being transported in the box but it eventually got broken. The _ is hard.,pot,box,2,0.6082450057715743,incertitude
+241,38Z7YZ2SB5GK6IONOG67VFN0CNPIQ1-1,John cared for the pot while it was being transported in the box but it eventually got broken. The _ is fragile.,pot,box,1,0.4916103539325936,incertitude
+242,3R5OYNIC2C7ALV4CYHEMHJBQSDLPTZ-1,Donald offered Leslie their last stick of  mint gum as _ had a minty breath already.,Donald,Leslie,1,0.050049222923468736,autre
+243,3R5OYNIC2C7ALV4CYHEMHJBQSDLPTZ-2,Donald offered Leslie their last sick some mint gum as _ had a stinky breath already.,Donald,Leslie,2,0.12721719149680777,autre
+244,3ZZAYRN1I6PS0VSBJH17SJ60DNOTOA-2,"After Samuel won the cherry jam contest, Kyle still believed they should have won since _ sweetened with low calorie sweetener and the judges went by taste.",Samuel,Kyle,2,0.09981587409857062,autre
+245,3ZZAYRN1I6PS0VSBJH17SJ60DNOTOA-1,"After Samuel won the cherry jam contest, Kyle still believed they should have won since _ sweetened with high calorie sweetener and the judges went by taste.",Samuel,Kyle,1,0.12510937804214536,autre
+246,3RKHNXPHGWUOAHMLLUZOQYBTHGGKUC-1,Felicia looked sad and disappointed after she asked Christine refused to be her girlfriend because _ liked her.,Felicia,Christine,1,0.0684595172583783,autre
+247,3RKHNXPHGWUOAHMLLUZOQYBTHGGKUC-2,Felicia looked sad and disappointed after she asked Christine refused to be her girlfriend because _ she was not lesbian.,Felicia,Christine,2,0.057450089567237135,autre
+248,30F94FBDNTYNBQ29ZA8LEXU9ZY4BTJ-1,Matthew wants to sell Kevin tickets to the football game because _ needs the money.,Matthew,Kevin,1,0.19301998312565963,autre
+249,30F94FBDNTYNBQ29ZA8LEXU9ZY4BTJ-2,Matthew wants to sell Kevin tickets to the football game but _ has no money.,Matthew,Kevin,2,0.10564027102021982,autre
+250,3TRB893CSLOW49DD2TXYACTOQQKG7W-2,Elena told Natalie to put the hood of her jacket up because _ was likely to get cold.,Elena,Natalie,2,0.20333086533969905,autre
+251,3TRB893CSLOW49DD2TXYACTOQQKG7W-1,Elena told Natalie to put the hood of her jacket up because _ didn't want her to get cold.,Elena,Natalie,1,0.31151519058363253,incertitude
+252,30Y6N4AHYRA3A8N19HUW98HSF1TDRY-1,Lawrence made a bowl at the pottery store and Randy accidentally broke it. _ decided to make another.,Lawrence,Randy,1,0.5712167854783474,incertitude
+253,30Y6N4AHYRA3A8N19HUW98HSF1TDRY-2,Lawrence made a bowl at the pottery store and Randy accidentally broke it. _ offered to make another.,Lawrence,Randy,2,0.3333330452829211,incertitude
+254,35F6NGNVMAX09EZJMTW59V8EHIR7TU-1,The node on the head needed medication applied to its area because the _ was swollen.,node,medication,1,0.062015980090379105,autre
+255,35F6NGNVMAX09EZJMTW59V8EHIR7TU-2,The node on the head needed medication applied to its area because the _ would contract it.,node,medication,2,0.056917987325015816,autre
+256,3Y3CZJSZ9KRTC691AD0DJY5RDO45RP-1,Sue traditionally donated old clothes to her favorite charity but in recent years has just written them checks as the _ were better received.,checks,clothes,1,0.033272904432444385,autre
+257,3Y3CZJSZ9KRTC691AD0DJY5RDO45RP-2,Sue traditionally donated old clothes to her favorite charity but in recent years has just written them checks as the _ were worse received.,checks,clothes,2,0.06138643097904534,autre
+258,3KI0JD2ZU3WU7GO7QGOCYLG0X3C670-2,Matthew offered to help write a fitness plan for Christopher because _ was out of shape.,Matthew,Christopher,2,0.523502206357165,incertitude
+259,3KI0JD2ZU3WU7GO7QGOCYLG0X3C670-1,Matthew offered to help write a fitness plan for Christopher because _ was a personal trainer.,Matthew,Christopher,1,0.28385463370788533,incertitude
+260,3QO7EE372Q1AJAAHI6EQ9SJMFJ1QB0-1,The waves destroyed the garage but left the house intact because the _ was so close to the shore.,garage,house,1,0.34390910680956926,incertitude
+261,3QO7EE372Q1AJAAHI6EQ9SJMFJ1QB0-2,The waves destroyed the garage but left the house intact because the _ was so far from the shore.,garage,house,2,0.3923583720054642,incertitude
+262,3Z56AA6EK4YYYUWNAOE1P5PHYGD6ME-2,Katrina sells Maria a rug at the local flea market because _ is a customer.,Katrina,Maria,2,0.15199514704152592,autre
+263,3Z56AA6EK4YYYUWNAOE1P5PHYGD6ME-1,Katrina sells Maria a rug at the local flea market because _ is a vendor.,Katrina,Maria,1,0.19773343141503533,autre
+264,3UUSLRKAUL1EY04FG5KQCT2JPT87D0-2,"Joan's grandmother always wanted a hug and a kiss, but Joan preferred the _ because she was afraid of germs.",kiss,hug,2,0.1620565352331392,autre
+265,3UUSLRKAUL1EY04FG5KQCT2JPT87D0-1,"Joan's grandmother always wanted a hug and a kiss, but Joan didn't like the _ because she was afraid of germs.",kiss,hug,1,0.19452715346192237,autre
+266,35ZRNT9RUIWN1EUH42VGA622O6G3OD-2,The library kept an enormous collection of novels but not comics because the _ were dull.,novels,comics,2,0.08559348283376578,autre
+267,35ZRNT9RUIWN1EUH42VGA622O6G3OD-1,The library kept an enormous collection of novels but not comics because the _ were popular.,novels,comics,1,0.03982121128762652,autre
+268,3DGDV62G7QNVVL96Z06Q8UQ9I1WP28-1,Carrie's store has more loyal customers than Patricia's store does because _ 's store is older.,Carrie,Patricia,1,0.08623025279702264,autre
+269,3DGDV62G7QNVVL96Z06Q8UQ9I1WP28-2,Carrie's store has more loyal customers than Patricia's store does because _ 's store is newer.,Carrie,Patricia,2,0.08174151550903472,autre
+270,3N2YPY1GI6WL1WJBUYYQOP07687EVK-1,Christine didn't pass the lie detection test that Jessica did because _ had something to hide.,Christine,Jessica,1,0.3453465843446203,incertitude
+271,3N2YPY1GI6WL1WJBUYYQOP07687EVK-2,Christine didn't pass the lie detection test that Jessica did because _ had nothing to hide.,Christine,Jessica,2,0.29191660011782505,incertitude
+272,3DW3BNF1GJWJMK8R1TOQODSUPG9V83-1,Carrie faced the fan away from Angela because _ was getting too warm in the kitchen.,Carrie,Angela,1,0.9069209140778931,chores
+273,3DW3BNF1GJWJMK8R1TOQODSUPG9V83-2,Carrie faced the fan toward Angela because _ was getting too warm in the kitchen.,Carrie,Angela,2,0.9106152033681827,chores
+274,3OZ4VAIBEXDTCC538Z9HL5DZBHAJVJ-1,"The winter made Jason's hands dry, but not Leslie's, since _ always forgot to moisturize at night.",Jason,Leslie,1,0.42811853761224383,incertitude
+275,3OZ4VAIBEXDTCC538Z9HL5DZBHAJVJ-2,"The winter made Jason's hands dry, but not Leslie's, since _ never forgot to moisturize at night.",Jason,Leslie,2,0.36530820302246897,incertitude
+276,3SU800BH86QALKKGYZJLMKN2B7IQUL-2,"Because Carrie lost a bet to Cynthia over the basketball game, _ spent hours having the cleaning done for them.",Carrie,Cynthia,2,0.9871973603700626,chores
+277,3SU800BH86QALKKGYZJLMKN2B7IQUL-1,"Because Carrie lost a bet to Cynthia over the basketball game, _ spent hours doing the cleaning.",Carrie,Cynthia,1,0.9865999693430486,chores
+278,3S4TINXCC0LS49YUJVAMSP0ECY1BOK-2,I would rather listen to the radio than watch the TV at night since I find the _ disruptive.,radio,TV,2,0.2708711795247518,incertitude
+279,3S4TINXCC0LS49YUJVAMSP0ECY1BOK-1,I would rather listen to the radio than watch the TV at night since I find the _ soothing.,radio,TV,1,0.20419316071909385,autre
+280,3OLZC0DJ8LTCBQK4AF0H12M7R93VIR-1,Randy started his own business while Ryan worked for someone else so _ had self-employment taxes.,Randy,Ryan,1,0.07960837324825189,autre
+281,3OLZC0DJ8LTCBQK4AF0H12M7R93VIR-2,Randy started his own business while Ryan worked for someone else so _ had W4 taxes.,Randy,Ryan,2,0.1713674757485523,autre
+282,3NI0WFPPIBUGP5ON5H33J66DPUU60Y-2,"Her boyfriend regretted buying her a jacket and got her a new hat instead, as he knew she thought the _ was a perfect match for her wardrobe.",jacket,hat,2,0.10250694298946898,autre
+283,3NI0WFPPIBUGP5ON5H33J66DPUU60Y-1,"Her boyfriend regretted buying her a jacket and got her a new hat instead, as he knew she thought the _ was a bad match for her wardrobe.",jacket,hat,1,0.20072626883703829,autre
+284,3OID399FXG5RDTJLYOI20LF0NKKDF9-2,"Monica wanted to use a vacuum to clean the floor, but Victoria wanted to use a broom. _ cleaned the floor much slower.",Monica,Victoria,2,0.9638951953845495,chores
+285,3OID399FXG5RDTJLYOI20LF0NKKDF9-1,"Monica wanted to use a vacuum to clean the floor, but Victoria wanted to use a broom. _ cleaned the floor much quicker.",Monica,Victoria,1,0.9528317523332435,chores
+286,31ANT7FQN80GNCVYE8OJ5U3LQG1H51-1,"I used several sprays to get rid of the bedbugs but they didn't work, because the _ were powerless.",sprays,bedbugs,1,0.3467469423508089,incertitude
+287,31ANT7FQN80GNCVYE8OJ5U3LQG1H51-2,"I used several sprays to get rid of the bedbugs but they didn't work, because the _ were powerful.",sprays,bedbugs,2,0.3980380490854913,incertitude
+288,3O0M2G5VC8GK6C8MMPTHFJNRVLL49F-1,Monica enjoyed watching Western films while Natalie enjoyed romantic ones more because _ grew up on a farm.,Monica,Natalie,1,0.14122739820159247,autre
+289,3O0M2G5VC8GK6C8MMPTHFJNRVLL49F-2,Monica enjoyed watching Western films while Natalie enjoyed romantic ones more because _ grew up watching soap operas.,Monica,Natalie,2,0.10610262013349823,autre
+290,3V8JSVE8Y04HZFDNJ7XANMS9HPVYEB-1,There were more books at the library than at the bookstore because the _ was bigger.,library,bookstore,1,0.1109769414782277,autre
+291,3V8JSVE8Y04HZFDNJ7XANMS9HPVYEB-2,There were more books at the library than at the bookstore because the _ was smaller.,library,bookstore,2,0.1251849016653035,autre
+292,3WRBLBQ2GR63S9EMXW0P3ZVTPV4G0C-2,Drawing was a talent of Sarah but not Carrie so _ was always eager to see her artwork .,Sarah,Carrie,2,0.37191615687158,incertitude
+293,3WRBLBQ2GR63S9EMXW0P3ZVTPV4G0C-1,Drawing was a talent of Sarah but not Carrie so _ was always eager to show her her artwork .,Sarah,Carrie,1,0.41992386905372436,incertitude
+294,3RZS0FBRWK8TZE21CVJWS9BMZ6JPC3-2,Emily spent a lot of money on their smartphone but Rachel bought a cheap one because _ was very dowdy.,Emily,Rachel,2,0.30942743152495117,incertitude
+295,3RZS0FBRWK8TZE21CVJWS9BMZ6JPC3-1,Emily spent a lot of money on their smartphone but Rachel bought a cheap one because _ was very stylish.,Emily,Rachel,1,0.1340622493411949,autre
+296,3ACRLU860PSLM7KC9FJQFBU9XUOBEF-2,"Tea and coffee should be drunk out of different vessels, cups and mugs respectively. Coffee is usually served in the _ , with milk and sometimes sugar.",cup,mug,2,0.31486061949756483,incertitude
+297,3ACRLU860PSLM7KC9FJQFBU9XUOBEF-1,"Tea and coffee should be drunk out of different vessels, cups and mugs respectively. Tea is usually served in the _ , with milk and sometimes sugar.",cup,mug,1,0.3345542397451644,incertitude
+298,32PT7WK7DOTBR62ZYRT0RAEC9NDD3U-1,Neil asked Michael what it was like to go to war because _ was a pacifist.,Neil,Michael,1,0.12133038195066455,autre
+299,32PT7WK7DOTBR62ZYRT0RAEC9NDD3U-2,Neil asked Michael what it was like to go to war because _ was ex-military.,Neil,Michael,2,0.1641271237777201,autre
+300,3UEDKCTP9X416V9WSKID84LHXNJ7K4-2,I went into the mine looking for diamonds but all I found was quartz and topaz.  I settled on the _ because it was almost clear.,topaz,quartz,2,0.02436102711517285,autre
+301,3UEDKCTP9X416V9WSKID84LHXNJ7K4-1,I went into the mine looking for diamonds but all I found was quartz and topaz.  I settled on the _ because it shined yellow.,topaz,quartz,1,0.0367932976322987,autre
+302,3D3B8GE892PR1GVY0B95QJAEY279P0-2,"The chef thinks it's more healthy to eat apples than beets, so he hates putting the _ in his smoothies.",apples,beets,2,0.6909977359241168,incertitude
+303,3D3B8GE892PR1GVY0B95QJAEY279P0-1,"The chef thinks it's more healthy to eat apples than beets, so he likes putting the _ in his smoothies.",apples,beets,1,0.5837809539701843,incertitude
+304,37VE3DA4YUFICSC7FIFW8G3DVYNHB5-1,"Jennifer was at risk of encountering a shark during their swim, but Emily was not, because _ swam in the ocean.",Jennifer,Emily,1,0.14643018799359037,autre
+305,37VE3DA4YUFICSC7FIFW8G3DVYNHB5-2,"Jennifer was at risk of encountering a shark during their swim, but Emily was not, because _ swam in the lake.",Jennifer,Emily,2,0.15679388327419794,autre
+306,3EQVJH0T40JI8E6OF46H8A9Z6IJHTM-1,The documents contained in the files could not fit properly. The _ were too small.,Files,Documents,1,0.10716526025805406,autre
+307,3EQVJH0T40JI8E6OF46H8A9Z6IJHTM-2,The documents contained in the files could not fit properly. The _ were too large.,Files,Documents,2,0.11561800008362763,autre
+308,35ZRNT9RUIWN1EUH42VGA622JTGO33-1,"Avid bookworms, Lawrence read fiction while Jason read non-fiction. _ liked to escape into an imaginary world.",Lawrence,Jason,1,0.27719857737221126,incertitude
+309,35ZRNT9RUIWN1EUH42VGA622JTGO33-2,"Avid bookworms, Lawrence read fiction while Jason read non-fiction. _ struggled to escape into an imaginary world.",Lawrence,Jason,2,0.3210859397721816,incertitude
+310,3P888QFVX3SF8F0J2D7CNEVDYXFOQK-1,Mary only wore stripes to work and not plaids because the _ made her look sloppy.,plaids,stripes,1,0.5685725139191975,incertitude
+311,3P888QFVX3SF8F0J2D7CNEVDYXFOQK-2,Mary only wore stripes to work and not plaids because the _ made her look professional.,plaids,stripes,2,0.4067285121450851,incertitude
+312,3IZVJEBJ6CYDRQUD9BGVP59Y6LBZ6I-2,The bumper on the car shone brighter than the handle on the car because the _ was dirtier.,bumper,handle,2,0.9370619433515198,chores
+313,3IZVJEBJ6CYDRQUD9BGVP59Y6LBZ6I-1,The bumper on the car shone brighter than the handle on the car because the _ was cleaner.,bumper,handle,1,0.8098607993770822,chores
+314,3ECKRY5B1SATKAPEBCPKM8Z4GNJZIE-2,"Ian is making a pool party for Neil and needs to raise pH in a pool, so _ could safely enjoy party.",Ian,Neil,2,0.11502922708096097,autre
+315,3ECKRY5B1SATKAPEBCPKM8Z4GNJZIE-1,"Ian is making a pool party for Neil and needs to raise pH in a pool, so _ buys pH raising preparates.",Ian,Neil,1,0.07697732549627756,autre
+316,302U8RURJ1F4PRVV7VD96AIOD98VNK-2,"While Billie brought a pencil, I brought a pen to the realtor’s office. I gave Billie my pen and she gladly used the _ to sign the document.",pencil,pen,2,0.0168765619772565,autre
+317,302U8RURJ1F4PRVV7VD96AIOD98VNK-1,"While Billie brought a pencil, I brought a pen to the realtor’s office. I gave Billie my pen but she stubbornly used  the _ to sign the document.",pencil,pen,1,0.03372651273073505,autre
+318,3C8QQOM6JRF9FL8AWBYBETO62IMLI1-1,No one was able to enjoy the story and we started to listen to the music. The _ is boring.,story,music,1,0.22229152143828962,autre
+319,3C8QQOM6JRF9FL8AWBYBETO62IMLI1-2,No one was able to enjoy the story and we started to listen to the music. The _ is interesting.,story,music,2,0.16315151310107756,autre
+320,37VUR2VJ6C35CBI6BRK6JBHXRC41CQ-2,The teeth of Katrina are more yellow than Laura's due to _ drinking mostly water all the time.,Katrina,Laura,2,0.3317749065552761,incertitude
+321,37VUR2VJ6C35CBI6BRK6JBHXRC41CQ-1,The teeth of Katrina are more yellow than Laura's due to _ drinking mostly coffee all the time.,Katrina,Laura,1,0.3676253404465902,incertitude
+322,3P4C70TRMTVVJU2F6NY8THBPLQ7LGO-1,It was necessary to hit the iron with the sledgehammer after the _ got heated.,iron,sledgehammer,1,0.519427567490667,incertitude
+323,3P4C70TRMTVVJU2F6NY8THBPLQ7LGO-2,It was necessary to hit the iron with the sledgehammer before the _ got heated.,iron,sledgehammer,2,0.4643963189782558,incertitude
+324,3I7SHAD35OAWWJ9ZDWVTNHDLMYLM77-2,"Kevin didn't consider the costs when they bought the house from Derrick, so _ was rid of the money pit.",Kevin,Derrick,2,0.08642157274240173,autre
+325,3I7SHAD35OAWWJ9ZDWVTNHDLMYLM77-1,"Kevin didn't consider the costs when they bought the house from Derrick, so _ was stuck with the money pit.",Kevin,Derrick,1,0.09286462067502349,autre
+326,371DNNCG440PF35VC0CBVXG033L8TY-2,Robert helped create an internet viral video sensation of Kyle when _ danced in video.,Robert,Kyle,2,0.030319572416848198,autre
+327,371DNNCG440PF35VC0CBVXG033L8TY-1,Robert helped create an internet viral video sensation of Kyle when _ directed the video.,Robert,Kyle,1,0.03363172857433802,autre
+328,3DZKABX2ZKJLYNY4I54VQZOCEQLCVG-2,"Rebecca invited Maria to a concert, then _ had to get permission to attend from their parents.",Rebecca,Maria,2,0.29822155962878377,incertitude
+329,3DZKABX2ZKJLYNY4I54VQZOCEQLCVG-1,"Rebecca was invited to a concert by Maria, then _ had to get permission to attend from their parents.",Rebecca,Maria,1,0.3523983832921561,incertitude
+330,30P8I9JKOIJL5DQIJX5NKVUUTHCV58-2,Betty was able to hold the pigeon longer than Angela because _ is scared of birds.,Betty,Angela,2,0.18633986680353293,autre
+331,30P8I9JKOIJL5DQIJX5NKVUUTHCV58-1,Betty was able to hold the pigeon longer than Angela because _ wasn't scared of birds.,Betty,Angela,1,0.12793033776539464,autre
+332,38XPGNCKHVEI3JLPPQYD71COMD44VV-2,"Nick gets jock itch a lot, while Jason has never even worn a jock strap. _ is the artist.",Nick,Jason,2,0.2084691441158357,autre
+333,38XPGNCKHVEI3JLPPQYD71COMD44VV-1,"Nick gets jock itch a lot, while Jason has never even worn a jock strap. _ is the athlete.",Nick,Jason,1,0.22777807629989288,autre
+334,39AYGO6AFFI4GCHNMPT12KEH8NL6NF-2,"The theraband that Jill purchased for herself would not fit around her leg, the _ was too wide.",theraband,leg,2,0.012649804828422736,autre
+335,39AYGO6AFFI4GCHNMPT12KEH8NL6NF-1,"The theraband that Jill purchased for herself would not fit around her leg, the _ was too narrow.",theraband,leg,1,0.014517913703327796,autre
+336,3IVKZBIBJ2NWN3SGA2DRQ31MTY2SHD-2,James could not get the bag closed because of the clothe in it. The _ is small.,cloth,bag,2,0.10807254217039834,autre
+337,3IVKZBIBJ2NWN3SGA2DRQ31MTY2SHD-1,James could not get the bag closed because of the clothe in it. The _ is plenty.,cloth,bag,1,0.12223604733063358,autre
+338,3HJ1EVZS2QX5SGL4GSOKWZVGPWV3RY-2,"Michelle made her biscuits with shortening and no butter at all, because she thought the _ made them taste lighter.",butter,shortening,2,0.6169756126291691,incertitude
+339,3HJ1EVZS2QX5SGL4GSOKWZVGPWV3RY-1,"Michelle made her biscuits with shortening and no butter at all, because she thought the _ made them too heavy.",butter,shortening,1,0.684295271585902,incertitude
+340,3TLFH2L6Y9METO36WJ3AL63XH3TT2G-1,"Dennis has been away on vacation, while Nelson stayed home so the lettuce in _ 's fridge was rotten.",Dennis,Nelson,1,0.3074297928212025,incertitude
+341,3TLFH2L6Y9METO36WJ3AL63XH3TT2G-2,"Dennis has been away on vacation, while Nelson stayed at home so the lettuce in _ 's fridge was used to make a salad.",Dennis,Nelson,2,0.20747646338543765,autre
+342,3V0TR1NRVA0JH6JKUXVHJGA3DQC4A6-2,"Jen put her derma roller into the water, so that the cleaner could sterilize it with the _ .",derma roller,water,2,0.8273268286320457,chores
+343,3V0TR1NRVA0JH6JKUXVHJGA3DQC4A6-1,"Jen put her derma roller into the water, so that the cleaner could sterilize the _ .",derma roller,water,1,0.8642452971681488,chores
+344,32LAQ1JNTB327PBFZ1PGJNMXOF2TU1-2,The case James used to carry the file still got more space in it. I wonder why he chose the _ that is small.,case,file,2,0.03133300951307418,autre
+345,32LAQ1JNTB327PBFZ1PGJNMXOF2TU1-1,The case James used to carry the file still got more space in it. I wonder why he chose the _ that is big.,case,file,1,0.030978994698799115,autre
+346,31JUPBOORN21WQXQ3RAK966J43N8L4-1,Learning to play a glockenspiel was instinctual for Derrick but not Adam because _ is arty.,Derrick,Adam,1,0.021283158451445728,autre
+347,31JUPBOORN21WQXQ3RAK966J43N8L4-2,Learning to play a glockenspiel was instinctual for Derrick but not Adam because _ is unmusical.,Derrick,Adam,2,0.025045467425318067,autre
+348,3VI0PC2ZA0YEB1028PE49KFFKM0XO6-2,My knee joint is less injured than my ankle joint so I'm trying not to put too much stress on the _ if I can help it.,knee joint,ankle joint,2,0.04236021566224881,autre
+349,3VI0PC2ZA0YEB1028PE49KFFKM0XO6-1,My knee joint is more injured than my ankle joint so I'm trying not to put too much stress on the _ if I can help it.,knee joint,ankle joint,1,0.05166795587076522,autre
+350,3XABXM4AJ3JRHCCAFUUGIQTM9XA8QL-2,"Donald didn't like to keep clean the way Matthew did, so _ tended to smell nice.",Donald,Matthew,2,0.9226007066030033,chores
+351,3XABXM4AJ3JRHCCAFUUGIQTM9XA8QL-1,"Donald didn't like to keep clean the way Matthew did, so _ tended to smell nasty.",Donald,Matthew,1,0.9441949626818962,chores
+352,3PKJ68EHDNUOUBAJ3ASD64MQ8GSHJH-1,"The man realized he had gotten the lens for his glasses instead of his camera, the _ lens was much thicker.",camera,glasses,1,0.04745317001362064,autre
+353,3PKJ68EHDNUOUBAJ3ASD64MQ8GSHJH-2,"The man realized he had gotten the lens for his glasses instead of his camera, the _ lens was much thinner.",camera,glasses,2,0.07360890325657948,autre
+354,3CZH926SIES118Z3U0937XO2MY24EM-1,"Sunday afternoon Laura made some buttermilk biscuits for Victoria, and _ made quick work of making them.",Laura,Victoria,1,0.7351037910529113,incertitude
+355,3CZH926SIES118Z3U0937XO2MY24EM-2,"Sunday afternoon Laura made some buttermilk biscuits for Victoria, and _ made quick work of eating them.",Laura,Victoria,2,0.6572016112161065,incertitude
+356,3GKAWYFRAR7IYV7MWPQ74DHCD8SDP4-1,To cope with her problems the teenager wrote in the journal and not the diary since the _ 's pages were bigger.,journal,diary,1,0.3370100170554114,incertitude
+357,3GKAWYFRAR7IYV7MWPQ74DHCD8SDP4-2,To cope with her problems the teenager wrote in the journal and not the diary since the _ 's pages were smaller.,journal,diary,2,0.3290903252136206,incertitude
+358,3G9UA71JVVSR1M47Q161FRXWUFWJ7L-2,Bob tore his shirt that was a night shirt. He decided to get a tuxedo shirt because the _ is new.,night shirt,tuxedo shirt,2,0.3978681249783766,incertitude
+359,3G9UA71JVVSR1M47Q161FRXWUFWJ7L-1,Bob tore his shirt that was a night shirt. He decided to get a tuxedo shirt because the _ is old.,night shirt,tuxedo shirt,1,0.477328491687123,incertitude
+360,37NXA7GVST4Z72T3BKLU1KQRKNOLVZ-1,Hunter was suicidal and Robert responded for the reason that _ had never been in this critical situation.,Hunter,Robert,1,0.13180463923143465,autre
+361,37NXA7GVST4Z72T3BKLU1KQRKNOLVZ-2,Hunter was suicidal and Robert responded for the reason that _ had previously been in this critical situation.,Hunter,Robert,2,0.16656822450181855,autre
+362,37VHPF5VYC18TM3KQEHL6NGWAZ08CP-2,"Rachel included Tanya in her YouTube video, but _ was furious because she had failed to obtain permission.",Rachel,Tanya,2,0.32969033797630304,incertitude
+363,37VHPF5VYC18TM3KQEHL6NGWAZ08CP-1,"Rachel included Tanya in her YouTube video, but _ was sorry because she had failed to obtain permission.",Rachel,Tanya,1,0.1891589387777465,autre
+364,3421H3BM9CVA9UR7PWGLLLCADYY9JU-1,A conductor on the train Felicia has been for years today Elena will present them with a award _ is being honored.,Felicia,Elena,1,0.08815288253291166,autre
+365,3421H3BM9CVA9UR7PWGLLLCADYY9JU-2,"A conductor on the train Felicia has been for years today Elena will present them with a award, _ is honored to be presenting..",Felicia,Elena,2,0.059796122369503116,autre
+366,34XASH8KLS0L2PDZ9IPAN346MHFMPG-1,"The police could escort the prisoner to the gate but not to the cell, as entry to _ was permitted .",gate,cell,1,0.04689673859313344,autre
+367,34XASH8KLS0L2PDZ9IPAN346MHFMPG-2,"The police could escort the prisoner to the gate but not to the cell, as entry to _ was forbidden .",gate,cell,2,0.0644220320766336,autre
+368,3LOJFQ4BOXD2TFBZZZ9ZGY75VD8DKC-1,"When Brenda coated her wood panels with varnish, the concrete surface beneath got stained. The varnish protected and beautified the _ .",wood,concrete,1,0.34209655703857506,incertitude
+369,3LOJFQ4BOXD2TFBZZZ9ZGY75VD8DKC-2,"When Brenda coated her wood panels with varnish, the concrete surface beneath got stained. The varnish harmed and uglified the _ .",wood,concrete,2,0.4854449885501416,incertitude
+370,3E22YV8GG14CQIZS1LSA8K5Y3PJPN6-1,John was eager to put his fish in the new fish tank on a table but the _ was too delicate.,table,tank,1,0.16796303147727565,autre
+371,3E22YV8GG14CQIZS1LSA8K5Y3PJPN6-2,John was eager to put his fish in the new fish tank on a table but the _ was too heavy.,table,tank,2,0.22265416870966281,autre
+372,33KGGVH24UFELKUUIP4T5QEY2RB1XU-1,"The tea was hurting Ben's teeth, though the coffee was not because the _ was loaded with sugar.",tea,coffee,1,0.4407307972337652,incertitude
+373,33KGGVH24UFELKUUIP4T5QEY2RB1XU-2,"The tea was hurting Ben's teeth, though the coffee was not because the _ was lacking any sugar.",tea,coffee,2,0.5,incertitude
+374,3D0LPO3EABXOHHR5TNO600YFX6WOYN-1,"He preferred to clean with the soap instead of the body wash, because the _ left him feeling itchy.",body wash,soap,1,0.8089734248729514,chores
+375,3D0LPO3EABXOHHR5TNO600YFX6WOYN-2,"He preferred to clean with the soap instead of the body wash, because the _ left him feeling refreshed.",body wash,soap,2,0.7464399169542875,incertitude
+376,3UEDKCTP9X416V9WSKID84LHXTQK70-1,"Katrina loaned their jacket to Carrie during the cold night, although _ was feeling cold themselves.",Katrina,Carrie,1,0.11077784744041103,autre
+377,3UEDKCTP9X416V9WSKID84LHXTQK70-2,"Katrina loaned their jacket to Carrie during the cold night, because _ was feeling cold.",Katrina,Carrie,2,0.24980833226303764,autre
+378,3HO4MYYR12MHB21WJQ5NGF6BB5EU6Y-1,Adam had to schedule a visit a dermatologist but Joseph didn't because _ had bad skin.,Adam,Joseph,1,0.6831406244337358,incertitude
+379,3HO4MYYR12MHB21WJQ5NGF6BB5EU6Y-2,Adam had to schedule a visit a dermatologist but Joseph didn't because _ had good skin.,Adam,Joseph,2,0.4860756082387803,incertitude
+380,3LOJFQ4BOXD2TFBZZZ9ZGY75VBGKDN-2,Nancy preferred to eat popcorn rather than candy at the movies because the _ is sweet.,popcorn,candy,2,0.2882986283448066,incertitude
+381,3LOJFQ4BOXD2TFBZZZ9ZGY75VBGKDN-1,Nancy preferred to eat popcorn rather than candy at the movies because the _ is salty.,popcorn,candy,1,0.4273159423944657,incertitude
+382,36JW4WBR06I8P9ONKK1SR6UYAUBHFF-2,"The project meant Emily collaborated with Victoria, who was not excited. _ hated working with others.",Emily,Victoria,2,0.22985509110328606,autre
+383,36JW4WBR06I8P9ONKK1SR6UYAUBHFF-1,"The project meant Emily collaborated with Victoria, who was not excited. _ loved working with others.",Emily,Victoria,1,0.14882390155162087,autre
+384,3EAWOID6MTVMA64HMRZB30Y3HPJV06-2,"While Maria rode the bus to work, Megan rode a motorcycle because _ had an unexpired license.",Maria,Megan,2,0.15153882570431085,autre
+385,3EAWOID6MTVMA64HMRZB30Y3HPJV06-1,"While Maria rode the bus to work, Megan rode a motorcycle because _ had an expired license.",Maria,Megan,1,0.20631316303495245,autre
+386,3IQ9O0AYW8DXYYGF5K020KYNW0UTI8-1,Steven only had one ear but Jeffrey had two. This meant that _ was very lopsided.,Steven,Jeffrey,1,0.09233158899521698,autre
+387,3IQ9O0AYW8DXYYGF5K020KYNW0UTI8-2,Steven only had one ear but Jeffrey had two. This meant that _ was very symmetrical.,Steven,Jeffrey,2,0.07278256839846302,autre
+388,3NZ1E5QA6ZZ6WZSCEGENJJ0NQJ8B5I-2,Kevin repaired the wooden  furniture for Kyle last week since _ was an expert carpenter.,Kevin,Kyle,2,0.18804183653555548,autre
+389,3NZ1E5QA6ZZ6WZSCEGENJJ0NQJ8B5I-1,Kevin repaired the wooden furniture for Kyle last week since _ needed an expert carpenter.,Kevin,Kyle,1,0.2013978920313549,autre
+390,3TLFH2L6Y9METO36WJ3AL63XCGGT2O-2,Eric thought the clothes looked very nice but Kevin did not agree. _ didn't buy the clothes.,Eric,Kevin,2,0.0179428919187464,autre
+391,3TLFH2L6Y9METO36WJ3AL63XCGGT2O-1,Eric thought the clothes looked very nice but Kevin did not agree. _ bought the clothes.,Eric,Kevin,1,0.012954106470466902,autre
+392,38DCH97KHH01749MM0F7FIERULOJQA-1,"Jessica often experiences severe nausea, Victoria does not therefore _ does not ride roller coasters.",Jessica,Victoria,1,0.5848660770546998,incertitude
+393,38DCH97KHH01749MM0F7FIERULOJQA-2,"Jessica often experiences severe nausea, Victoria does not therefore _ often rides big roller coasters.",Jessica,Victoria,2,0.5901823317826362,incertitude
+394,375VSR8FVYN6D9SX1ZJT000V3J3RZB-2,"The system that Jeffrey used was amazing compared to Randy, because _ system was lower end.",Jeffrey,Randy,2,0.07152688986418822,autre
+395,375VSR8FVYN6D9SX1ZJT000V3J3RZB-1,"The system that Jeffrey used was amazing compared to Randy, because _ system was higher end.",Jeffrey,Randy,1,0.07057531921754165,autre
+396,31JUPBOORPIGQFWXNPMK14USYAP8LZ-2,It took Jerry longer to shampoo his hair than his beard although the _ was bushy.,hair,beard,2,0.7466782129872662,incertitude
+397,31JUPBOORPIGQFWXNPMK14USYAP8LZ-1,It took Jerry longer to shampoo his hair than his beard although the _ was shaved short.,hair,beard,1,0.7679871070990613,chores
+398,3WRKFXQBOB5ELVG2VSB1G32TGHMIYA-2,"Have you ever been on  a nature walk Samantha asked Tanya , _ is giving a reply to a question.",Samantha,Tanya,2,0.11279126997198483,autre
+399,3WRKFXQBOB5ELVG2VSB1G32TGHMIYA-1,"Have you ever been on  a nature walk Samantha asked Tanya , _ is waiting for a reply to a question.",Samantha,Tanya,1,0.09763145438992213,autre
+400,3BA7SXOG1JOCZOS38B7GVIFIFGW8RP-1,Ben was choosing between a clothing business and a fitness business. He ended up opening the _ business because it was healthy.,fitness,clothing,1,0.10945733685739607,autre
+401,3BA7SXOG1JOCZOS38B7GVIFIFGW8RP-2,Ben was choosing between a clothing business and a fitness business. He ended up opening the _ business because it was unhealthy.,fitness,clothing,2,0.2358155147190455,autre
+402,30ZKOOGW2W42P7M17FCFLI30WQ91AW-2,Jason was going to a job interview after being prepped by Logan. _ was proud.,Jason,Logan,2,0.3037121147816491,incertitude
+403,30ZKOOGW2W42P7M17FCFLI30WQ91AW-1,Jason was going to a job interview after being prepped by Logan. _ was grateful.,Jason,Logan,1,0.1978109712308865,autre
+404,38LRF35D5LUIEJEE0O7P9CUR1983UN-1,"Adam found the blue joke that Steven offensive, because _ was aware of their own privilege.",Adam,Steven,1,0.10884382601878319,autre
+405,38LRF35D5LUIEJEE0O7P9CUR1983UN-2,"Adam found the blue joke that Steven offensive, because _ was unaware of their own privilege.",Adam,Steven,2,0.10729916210792433,autre
+406,3CMIQF80GNOPJ9UF2HLI6E9M8HA6Q1-2,Mary had a better body and was more of a showoff than Emily. _ hates wearing bikinis to the beach.,Mary,Emily,2,0.16890535703020246,autre
+407,3CMIQF80GNOPJ9UF2HLI6E9M8HA6Q1-1,Mary had a better body and was more of a showoff than Emily. _ loves wearing bikinis to the beach.,Mary,Emily,1,0.1415049537176397,autre
+408,31S7M7DAGI4ZOZOLQNXFS0QEB4XTLR-1,"Adam adored his grandmother, William.  _ decided he would surprise her with a trip to Europe.",Adam,William,1,0.12917722100493698,autre
+409,31S7M7DAGI4ZOZOLQNXFS0QEB4XTLR-2,"Adam adored his grandmother, William.  _ got a big surprise with a trip to Europe.",Adam,William,2,0.10675190134072976,autre
+410,3G3AJKPCXLQKDOHNA39XM2SAB2JY4F-1,Eric was easier to amuse than Justin because _ had a great sense of humor.,Eric,Justin,1,0.049623967026615645,autre
+411,3G3AJKPCXLQKDOHNA39XM2SAB2JY4F-2,Eric was easier to amuse than Justin because _ had a bad sense of humor.,Eric,Justin,2,0.07777094249335734,autre
+412,3DW3BNF1GJWJMK8R1TOQODSUPG98VG-1,"The payments were made by Jason to Dennis, as _ had borrowed so much money in the past.",Jason,Dennis,1,0.06060834387066396,autre
+413,3DW3BNF1GJWJMK8R1TOQODSUPG98VG-2,"The payments were made by Jason to Dennis, as _ had lent so much money in the past.",Jason,Dennis,2,0.034902567822642186,autre
+414,3P458N04Q1FLA5CQ1T47A9O3PFV2XD-1,"Victoria was disgusted because of the odor of Sarah, and _ did not want to be around them.",Victoria,Sarah,1,0.9389942937477573,chores
+415,3P458N04Q1FLA5CQ1T47A9O3PFV2XD-2,"Victoria was disgusted because of the odor of Sarah, and _ was ashamed to be around them.",Victoria,Sarah,2,0.9542779662725205,chores
+416,3D0LPO3EADD3B6QCDL06SYMOM5COYB-2,Tina asked guests to take off their shoes when entering the house because she had a new carpet. She said the _ couldn't get dirty.,shoes,carpet,2,0.9117275447748052,chores
+417,3D0LPO3EADD3B6QCDL06SYMOM5COYB-1,Tina asked guests to take off their shoes when entering the house because she had a new carpet. She said the _ were often dirty.,shoes,carpet,1,0.9371907470194155,chores
+418,3YGE63DIN8VZPV4MC147P2HHJJW0WX-1,Samantha won the dance competition over Jennifer for the reason that _ had a superior sense of rhythm.,Samantha,Jennifer,1,0.24091736605762482,autre
+419,3YGE63DIN8VZPV4MC147P2HHJJW0WX-2,Samantha won the dance competition over Jennifer for the reason that _ had a bad sense of rhythm.,Samantha,Jennifer,2,0.3394436355549734,incertitude
+420,3L60IFZKF5W7XUE0Z81SMPUJJJGHH1-2,Jessica was thinner than Rebecca because _ ate chocolate almost every day as a snack.,Jessica,Rebecca,2,0.429655184249033,incertitude
+421,3L60IFZKF5W7XUE0Z81SMPUJJJGHH1-1,Jessica was fatter than Rebecca because _ ate chocolate almost every day as a snack.,Jessica,Rebecca,1,0.4899177715042429,incertitude
+422,3J5XXLQDHOPXLN2LPCTUXWKI8TVV3K-2,Tanya couldn't stretch as far down as Jennifer because _ was had a very flexible body.,Tanya,Jennifer,2,0.10360995536895334,autre
+423,3J5XXLQDHOPXLN2LPCTUXWKI8TVV3K-1,Tanya couldn't stretch as far down as Jennifer because _ was had a very rigid body.,Tanya,Jennifer,1,0.12305737263096056,autre
+424,375VSR8FVW7RJKTQH17T82CMEOIRZQ-2,Ben had to stop driving his car or motorcycle. He chose to stop the _ because it was safe.,motorcycle,car,2,0.3203461501341011,incertitude
+425,375VSR8FVW7RJKTQH17T82CMEOIRZQ-1,Ben had to stop driving his car or motorcycle. He chose to stop the _ because it was risky.,motorcycle,car,1,0.37048052805048914,incertitude
+426,3R0WOCG21M7GWBGBTDD1MLG3SN5DU5-2,Randy is better at playing pretend with kids than Kenneth because _ is a more serious person.,Randy,Kenneth,2,0.13207722063734129,autre
+427,3R0WOCG21M7GWBGBTDD1MLG3SN5DU5-1,Randy is better at playing pretend with kids than Kenneth because _ is a more creative person.,Randy,Kenneth,1,0.1838324801142576,autre
+428,3CZH926SIES118Z3U0937XO2MSRE49-1,James needed a bigger box to collect the silver he exchanged for the gold because the _ is bigger.,silver,gold,1,0.13180404708044466,autre
+429,3CZH926SIES118Z3U0937XO2MSRE49-2,James needed a bigger box to collect the silver he exchanged for the gold because the _ is smaller.,silver,gold,2,0.13218440551047317,autre
+430,39RRBHZ0AWFY6G9EAJO31XPYOWJZVT-2,More birds were in the garden than in the park because the _ only had grass.,garden,park,2,0.3799204873402736,incertitude
+431,39RRBHZ0AWFY6G9EAJO31XPYOWJZVT-1,More birds were in the garden than in the park because the _ had fresh fruit.,garden,park,1,0.4892017654537399,incertitude
+432,3ZVPAMTJWPH6MSXSB7V4FTKORCZGR0-1,"Kayla decided to talk to her daughter Sarah about puberty, because _ found out she had just gotten her first period.",Kayla,Sarah,1,0.6567738525751693,incertitude
+433,3ZVPAMTJWPH6MSXSB7V4FTKORCZGR0-2,"Kayla decided to talk to her daughter Sarah about puberty, because _ said she had just gotten her first period.",Kayla,Sarah,2,0.583351261653801,incertitude
+434,3D7VY91L65V446DI6FV90LB9HXIBMZ-2,"Pam's lizard caught his tail in the door and ran under the couch instead of the chair, because the _ was scarier.",couch,chair,2,0.5557231504620144,incertitude
+435,3D7VY91L65V446DI6FV90LB9HXIBMZ-1,"Pam's lizard caught his tail in the door and ran under the couch instead of the chair, because the _ was safer.",couch,chair,1,0.4297888682805525,incertitude
+436,3PUOXASB59H099WB7IJ79F00WSRZ9D-2,"Jeffrey asked Joel to express their feelings in a more productive manner, but _ was actually the one being reasonable.",Jeffrey,Joel,2,0.13661037017324745,autre
+437,3PUOXASB59H099WB7IJ79F00WSRZ9D-1,"Jeffrey asked Joel to express their feelings in a more productive manner, but _ was actually the one being petty.",Jeffrey,Joel,1,0.3500823746885166,incertitude
+438,3A3KKYU7P3FWS9BT16R5NZOUMH7MWU-2,Jennifer was better at playing sports than Laura was although _ was much more athletic.,Jennifer,Laura,2,0.29046055412835964,incertitude
+439,3A3KKYU7P3FWS9BT16R5NZOUMH7MWU-1,Jennifer was better at playing sports than Laura was because _ was much more athletic.,Jennifer,Laura,1,0.302283516157801,incertitude
+440,3AQN9REUTFEXDK0G3EAQP6MGTS8DYY-1,The football was flying higher than the basketball as it went through the air. The _ was lighter.,football,basketball,1,0.3868244464287289,incertitude
+441,3AQN9REUTFEXDK0G3EAQP6MGTS8DYY-2,The football was flying higher than the basketball as it went through the air. The _ was heavier.,football,basketball,2,0.4283080005316699,incertitude
+442,3AXFSPQOYQW4GFJD8K4D3JADNLLJFQ-2,"Dennis liked pop music, but Jason preferred classical music. _ liked music with string instruments.",Dennis,Jason,2,0.12172828791208376,autre
+443,3AXFSPQOYQW4GFJD8K4D3JADNLLJFQ-1,"Dennis liked pop music, but Jason preferred classical music. _ liked music you can dance to.",Dennis,Jason,1,0.13713582156473744,autre
+444,3OREP8RUT294CWHWVCXENGRCLDYGBS-1,I added spices to my cooking like salt and pepper.  The _ makes the food taste salty.,salt,pepper,1,0.6359699162360753,incertitude
+445,3OREP8RUT294CWHWVCXENGRCLDYGBS-2,I added spices to my cooking like salt and pepper.  The _ makes the food taste hotter.,salt,pepper,2,0.6446718768214758,incertitude
+446,3R5LWXWHR06BPZKX08PWCDI4Z2QGX8-2,"At the mall, Laura applied makeup on Betty to beautify her because _ was not very attractive.",Laura,Betty,2,0.4473868996258254,incertitude
+447,3R5LWXWHR06BPZKX08PWCDI4Z2QGX8-1,"At the mall, Laura applied makeup on Betty to beautify her because _ was an expert.",Laura,Betty,1,0.24322029417844582,autre
+448,3RWB1RTQDL16H0BVFHFRIL3C3ZC8PD-1,Jason's leg was more sore than his arm was because he warmed up the _ before exercising.,arm,leg,1,0.27924454650228003,incertitude
+449,3RWB1RTQDL16H0BVFHFRIL3C3ZC8PD-2,Jason's leg was more sore than his arm was although he warmed up the _ before exercising.,arm,leg,2,0.3387680129988247,incertitude
+450,3R6RZGK0XHQY1QZ9EXMKNQGVH4HYV4-2,"Randy learned to fish from Derrick, because _ was a professional with years of experience.",Randy,Derrick,2,0.1231729962317287,autre
+451,3R6RZGK0XHQY1QZ9EXMKNQGVH4HYV4-1,"Randy learned to fish from Derrick, because _ was a novice with only days of experience.",Randy,Derrick,1,0.23007883626117834,autre
+452,3QD8LUVX4XWD92VDJC658GRFE7NX5F-1,While the woman Kayla was driving Maria to her first day of kindergarten the police officer gave _ a ticket.,Kayla,Maria,1,0.41868551107183927,incertitude
+453,3QD8LUVX4XWD92VDJC658GRFE7NX5F-2,While the woman Kayla was driving Maria to her first day of kindergarten the police officer gave _ a lollipop.,Kayla,Maria,2,0.13944256944484104,autre
+454,3OQQD2WO8KKSZHILQ5UBI7UO0L23IM-2,"Chess is bad for the body but great for the brain, as thinking is critical for the _ to develop.",body,brain,2,0.2413811249215726,autre
+455,3OQQD2WO8KKSZHILQ5UBI7UO0L23IM-1,"Chess is bad for the body but great for the brain, as thinking is useless for the _ to develop.",body,brain,1,0.25453232919146146,incertitude
+456,3PKVGQTFIHIREUJLLF5AUV3K8W3YRZ-2,Amy wanted a soft toothbrush but Mary wanted a firm one because _ was concerned about tarter.,Amy,Mary,2,0.3172238073201786,incertitude
+457,3PKVGQTFIHIREUJLLF5AUV3K8W3YRZ-1,Amy wanted a soft toothbrush but Mary wanted a firm one because _ was concerned about soreness.,Amy,Mary,1,0.1859194757817634,autre
+458,3IV1AEQ4DTRAVP8XK4A7LPH0UT2J86-2,Jeffrey build a house for Kenneth so _ will have a nice new place to live.,Jeffrey,Kenneth,2,0.20976557656180933,autre
+459,3IV1AEQ4DTRAVP8XK4A7LPH0UT2J86-1,Jeffrey build a house with Kenneth's help so _ will have a nice new place to live.,Jeffrey,Kenneth,1,0.16068693115153612,autre
+460,3HRWUH63QU08X8H9H6JWAE0H7AE5NX-1,"Megan had a baby whereas Katrina had a college aged child, so _ still had to change diapers.",Megan,Katrina,1,0.3827035913074039,incertitude
+461,3HRWUH63QU08X8H9H6JWAE0H7AE5NX-2,"Megan had a baby whereas Katrina had a college aged child, so _ no longer had to change diapers.",Megan,Katrina,2,0.3560008765082147,incertitude
+462,3XD2A6FGFP838XAXCQPZDM3X9DR9SI-2,Megan received flowers from Carrie because _ wanted to ask them out on a date.,Megan,Carrie,2,0.14369047084121137,autre
+463,3XD2A6FGFP838XAXCQPZDM3X9DR9SI-1,Megan gave flowers to Carrie because _ wanted to ask them out on a date.,Megan,Carrie,1,0.16215509922577837,autre
+464,35U0MRQMUJ57DNW0OC1MT1ULA7DOVS-2,Emptying the litter box was a dreaded chore for Adam while Lawrence didn't mind doing it. _ never tried to get someone else to handle it.,Adam,Lawrence,2,0.8707332829447648,chores
+465,35U0MRQMUJ57DNW0OC1MT1ULA7DOVS-1,Emptying the litter box was a dreaded chore for Adam while Lawrence didn't mind doing it. _ always tried to get someone else to handle it.,Adam,Lawrence,1,0.8901119508831405,chores
+466,3DGDV62G7O7G1WAZF2UQGW20NHGP28-2,"Matthew spent the weekend watching a baby while Benjamin was on vacation, and _ made sure their vacation was relaxing.",Matthew,Benjamin,2,0.5827021934085141,incertitude
+467,3DGDV62G7O7G1WAZF2UQGW20NHGP28-1,"Matthew spent the weekend watching a baby while Benjamin was on vacation, and _ made sure the baby was fed.",Matthew,Benjamin,1,0.7159487419956153,incertitude
+468,3ZCC2DXSD720BVV7ZAX42RWH6ZLYYV-2,Kevin found running the marathon easier than Dennis. _ had repeatedly meant to stop smoking.,Kevin,Dennis,2,0.46324183519910267,incertitude
+469,3ZCC2DXSD720BVV7ZAX42RWH6ZLYYV-1,Kevin found running the marathon easier than Dennis. _ had finally decided to stop smoking.,Kevin,Dennis,1,0.36024558693984643,incertitude
+470,3SX4X51T82N2FOS9XFMQPC4GIKHOAI-2,"Lawrence planned to steal the valuable painting from Michael, because _ finally owned something beautiful.",Lawrence,Michael,2,0.26642361347576726,incertitude
+471,3SX4X51T82N2FOS9XFMQPC4GIKHOAI-1,"Lawrence planned to steal the valuable painting from Michael, because _ wanted to own something beautiful.",Lawrence,Michael,1,0.31343461017141666,incertitude
+472,3EHVO81VN7ZWTJTMXJY7U2ED3YPH1I-2,"Jordan gave his miniature horse a field and a barn to stay in, and the horse liked the _ better when it was warm.",barn,field,2,0.5060233957360353,incertitude
+473,3EHVO81VN7ZWTJTMXJY7U2ED3YPH1I-1,"Jordan gave his miniature horse a field and a barn to stay in, and the horse liked the _ better when it was cold.",barn,field,1,0.4831038416399322,incertitude
+474,3J6BHNX0UB6Q9G1J8RZ24178YD1KNU-1,The idea was given to Steven to mull over and not Ryan because _ is more creative.,Steven,Ryan,1,0.1018862810954639,autre
+475,3J6BHNX0UB6Q9G1J8RZ24178YD1KNU-2,The idea was given to Steven to mull over and not Ryan because _ is less creative.,Steven,Ryan,2,0.10346457949333633,autre
+476,38DCH97KHJGG1T8T6YR77G2ZNUIJQY-2,Michael bought mealworms as pet food but not Kenneth because _ had a pony as a pet.,Michael,Kenneth,2,0.29637834244573064,incertitude
+477,38DCH97KHJGG1T8T6YR77G2ZNUIJQY-1,Michael bought mealworms as pet food but not Kenneth because _ had a lizard as a pet.,Michael,Kenneth,1,0.20741727902373838,autre
+478,3BA7SXOG1L4RTDRAS9JGNG3R5E6R8P-1,The draining discussion was followed by a lively lecture.  The _ was just so boring.,discussion,lecture,1,0.31747201590373525,incertitude
+479,3BA7SXOG1L4RTDRAS9JGNG3R5E6R8P-2,The draining discussion was followed by a lively lecture.  The _ was just so interesting.,discussion,lecture,2,0.13583336672674803,autre
+480,3X2LT8FDHWGH7K9P75HMIHNZ2BB8WJ-1,Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much more.,Lawrence,Benjamin,1,0.16217035252631554,autre
+481,3X2LT8FDHWGH7K9P75HMIHNZ2BB8WJ-2,Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much less.,Lawrence,Benjamin,2,0.20163696190320873,autre
+482,30IRMPJWDZHWUPU4H04JLNO95XYKRL-2,"Mary is sending an important package to Sarah, so _ collects it from the post office.",Mary,Sarah,2,0.31648758428523965,incertitude
+483,30IRMPJWDZHWUPU4H04JLNO95XYKRL-1,"Mary is sending an important package to Sarah, so _ takes it to the post office.",Mary,Sarah,1,0.36069374519591774,incertitude
+484,37AQKJ12TXM8DNXJFYN6MTCNC09TTA-2,"Craig volunteered to help the dyslexic students at the school while Joel avoided them, since _ struggled with reading.",Craig,Joel,2,0.3369117254401282,incertitude
+485,37AQKJ12TXM8DNXJFYN6MTCNC09TTA-1,"Craig volunteered to help the dyslexic students at the school while Joel avoided them, since _ loved reading.",Craig,Joel,1,0.30505303422876234,incertitude
+486,3LOJFQ4BOZTHN4A6JXLZ8WVEK9ZDK5-1,"Sarah took Mary's speech class; when she passed her final exam, _ celebrated with ice cream.",Sarah,Mary,1,0.4036154371747368,incertitude
+487,3LOJFQ4BOZTHN4A6JXLZ8WVEK9ZDK5-2,"Sarah taught Mary's speech class; when she passed her final exam, _ celebrated with ice cream.",Sarah,Mary,2,0.37854796772807553,incertitude
+488,3VMHWJRYHVE5BZO2POJEUSISYL0XFW-1,"Joseph decided to groom their dog in the waiting room unlike Leslie, so _ had the cleaner dog.",Joseph,Leslie,1,0.6863294816458652,incertitude
+489,3VMHWJRYHVE5BZO2POJEUSISYL0XFW-2,"Joseph decided to groom their dog in the waiting room unlike Leslie, so _ had the dirtier dog.",Joseph,Leslie,2,0.8418833982634971,chores
+490,3WKGUBL7SZK0DPAOROK7SUQE70KL4A-2,The woman wanted to hang the dress in the closet but the _ was too large.,closet,dress,2,0.19489890573873528,autre
+491,3WKGUBL7SZK0DPAOROK7SUQE70KL4A-1,The woman wanted to hang the dress in the closet but the _ was too small.,closet,dress,1,0.16154773415958582,autre
+492,371Q3BEXDJNIEOSAGOJYQA5RQUIZSM-2,"Ian did not see the tumor on Brett's leg, because _ was only receiving an eye exam.",Ian,Brett,2,0.1797448960035112,autre
+493,371Q3BEXDJNIEOSAGOJYQA5RQUIZSM-1,"Ian did not see the tumor on Brett's leg, because _ was only performing an eye exam.",Ian,Brett,1,0.17236318537300568,autre
+494,3G3AJKPCXN6Z7DGUU1LXE0GI4024YC-2,The gathered  stones in the bag outweigh the collected coins because the _ are small in numbers.,stones,coins,2,0.03080833262869347,autre
+495,3G3AJKPCXN6Z7DGUU1LXE0GI4024YC-1,The gathered stones in the bag outweigh the collected coins because the _ are much in numbers.,stones,coins,1,0.02952256374413001,autre
+496,3ZC62PVYDH8MBLFNPIP00ZIZ2NGXX1-2,Samuel knew to recycle aluminum cans but not Logan because _ was never in need of extra change.,Samuel,Logan,2,0.18680346306862175,autre
+497,3ZC62PVYDH8MBLFNPIP00ZIZ2NGXX1-1,Samuel knew to recycle aluminum cans but not Logan because _ was always in need of extra change.,Samuel,Logan,1,0.26488296246584675,incertitude
+498,3VMV5CHJZ8D48IBDVYOZNAXYRK6GTQ-1,Jessica used the luxury brand to shampoo her hair instead of the generic brand. The _ brand made her hair beautiful.,luxury,generic,1,0.17596383311782715,autre
+499,3VMV5CHJZ8D48IBDVYOZNAXYRK6GTQ-2,Jessica used the luxury brand to shampoo her hair instead of the generic brand. The _ brand made her hair ugly.,luxury,generic,2,0.34612021101916324,incertitude
+500,3L84EBDQ370A7LH9RGVMKB2VA7WKKO-2,"Rachel had a dog but Cynthia's dog was given up for adoption recently, so _ gave them their old leash.",Rachel,Cynthia,2,0.5555008266569659,incertitude
+501,3L84EBDQ370A7LH9RGVMKB2VA7WKKO-1,"Rachel had a dog but Cynthia's dog was given up for adoption recently, so _ was given their old leash.",Rachel,Cynthia,1,0.5929669875164438,incertitude
+502,3ZTE0JGGCG6Q83P7HTIHV7U4IYFCO7-1,John said that he preferred the chocolate frosting over the lemon frosting because the _ tasted good.,chocolate,lemon,1,0.5447117643821087,incertitude
+503,3ZTE0JGGCG6Q83P7HTIHV7U4IYFCO7-2,John said that he preferred the chocolate frosting over the lemon frosting because the _ tasted bad.,chocolate,lemon,2,0.7020564559164498,incertitude
+504,3SR6AEG6W5REP05IPATGGR1EG75YH1-1,Betty is known as bilingual while Rachel is known as multilingual because _ can only speak two languages.,Betty,Rachel,1,0.2765416746045424,incertitude
+505,3SR6AEG6W5REP05IPATGGR1EG75YH1-2,Betty is known as bilingual while Rachel is known as multilingual because _ can speak more than two languages.,Betty,Rachel,2,0.24598360695614804,autre
+506,3WUVMVA7OB1ZK379FQL7DCNCEN9ZAB-2,during the vacation we stayed in the 3 star hotel and not the 5 star hotel because the _ were fully booked.,3 star,5 star,2,0.05272578965791952,autre
+507,3WUVMVA7OB1ZK379FQL7DCNCEN9ZAB-1,during the vacation we stayed in the 3 star hotel and not the 5 star hotel because the _ were available.,3 star,5 star,1,0.024830301642387184,autre
+508,363A7XIFV60X5816YR84K4YPG8JVAQ-2,"The thief was able to be sneaky in the boots, but not in the sandals, because the _ were made of superior material.",sandals,boots,2,0.0596743505786283,autre
+509,363A7XIFV60X5816YR84K4YPG8JVAQ-1,"The thief was able to be sneaky in the boots, but not in the sandals, because the _ were made of inferior material.",sandals,boots,1,0.11001018693302943,autre
+510,3LB1BGHFL2U4U9WDP4A5UA42WC8YTA-1,"The quilt Margot was making would take up the whole closet, because the _ was huge.",quilt,closet,1,0.18694008836176407,autre
+511,3LB1BGHFL2U4U9WDP4A5UA42WC8YTA-2,"The quilt Margot was making would take up the whole closet, because the _ was tiny.",quilt,closet,2,0.16975990864894128,autre
+512,3J9L0X0VDFKHLPSZCXN0IDIAR0OW9Y-2,Are you going to donate your charitable contribution to the church or the school? I think I'm going to give mine to the _ because they need new pews.,school,church,2,0.0202783802005477,autre
+513,3J9L0X0VDFKHLPSZCXN0IDIAR0OW9Y-1,Are you going to donate your charitable contribution to the church or the school? I think I'm going to give mine to the _ because they need new computers.,school,church,1,0.034903862184754504,autre
+514,3IH9TRB0FDDWPE4631GSUEFS4CI1IC-2,The oak tree weathered the storm but the sapling perished. This is because the _ tree was much more fragile.,oak,sapling,2,0.12818625600470104,autre
+515,3IH9TRB0FDDWPE4631GSUEFS4CI1IC-1,The oak tree weathered the storm but the sapling perished. This is because the _ tree was much more sturdy.,oak,sapling,1,0.13043855908067883,autre
+516,3N7PQ0KLI5N1PNHSAOSK5U8OFPL3EL-2,Benjamin had a more juvenile sense of humor than Donald so _ hated whoopie cushions.,Benjamin,Donald,2,0.3592785335464733,incertitude
+517,3N7PQ0KLI5N1PNHSAOSK5U8OFPL3EL-1,Benjamin had a more juvenile sense of humor than Donald so _ enjoyed whoopie cushions.,Benjamin,Donald,1,0.2584255418964612,incertitude
+518,3K8CQCU3KEZ2ARWTD7650EDUR71WNO-2,"Eating sweets was a big problem for Carrie but not for Rebecca, thats why _ has a small waistline.",Carrie,Rebecca,2,0.4133695836549726,incertitude
+519,3K8CQCU3KEZ2ARWTD7650EDUR71WNO-1,"Eating sweets was a big problem for Carrie but not for Rebecca, thats why _ has a large waistline.",Carrie,Rebecca,1,0.4285159923659211,incertitude
+520,3I01FDIL6OMM6O6GURFV809K39DD2J-2,The ground around Michael's house was solid unlike Aaron's because _ had a month long rainfall.,Michael,Aaron,2,0.2745401013420039,incertitude
+521,3I01FDIL6OMM6O6GURFV809K39DD2J-1,The ground around Michael's house was solid unlike Aaron's because _ had a month long drought.,Michael,Aaron,1,0.40761770673874137,incertitude
+522,3R5LWXWHR06BPZKX08PWCDI44HGXGE-1,"Megan inserted an IV into Sarah's arm once they were admitted to the hospital, because _ was a nurse.",Megan,Sarah,1,0.12703672849378064,autre
+523,3R5LWXWHR06BPZKX08PWCDI44HGXGE-2,"Megan inserted an IV into Sarah's arm once they were admitted to the hospital, because _ was dehydrated.",Megan,Sarah,2,0.21139527479900358,autre
+524,3XD2A6FGFP838XAXCQPZDM3YANKS9H-2,It was raining hard and the hat got soaked. The color began to blend together. His mom said the _ was ugly anyway and it had too many hats.,hat,color,2,0.7075179220441178,incertitude
+525,3XD2A6FGFP838XAXCQPZDM3YANKS9H-1,It was raining hard and the hat got soaked. The color began to blend together. His mom said the _ was ugly anyway because it had too many colors.,hat,color,1,0.6576868462751294,incertitude
+526,385MDVINFETLLQ4FI7QDZ5KLBPRWJV-1,"The bedroom had to have the bureau replaced by the new closet , since the _ was too packed for all the new clothes.",bureau,closet,1,0.45732817739195214,incertitude
+527,385MDVINFETLLQ4FI7QDZ5KLBPRWJV-2,"The bedroom had to have the bureau replaced by the new closet , since the _ was very roomy for all the new clothes.",bureau,closet,2,0.27214837057555635,incertitude
+528,3DWGDA5POF2MHVPZIA3BH5HDMDGV1S-2,The chef tried to put the banana in the cake but the _ was too large.,cake,banana,2,0.5265823001774792,incertitude
+529,3DWGDA5POF2MHVPZIA3BH5HDMDGV1S-1,The chef tried to put the banana in the cake but the _ was too small.,cake,banana,1,0.4719001012628735,incertitude
+530,3LB1BGHFL4AJOYVK92M5M8SBLAVTYY-1,Brett was more prepared to be a parent than Aaron because _ had spent a lot of time with children.,Brett,Aaron,1,0.72542729869228,incertitude
+531,3LB1BGHFL4AJOYVK92M5M8SBLAVTYY-2,Brett was more prepared to be a parent than Aaron because _ had spent very little time with children.,Brett,Aaron,2,0.7620743886463636,chores
+532,3IWA71V4TKUOMVUY8TSASKTOZWR6XV-2,Patricia chose a hardy cultivar to grow unlike Tanya because _ had very fertile soil.,Patricia,Tanya,2,0.18804032595386874,autre
+533,3IWA71V4TKUOMVUY8TSASKTOZWR6XV-1,Patricia chose a hardy cultivar to grow unlike Tanya because _ had very rocky soil.,Patricia,Tanya,1,0.1501500255182361,autre
+534,31MBOZ6PAOP38TN3K3QPBS22ZFKLCA-1,"Donna would prefer to do her reading at the workplace than at home, because the _ was too noisy.",home,workplace,1,0.49013097116541066,incertitude
+535,31MBOZ6PAOP38TN3K3QPBS22ZFKLCA-2,"Donna would prefer to do her reading at the workplace than at home, because the _ was more quiet.",home,workplace,2,0.1836022478404748,autre
+536,3PEG1BH7AEP9EIDFL3ITL8J5NFRKBC-2,Donald invited Brett to Paris because _ knew how to speak the native language perfectly.,Donald,Brett,2,0.19328798742287656,autre
+537,3PEG1BH7AEP9EIDFL3ITL8J5NFRKBC-1,Donald invited Brett to Paris because _ didn't know how to speak the native language.,Donald,Brett,1,0.3521230535266768,incertitude
+538,3ZXNP4Z39RJXWCS7TMIEV6AOTL97LC-2,Michael discovered Craig was a respected doctor so _ was asked many health related questions.,Michael,Craig,2,0.308875337109459,incertitude
+539,3ZXNP4Z39RJXWCS7TMIEV6AOTL97LC-1,Michael discovered Craig was a respected doctor so _ asked him many health related questions.,Michael,Craig,1,0.3625555111792768,incertitude
+540,36QZ6V1589BMY0ZTQ38QHK23Y8MUSS-2,"Glenda always drove the station wagon at night instead of the sports car, because the _ had dimmer headlights.",station wagon,sports car,2,0.6613981513817576,incertitude
+541,36QZ6V1589BMY0ZTQ38QHK23Y8MUSS-1,"Glenda always drove the station wagon at night instead of the sports car, because the _ had brighter headlights.",station wagon,sports car,1,0.6513678965916915,incertitude
+542,3CIS7GGG67X0I6TI960LK1MWLVOUE1-2,"Ryan ran over Ian's guinea pig with his car, causing _ to feel a great deal of pain.",Ryan,Ian,2,0.6460827322490499,incertitude
+543,3CIS7GGG67X0I6TI960LK1MWLVOUE1-1,"Ryan ran over Ian's guinea pig with his car, causing _ to feel a great deal of guilt.",Ryan,Ian,1,0.6839186825789567,incertitude
+544,3V8JSVE8YYO25QEGZ9LAVO41T4QEY9-1,"It was easier to prevent the post from falling over than the beam, because the _ was heavy.",beam,post,1,0.03708590990029713,autre
+545,3V8JSVE8YYO25QEGZ9LAVO41T4QEY9-2,"It was easier to prevent the post from falling over than the beam, because the _ was light.",beam,post,2,0.026447118545526286,autre
+546,3D3B8GE892PR1GVY0B95QJAETLY9PO-2,It was easy for Joel but not Kevin to have fun on the camping trip because _ had not learned how to enjoy the outdoors.,Joel,Kevin,2,0.4853450420441026,incertitude
+547,3D3B8GE892PR1GVY0B95QJAETLY9PO-1,It was easy for Joel but not Kevin to have fun on the camping trip because _ learned early how to enjoy the outdoors.,Joel,Kevin,1,0.3597522946724117,incertitude
+548,39TX062QX1MAVN895TICTJTVVXM3XO-2,"Dennis had a much higher testosterone level than Christopher, so _ started to worry about being able to have children.",Dennis,Christopher,2,0.19330442950566754,autre
+549,39TX062QX1MAVN895TICTJTVVXM3XO-1,"Dennis had a much higher testosterone level than Christopher, so _ didn't have to worry about being able to have children.",Dennis,Christopher,1,0.11351994618778523,autre
+550,31ODACBENUDU67SC9UOL7J5EQ59SQ9-1,The ability to study French came easier to Angela than Samantha because _ had a strong language background.,Angela,Samantha,1,0.16709475503552562,autre
+551,31ODACBENUDU67SC9UOL7J5EQ59SQ9-2,The ability to study French came easier to Angela than Samantha because _ did not have a strong language background.,Angela,Samantha,2,0.19224139695358264,autre
+552,33P2GD6NRP6YZKF85T4PZHACDA8KHK-1,"The pool cue used by Emily at the billiards hall was covered with more chalk than the one used by Betty; consequently, _ was practically flawless when breaking.",Emily,Betty,1,0.13689813800569176,autre
+553,33P2GD6NRP6YZKF85T4PZHACDA8KHK-2,"The pool cue used by Emily at the billiards hall was covered with more chalk than the one used by Betty; consequently, _ was practically incompetent when breaking.",Emily,Betty,2,0.3735436650603613,incertitude
+554,3PCPFX4U40OL22NQ3AOM0KMZ1DNFQH-1,Katrina loves the taste of lettuce but Angela doesn't. _ ordered a big salad for dinner.,Katrina,Angela,1,0.4640827441428345,incertitude
+555,3PCPFX4U40OL22NQ3AOM0KMZ1DNFQH-2,Katrina loves the taste of lettuce but Angela doesn't. _ ordered a big steak for dinner.,Katrina,Angela,2,0.4164698790056419,incertitude
+556,3PKVGQTFIHIREUJLLF5AUV3K8WLRYA-1,"Jason approached Steven to deliver the official subpoena and court summons, because _ was employed as a process server.",Jason,Steven,1,0.32098677443817175,incertitude
+557,3PKVGQTFIHIREUJLLF5AUV3K8WLRYA-2,"Jason approached Steven to deliver the official subpoena and court summons, because _ was being sued.",Jason,Steven,2,0.4081190896791651,incertitude
+558,3PN6H8C9R64BBR1K768AEISIFNKDAL-2,The mother always consulted a book for her pregnancy because the _ was very  informative.,pregnancy,book,2,0.11139148228439881,autre
+559,3PN6H8C9R64BBR1K768AEISIFNKDAL-1,The mother always consulted a book for her pregnancy because the _ was very difficult.,pregnancy,book,1,0.41174777465265555,incertitude
+560,3DGDV62G7QNVVL96Z06Q8UQ9HIVP24-2,"When Manny bought a new dog bed for the cage, he was disappointed when he tried to put it in. The _ was too small.",dog bed,cage,2,0.03878823965412278,autre
+561,3DGDV62G7QNVVL96Z06Q8UQ9HIVP24-1,"When Manny bought a new dog bed for the cage, he was disappointed when he tried to put it in. The _ was too big.",dog bed,cage,1,0.06763040371834302,autre
+562,3SZYX62S5GYJUNPM1Z27EHER7V975O-2,"Natalie helped Monica to get into a treatment program, after _ told of her drug addiction.",Natalie,Monica,2,0.07171203194069865,autre
+563,3SZYX62S5GYJUNPM1Z27EHER7V975O-1,"Natalie helped Monica to get into a treatment program, after _ heard of her drug addiction.",Natalie,Monica,1,0.06440475371956884,autre
+564,30OITAWPBSHEIOWH1WD098WV0469HX-1,Nelson went to the doctors office without Dennis because _ had to change his prescription.,Nelson,Dennis,1,0.04018768074942662,autre
+565,30OITAWPBSHEIOWH1WD098WV0469HX-2,Nelson went to the doctors office without Dennis because _ had to change the engine oil.,Nelson,Dennis,2,0.14668490832939843,autre
+566,30Y6N4AHYPUOGJOUPJIWHATJQ5TDRW-2,The horse prefers the pasture over the barn because there is less room in the _ for the horse to stretch.,pasture,barn,2,0.5855860423531474,incertitude
+567,30Y6N4AHYPUOGJOUPJIWHATJQ5TDRW-1,The horse prefers the pasture over the barn because there is more room in the _ for the horse to stretch.,pasture,barn,1,0.4628237509283075,incertitude
+568,3KQC8JMJGE6S3M71KNCQIVT908NH37-2,She was never able to use lash curlers on her lashes because the _ are too large.,lashes,curlers,2,0.07108529143094529,autre
+569,3KQC8JMJGE6S3M71KNCQIVT908NH37-1,She was never able to use lash curlers on her lashes because the _ are too thin.,lashes,curlers,1,0.10422502768189328,autre
+570,37VE3DA4YUFICSC7FIFW8G3D0EBBHO-2,"Ian asked Kevin to help with their taxes because _ was a successful, trained accountant.",Ian,Kevin,2,0.11088965639583877,autre
+571,37VE3DA4YUFICSC7FIFW8G3D0EBBHO-1,"Ian was asked by Kevin to help with their taxes because _ was a successful, trained accountant.",Ian,Kevin,1,0.08783865496350907,autre
+572,3ROUCZ907H8RHSMA7YR8Q7OM9ZFOOB-1,"Hangovers are really bad, but they are not as bad as migraines, because the _ are gone quick.",hangovers,migraines,1,0.2666479525110454,incertitude
+573,3ROUCZ907H8RHSMA7YR8Q7OM9ZFOOB-2,"Hangovers are really bad, but they are not as bad as migraines, because the _ last awhile.",hangovers,migraines,2,0.29462900242819845,incertitude
+574,3IJ95K7NDXA6D56TY22NEBR624CNGS-1,"Since Jennifer was in need of clothing while Natalie had extra, _ bought clothes from the thrift shop.",Jennifer,Natalie,1,0.06906409896907766,autre
+575,3IJ95K7NDXA6D56TY22NEBR624CNGS-2,"Since Jennifer was in need of clothing while Natalie had extra, _ gave clothes to the thrift shop.",Jennifer,Natalie,2,0.08048579185998561,autre
+576,3VADEH0UHEBO0KQ4TFLWZC3DGTESPT-2,He found he had baking powder for the cake but borrowed baking soda from his neighbor since the _ was full.,soda,powder,2,0.6679708638181712,incertitude
+577,3VADEH0UHEBO0KQ4TFLWZC3DGTESPT-1,He found he had baking powder for the cake but borrowed baking soda from his neighbor since the _ was empty.,soda,powder,1,0.608237633305156,incertitude
+578,3IYI9285WUEC7SYA1GQCNBDJKKNJCC-1,Justin was very good at playing music on the guitar unlike Craig because _ was very musical.,Justin,Craig,1,0.36699586152365066,incertitude
+579,3IYI9285WUEC7SYA1GQCNBDJKKNJCC-2,Justin was very good at playing music on the guitar unlike Craig because _ was very sporty.,Justin,Craig,2,0.3729390934789914,incertitude
+580,3D1UCPY6GINZAB68HJIK5I0AXUH388-2,Sheila didn’t check the temperature of her flat iron before straightening her hair. The _ was fried.,iron,hair,2,0.6626752709842312,incertitude
+581,3D1UCPY6GINZAB68HJIK5I0AXUH388-1,Sheila didn’t check the temperature of her flat iron before straightening hair. The _ was hot.,iron,hair,1,0.5,incertitude
+582,36KM3FWE3TQZT52SOR8VPK69K5E70Y-2,Callie practiced dancing more than she practiced guitar although the recital next week was for the _ .,dancing,guitar,2,0.26159175537529433,incertitude
+583,36KM3FWE3TQZT52SOR8VPK69K5E70Y-1,Callie practiced dancing more than she practiced guitar because the recital next week was for the _ .,dancing,guitar,1,0.33543049550861365,incertitude
+584,334ZEL5JX8T6FKE3EF8HACYN590OSV-2,The dog's hair had to be removed after it got stuck in the mud because the _ was clean.,mud,hair,2,0.9026301348356235,chores
+585,334ZEL5JX8T6FKE3EF8HACYN590OSV-1,The dog's hair had to be removed after it got stuck in the mud because the _ was disgusting.,mud,hair,1,0.9416643218349575,chores
+586,3NCN4N1H1IVPGDXP2EM95YOIBOFNBA-2,"Terrorism was a concern in the countryside, but hardly a problem in the city, as the _ had much peace among people.",countryside,city,2,0.12242992959015209,autre
+587,3NCN4N1H1IVPGDXP2EM95YOIBOFNBA-1,"Terrorism was a concern in the countryside, but hardly a problem in the city, as the _ had much conflict among people.",countryside,city,1,0.32062560068450446,incertitude
+588,3OEWW2KGQJ9LJ6WEXR1SNFOEAZPDOW-1,"Jason was bald, but Hunter had a full head of hair, so _ had no need to buy hair gel.",Jason,Hunter,1,0.08339925607663291,autre
+589,3OEWW2KGQJ9LJ6WEXR1SNFOEAZPDOW-2,"Jason was bald, but Hunter had a full head of hair, so _ needed to buy hair gel.",Jason,Hunter,2,0.11232848279248496,autre
+590,3VI0PC2ZA0YEB1028PE49KFFLXYXOR-1,"The hair didn't work in a bun, but looked great in a ponytail.  The _ was ugly.",bun,ponytail,1,0.4752712834343069,incertitude
+591,3VI0PC2ZA0YEB1028PE49KFFLXYXOR-2,"The hair didn't work in a bun, but looked great in a ponytail.  The _ was cute.",bun,ponytail,2,0.18134903536357277,autre
+592,3W5PY7V3UP5AG608DAW1S4HTYEGJYX-1,"it will take them the whole of tomorrow to sort the short sticks, the long ones lasted a few hours only, the _ ones are visible.",long,short,1,0.14494759513981872,autre
+593,3W5PY7V3UP5AG608DAW1S4HTYEGJYX-2,"it will take them the whole of tomorrow to sort the short sticks, the long ones lasted a few hours only, the _ ones are imperceptible .",long,short,2,0.16174763760741168,autre
+594,3KA7IJSNW8JPJY92ITZ19NTCAWUBPR-1,"The clouds evoked great fear in the people, while the clear skies calmed them, because the _ were so foreboding.",clouds,skies,1,0.5241576735266115,incertitude
+595,3KA7IJSNW8JPJY92ITZ19NTCAWUBPR-2,"The clouds evoked great fear in the people, while the clear skies calmed them, because the _ were so comforting.",clouds,skies,2,0.24426177865786516,autre
+596,32TZXEA1ONY2H75RICEO0D59YXA14V-2,The disease was very contagious. His clothes and homes had to be burned. The _ were ragged.,homes,clothes,2,0.8473929087038605,chores
+597,32TZXEA1ONY2H75RICEO0D59YXA14V-1,The disease was very contagious. His clothes and homes had to be burned. The _ were huge.,homes,clothes,1,0.6484705628287688,incertitude
+598,30QQTY5GMKI0F2F120AFMT67BR6U7W-1,Dina fed her children yogurt instead of ice cream because she thought that the _ was healthy.,yogurt,ice cream,1,0.5623952365766032,incertitude
+599,30QQTY5GMKI0F2F120AFMT67BR6U7W-2,Dina fed her children yogurt instead of ice cream because she thought that the _ was unhealthy.,yogurt,ice cream,2,0.6446134607986616,incertitude
+600,3A3KKYU7P3FWS9BT16R5NZOURYHMW7-1,"Heather bought a doll for her daughters cradle the doll did not fit, the _ was too small.",cradle,doll,1,0.032849849228946314,autre
+601,3A3KKYU7P3FWS9BT16R5NZOURYHMW7-2,"Heather bought a doll for her daughters cradle the doll did not fit, the _ was too big.",cradle,doll,2,0.037369993548969915,autre
+602,3FDWKV9VCPGYUULVQ4O4X9R6VHMUM4-2,They need to update their kitchen cabinets after buying more dishes because the _ are excessive.,cabinets,dishes,2,0.39690561555681825,incertitude
+603,3FDWKV9VCPGYUULVQ4O4X9R6VHMUM4-1,They need to update their kitchen cabinets after buying more dishes because the _ are small.,cabinets,dishes,1,0.39274402418476906,incertitude
+604,35YHTYFL1G1D7AJ7P9IW67L7IASVFR-1,"Because Robert was experiencing hair loss and Brian was not, _ was jealous of his hair.",Robert,Brian,1,0.31492734585577337,incertitude
+605,35YHTYFL1G1D7AJ7P9IW67L7IASVFR-2,"Even though Robert was experiencing hair loss and Brian was not, _ was jealous of his hair.",Robert,Brian,2,0.16415102277575652,autre
+606,31GN6YMHLR6EKTN551ZRR6B98MFSWD-1,"She wanted to make a toilet paper roll butterfly by using the roll's tube and paint, but was unable to finish because the _ was too scarce.",paint,tube,1,0.36967062295101366,incertitude
+607,31GN6YMHLR6EKTN551ZRR6B98MFSWD-2,"She wanted to make a toilet paper roll butterfly by using the roll's tube and paint, but was unable to finish because the _ was too large.",paint,tube,2,0.3342657168943343,incertitude
+608,3X52SWXE0ZJYDCY98F9RC17QLFAWCT-2,"Lawrence shovelled their driveway after the snow storm while Aaron avoided doing so, so _ had a driveway that was covered in snow.",Lawrence,Aaron,2,0.7536750427677721,chores
+609,3X52SWXE0ZJYDCY98F9RC17QLFAWCT-1,"Lawrence shovelled their driveway after the snow storm while Aaron avoided doing so, so _ had a driveway that was free from snow.",Lawrence,Aaron,1,0.5988887798312589,incertitude
+610,3HEM8MA6HBQCN4BR1BWR4COBWICQP7-1,Cathy felt a stronger bond with her dog than her cat because her _ was very aloof.,cat,dog,1,0.46033155459401903,incertitude
+611,3HEM8MA6HBQCN4BR1BWR4COBWICQP7-2,Cathy felt a stronger bond with her dog than her cat because her _ was very affectionate.,cat,dog,2,0.40464020194447337,incertitude
+612,3TKXBROM5VO3KVKATQMYYEBDWK1IJU-2,"Patricia always had to clean up after Angela, because _ didn't care about living in filth.",Patricia,Angela,2,0.8496013262453478,chores
+613,3TKXBROM5VO3KVKATQMYYEBDWK1IJU-1,"Patricia always had to clean up after Angela, because _ didn't want to live in filth.",Patricia,Angela,1,0.8440605845605051,chores
+614,3M93N4X8HM1SE9N6Y2GC2GH17WPJS5-1,Michael asked Brett for help moving a desk. _ wouldn't have been able to do it alone.,Michael,Brett,1,0.4315347198618484,incertitude
+615,3M93N4X8HM1SE9N6Y2GC2GH17WPJS5-2,Michael asked Brett for help moving a desk. _ wouldn't have been able to do it by himself either.,Michael,Brett,2,0.46587823026286507,incertitude
+616,35ZRNT9RUKC2V3TOO07G24QACWE3OY-1,Jennifer liked to smoke pot but Laura like to smoke cigars. _ wound up in the local jail for smoking their favorite thing in public.,Jennifer,Laura,1,0.6667150187270445,incertitude
+617,35ZRNT9RUKC2V3TOO07G24QACWE3OY-2,Jennifer liked to smoke pot but Laura like to smoke cigars. _ avoided the local jail for smoking their favorite thing in public.,Jennifer,Laura,2,0.6217314254860865,incertitude
+618,3QXFBUZ4ZKEJ8VQ2V3E9S6J0AZ5GUB-2,"Jeffrey believed Robert was spying on him during the private event, because _ was sneaky.",Jeffrey,Robert,2,0.1849325559017413,autre
+619,3QXFBUZ4ZKEJ8VQ2V3E9S6J0AZ5GUB-1,"Jeffrey believed Robert was spying on him during the private event, because _ was paranoid.",Jeffrey,Robert,1,0.16483704610909386,autre
+620,3K2CEDRACBZ40S7Z61MU0FHVN6HTMA-1,"Frank visited the bank to get a loan to buy a new car, and the _ was very skeptical.",loan,car,1,0.13686186700732533,autre
+621,3K2CEDRACBZ40S7Z61MU0FHVN6HTMA-2,"Frank visited the bank to get a loan to buy a new car, and the _ was very bold.",loan,car,2,0.06184052068986922,autre
+622,3VZYA8PITQCK61O90YTYR0SCSTN506-1,"Christopher needs Ian's advice on how to create a positive classroom atmosphere, because _ is a new teacher.",Christopher,Ian,1,0.1872842256053354,autre
+623,3VZYA8PITQCK61O90YTYR0SCSTN506-2,"Christopher needs Ian's advice on how to create a positive classroom atmosphere, because _ is an experienced teacher.",Christopher,Ian,2,0.16246195699694818,autre
+624,3O2Y2UIUCQSZRZPVQ54P4YAQ27VFKP-2,Emily was having difficulty going through puberty but not Christine because _ had very weak acne causing hormones.,Emily,Christine,2,0.24023880260938082,autre
+625,3O2Y2UIUCQSZRZPVQ54P4YAQ27VFKP-1,Emily was having difficulty going through puberty but not Christine because _ had very strong acne causing hormones.,Emily,Christine,1,0.28014649481668574,incertitude
+626,3A520CCNWNY198GDJ37US2MULV6EAD-1,"Hunter likes tulips and Ryan does not, so _ went to buy some from the store.",Hunter,Ryan,1,0.04870624425402768,autre
+627,3A520CCNWNY198GDJ37US2MULV6EAD-2,"Hunter likes tulips and Ryan does not, so _ refused to buy some from the store.",Hunter,Ryan,2,0.04137246074912546,autre
+628,3H6W48L9F4N2DC86TMJX43IPRLBWPR-2,"Victoria decided to choose express shipping while Katrina did not, so _ got her order last.",Victoria,Katrina,2,0.08277750910579557,autre
+629,3H6W48L9F4N2DC86TMJX43IPRLBWPR-1,"Victoria decided to choose express shipping while Katrina did not, so _ got her order first.",Victoria,Katrina,1,0.10478753595359092,autre
+630,3MD8CKRQZ11GDUNTJDG7C6C4J58RJ9-1,"The tutor was more suited for English studies than the professor , since _ was an effective teacher.",tutor,professor,1,0.3151277507998921,incertitude
+631,3MD8CKRQZ11GDUNTJDG7C6C4J58RJ9-2,"The tutor was more suited for English studies than the professor , since _ was an inadequate teacher.",tutor,professor,2,0.4683342413636338,incertitude
+632,3UEDKCTP9X416V9WSKID84LHXXOK76-2,Victoria was more fashionable than Elena because _ always was concerned about leaving dandruff on their shirts.,Victoria,Elena,2,0.7217930401740356,incertitude
+633,3UEDKCTP9X416V9WSKID84LHXXOK76-1,Victoria was more fashionable than Elena but  _ always was concerned about leaving dandruff on their shirts.,Victoria,Elena,1,0.6947562171626674,incertitude
+634,3EGKVCRQFY6JSC139GVKMEMPGCSBY6-2,Carrie needed to be vigilant about her bone health which Natalie worries about since _ is concerned.,Carrie,Natalie,2,0.21497922493678134,autre
+635,3EGKVCRQFY6JSC139GVKMEMPGCSBY6-1,Carrie needed to be vigilant about her bone health which Natalie worries about since _ is elderly.,Carrie,Natalie,1,0.21776455247726922,autre
+636,3566S7OX5FXZ0UNAKACV3PPIOHJ17V-2,The waves destroyed the garage but left the house intact because the _ was so far from the shore.,garage,house,2,0.3923583720054642,incertitude
+637,3566S7OX5FXZ0UNAKACV3PPIOHJ17V-1,The waves destroyed the garage but left the house intact because the _ was so close to the shore.,garage,house,1,0.34390910680956926,incertitude
+638,3HEM8MA6H9AXTFCKHDKRCE03806PQT-1,The science student tried using the telescope to see the galaxy but the _ was too far.,galaxy,telescope,1,0.24047500245538425,autre
+639,3HEM8MA6H9AXTFCKHDKRCE03806PQT-2,The science student tried using the telescope to see the galaxy but the _ was too weak.,galaxy,telescope,2,0.2396957276207503,autre
